@@ -3,6 +3,8 @@ Countries and Provinces / States / Regions
 
 Data files listing Countries and their related Provinces/States/Regions.
 
+Not all countries have a province file yet, those that do have a `filename` attribute in `countries.json`.
+
 I created this project to help with populating HTML form fields, but it had a wide range of possible uses. Pull requests are welcome!
 
 ## Credits
