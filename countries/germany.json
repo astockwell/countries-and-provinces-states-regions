@@ -1,0 +1,18 @@
+[
+	{"name": "Baden-Wurttemberg", "code": "DE-BW"},
+	{"name": "Bavaria", "code": "DE-BY"},
+	{"name": "Berlin", "code": "DE-BE"},
+	{"name": "Brandenburg", "code": "DE-BB"},
+	{"name": "Bremen", "code": "DE-HB"},
+	{"name": "Hamburg", "code": "DE-HH"},
+	{"name": "Hesse", "code": "DE-HE"},
+	{"name": "Lower Saxony", "code": "DE-NI"},
+	{"name": "Mecklenburg-West Pomerania", "code": "DE-MV"},
+	{"name": "North Rhine-Westphalia", "code": "DE-NW"},
+	{"name": "Rhineland-Palatinate", "code": "DE-RP"},
+	{"name": "Saarland", "code": "DE-SL"},
+	{"name": "Saxony", "code": "DE-SN"},
+	{"name": "Saxony-Anhalt", "code": "DE-ST"},
+	{"name": "Schleswig-Holstein", "code": "DE-SH"},
+	{"name": "Thuringia", "code": "DE-TH"}
+]
