@@ -1,0 +1,18 @@
+[
+	{"name": "Johor", "code": "JHR"},
+	{"name": "Kedah", "code": "KDH"},
+	{"name": "Kelantan", "code": "KTN"},
+	{"name": "Melaka", "code": "MLK"},
+	{"name": "Negeri Sembilan", "code": "NSN"},
+	{"name": "Pahang", "code": "PHG"},
+	{"name": "Perak", "code": "PRK"},
+	{"name": "Perlis", "code": "PLS"},
+	{"name": "Pulau Pinang", "code": "PNG"},
+	{"name": "Sabah", "code": "SBH"},
+	{"name": "Sarawak", "code": "SWK"},
+	{"name": "Selangor", "code": "SGR"},
+	{"name": "Terengganu", "code": "TRG"},
+	{"name": "W.P. Kuala Lumpur", "code": "KUL"},
+	{"name": "W.P. Labuan", "code": "LBN"},
+	{"name": "W.P. Putrajaya", "code": "PJY"}
+]

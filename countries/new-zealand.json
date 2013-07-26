@@ -1,0 +1,17 @@
+[
+	{"name": "Auckland", "code": "AK"},
+	{"name": "Bay of Plenty", "code": "BP"},
+	{"name": "Canterbury", "code": "CT"},
+	{"name": "Hawke&rsquo;s Bay", "code": "HB"},
+	{"name": "Manawatu-Wanganui", "code": "MW"},
+	{"name": "Marlborough", "code": "MB"},
+	{"name": "Nelson", "code": "NS"},
+	{"name": "Northland", "code": "NL"},
+	{"name": "Otago", "code": "OT"},
+	{"name": "Southland", "code": "SL"},
+	{"name": "Taranaki", "code": "TK"},
+	{"name": "Tasman", "code": "TM"},
+	{"name": "Waikato", "code": "WA"},
+	{"name": "Wellington", "code": "WE"},
+	{"name": "West Coast", "code": "WC"}
+]
