@@ -140,7 +140,7 @@
 	{"name": "Mauritania", "code": "MR"},
 	{"name": "Mauritius", "code": "MU"},
 	{"name": "Mayotte", "code": "YT"},
-	{"name": "Mexico", "code": "MX"},
+	{"name": "Mexico", "code": "MX", "filename": "mexico"},
 	{"name": "Micronesia, Federated States of", "code": "FM"},
 	{"name": "Moldova, Republic of", "code": "MD"},
 	{"name": "Monaco", "code": "MC"},
