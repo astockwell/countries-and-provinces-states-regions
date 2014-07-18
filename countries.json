@@ -228,7 +228,7 @@
 	{"name": "Ukraine", "code": "UA"},
 	{"name": "United Arab Emirates", "code": "AE"},
 	{"name": "United Kingdom", "code": "GB", "filename": "united-kingdom"},
-	{"name": "United States", "code": "US", "filename": "united-kingdom"},
+	{"name": "United States", "code": "US", "filename": "united-states"},
 	{"name": "United States Minor Outlying Islands", "code": "UM"},
 	{"name": "Uruguay", "code": "UY"},
 	{"name": "Uzbekistan", "code": "UZ"},
