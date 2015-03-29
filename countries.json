@@ -9,7 +9,7 @@
 	{"name": "Anguilla", "code": "AI"},
 	{"name": "Antarctica", "code": "AQ"},
 	{"name": "Antigua and Barbuda", "code": "AG"},
-	{"name": "Argentina", "code": "AR"},
+	{"name": "Argentina", "code": "AR", "filename": "argentina"},
 	{"name": "Armenia", "code": "AM"},
 	{"name": "Aruba", "code": "AW"},
 	{"name": "Australia", "code": "AU", "filename": "australia"},
