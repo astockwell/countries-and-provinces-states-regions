@@ -1,5 +1,7 @@
 require '../lib/get_from_wikipedia'
 
-GetFromWikipedia.Scrape("VE", "venezuela") do |name|
+filename = File.basename(__FILE__, ".rb")
+
+GetFromWikipedia.Scrape("VE", filename) do |name|
 	name.gsub("Distrito Federal") { |match| "Distrito Capital" }
 end

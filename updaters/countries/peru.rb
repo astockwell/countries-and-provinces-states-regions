@@ -1,3 +1,5 @@
 require '../lib/get_from_wikipedia'
 
-GetFromWikipedia.Scrape("PE", "peru")
+filename = File.basename(__FILE__, ".rb")
+
+GetFromWikipedia.Scrape("PE", filename)
