@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Amazonas",
+		"code": "CO-AMA"
+	},
+	{
+		"name": "Antioquia",
+		"code": "CO-ANT"
+	},
+	{
+		"name": "Arauca",
+		"code": "CO-ARA"
+	},
+	{
+		"name": "Atlántico",
+		"code": "CO-ATL"
+	},
+	{
+		"name": "Bolívar",
+		"code": "CO-BOL"
+	},
+	{
+		"name": "Boyacá",
+		"code": "CO-BOY"
+	},
+	{
+		"name": "Caldas",
+		"code": "CO-CAL"
+	},
+	{
+		"name": "Caquetá",
+		"code": "CO-CAQ"
+	},
+	{
+		"name": "Casanare",
+		"code": "CO-CAS"
+	},
+	{
+		"name": "Cauca",
+		"code": "CO-CAU"
+	},
+	{
+		"name": "Cesar",
+		"code": "CO-CES"
+	},
+	{
+		"name": "Chocó",
+		"code": "CO-CHO"
+	},
+	{
+		"name": "Cundinamarca",
+		"code": "CO-CUN"
+	},
+	{
+		"name": "Córdoba",
+		"code": "CO-COR"
+	},
+	{
+		"name": "Distrito Capital de Bogotá",
+		"code": "CO-DC"
+	},
+	{
+		"name": "Guainía",
+		"code": "CO-GUA"
+	},
+	{
+		"name": "Guaviare",
+		"code": "CO-GUV"
+	},
+	{
+		"name": "Huila",
+		"code": "CO-HUI"
+	},
+	{
+		"name": "La Guajira",
+		"code": "CO-LAG"
+	},
+	{
+		"name": "Magdalena",
+		"code": "CO-MAG"
+	},
+	{
+		"name": "Meta",
+		"code": "CO-MET"
+	},
+	{
+		"name": "Nariño",
+		"code": "CO-NAR"
+	},
+	{
+		"name": "Norte de Santander",
+		"code": "CO-NSA"
+	},
+	{
+		"name": "Putumayo",
+		"code": "CO-PUT"
+	},
+	{
+		"name": "Quindío",
+		"code": "CO-QUI"
+	},
+	{
+		"name": "Risaralda",
+		"code": "CO-RIS"
+	},
+	{
+		"name": "San Andrés, Providencia y Santa Catalina",
+		"code": "CO-SAP"
+	},
+	{
+		"name": "Santander",
+		"code": "CO-SAN"
+	},
+	{
+		"name": "Sucre",
+		"code": "CO-SUC"
+	},
+	{
+		"name": "Tolima",
+		"code": "CO-TOL"
+	},
+	{
+		"name": "Valle del Cauca",
+		"code": "CO-VAC"
+	},
+	{
+		"name": "Vaupés",
+		"code": "CO-VAU"
+	},
+	{
+		"name": "Vichada",
+		"code": "CO-VID"
+	}
+]
