@@ -230,7 +230,7 @@
 	{"name": "United Kingdom", "code": "GB", "filename": "united-kingdom"},
 	{"name": "United States", "code": "US", "filename": "united-states"},
 	{"name": "United States Minor Outlying Islands", "code": "UM"},
-	{"name": "Uruguay", "code": "UY", "continent": "South America"},
+	{"name": "Uruguay", "code": "UY", "continent": "South America", "filename": "uruguay"},
 	{"name": "Uzbekistan", "code": "UZ"},
 	{"name": "Vanuatu", "code": "VU"},
 	{"name": "Venezuela", "code": "VE", "continent": "South America", "filename": "venezuela"},

@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Artigas",
+		"code": "UY-AR"
+	},
+	{
+		"name": "Canelones",
+		"code": "UY-CA"
+	},
+	{
+		"name": "Cerro Largo",
+		"code": "UY-CL"
+	},
+	{
+		"name": "Colonia",
+		"code": "UY-CO"
+	},
+	{
+		"name": "Durazno",
+		"code": "UY-DU"
+	},
+	{
+		"name": "Flores",
+		"code": "UY-FS"
+	},
+	{
+		"name": "Florida",
+		"code": "UY-FD"
+	},
+	{
+		"name": "Lavalleja",
+		"code": "UY-LA"
+	},
+	{
+		"name": "Maldonado",
+		"code": "UY-MA"
+	},
+	{
+		"name": "Montevideo",
+		"code": "UY-MO"
+	},
+	{
+		"name": "Paysandú",
+		"code": "UY-PA"
+	},
+	{
+		"name": "Rivera",
+		"code": "UY-RV"
+	},
+	{
+		"name": "Rocha",
+		"code": "UY-RO"
+	},
+	{
+		"name": "Río Negro",
+		"code": "UY-RN"
+	},
+	{
+		"name": "Salto",
+		"code": "UY-SA"
+	},
+	{
+		"name": "San José",
+		"code": "UY-SJ"
+	},
+	{
+		"name": "Soriano",
+		"code": "UY-SO"
+	},
+	{
+		"name": "Tacuarembó",
+		"code": "UY-TA"
+	},
+	{
+		"name": "Treinta y Tres",
+		"code": "UY-TT"
+	}
+]
