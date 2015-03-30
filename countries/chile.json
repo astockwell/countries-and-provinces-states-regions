@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Aisén del General Carlos Ibañez del Campo",
+		"code": "CL-AI"
+	},
+	{
+		"name": "Antofagasta",
+		"code": "CL-AN"
+	},
+	{
+		"name": "Araucanía",
+		"code": "CL-AR"
+	},
+	{
+		"name": "Arica y Parinacota",
+		"code": "CL-AP"
+	},
+	{
+		"name": "Atacama",
+		"code": "CL-AT"
+	},
+	{
+		"name": "Bío-Bío",
+		"code": "CL-BI"
+	},
+	{
+		"name": "Coquimbo",
+		"code": "CL-CO"
+	},
+	{
+		"name": "Libertador General Bernardo O'Higgins",
+		"code": "CL-LI"
+	},
+	{
+		"name": "Los Lagos",
+		"code": "CL-LL"
+	},
+	{
+		"name": "Los Ríos",
+		"code": "CL-LR"
+	},
+	{
+		"name": "Magallanes",
+		"code": "CL-MA"
+	},
+	{
+		"name": "Maule",
+		"code": "CL-ML"
+	},
+	{
+		"name": "Región Metropolitana de Santiago",
+		"code": "CL-RM"
+	},
+	{
+		"name": "Tarapacá",
+		"code": "CL-TA"
+	},
+	{
+		"name": "Valparaíso",
+		"code": "CL-VS"
+	}
+]
