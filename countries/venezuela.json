@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Amazonas",
+		"code": "VE-Z"
+	},
+	{
+		"name": "Anzoátegui",
+		"code": "VE-B"
+	},
+	{
+		"name": "Apure",
+		"code": "VE-C"
+	},
+	{
+		"name": "Aragua",
+		"code": "VE-D"
+	},
+	{
+		"name": "Barinas",
+		"code": "VE-E"
+	},
+	{
+		"name": "Bolívar",
+		"code": "VE-F"
+	},
+	{
+		"name": "Carabobo",
+		"code": "VE-G"
+	},
+	{
+		"name": "Cojedes",
+		"code": "VE-H"
+	},
+	{
+		"name": "Delta Amacuro",
+		"code": "VE-Y"
+	},
+	{
+		"name": "Dependencias Federales",
+		"code": "VE-W"
+	},
+	{
+		"name": "Distrito Capital",
+		"code": "VE-A"
+	},
+	{
+		"name": "Falcón",
+		"code": "VE-I"
+	},
+	{
+		"name": "Guárico",
+		"code": "VE-J"
+	},
+	{
+		"name": "Lara",
+		"code": "VE-K"
+	},
+	{
+		"name": "Miranda",
+		"code": "VE-M"
+	},
+	{
+		"name": "Monagas",
+		"code": "VE-N"
+	},
+	{
+		"name": "Mérida",
+		"code": "VE-L"
+	},
+	{
+		"name": "Nueva Esparta",
+		"code": "VE-O"
+	},
+	{
+		"name": "Portuguesa",
+		"code": "VE-P"
+	},
+	{
+		"name": "Sucre",
+		"code": "VE-R"
+	},
+	{
+		"name": "Trujillo",
+		"code": "VE-T"
+	},
+	{
+		"name": "Táchira",
+		"code": "VE-S"
+	},
+	{
+		"name": "Vargas",
+		"code": "VE-X"
+	},
+	{
+		"name": "Yaracuy",
+		"code": "VE-U"
+	},
+	{
+		"name": "Zulia",
+		"code": "VE-V"
+	}
+]
