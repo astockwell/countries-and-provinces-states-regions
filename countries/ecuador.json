@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Azuay",
+		"code": "EC-A"
+	},
+	{
+		"name": "Bolívar",
+		"code": "EC-B"
+	},
+	{
+		"name": "Carchi",
+		"code": "EC-C"
+	},
+	{
+		"name": "Cañar",
+		"code": "EC-F"
+	},
+	{
+		"name": "Chimborazo",
+		"code": "EC-H"
+	},
+	{
+		"name": "Cotopaxi",
+		"code": "EC-X"
+	},
+	{
+		"name": "El Oro",
+		"code": "EC-O"
+	},
+	{
+		"name": "Esmeraldas",
+		"code": "EC-E"
+	},
+	{
+		"name": "Galápagos",
+		"code": "EC-W"
+	},
+	{
+		"name": "Guayas",
+		"code": "EC-G"
+	},
+	{
+		"name": "Imbabura",
+		"code": "EC-I"
+	},
+	{
+		"name": "Loja",
+		"code": "EC-L"
+	},
+	{
+		"name": "Los Ríos",
+		"code": "EC-R"
+	},
+	{
+		"name": "Manabí",
+		"code": "EC-M"
+	},
+	{
+		"name": "Morona-Santiago",
+		"code": "EC-S"
+	},
+	{
+		"name": "Napo",
+		"code": "EC-N"
+	},
+	{
+		"name": "Orellana",
+		"code": "EC-D"
+	},
+	{
+		"name": "Pastaza",
+		"code": "EC-Y"
+	},
+	{
+		"name": "Pichincha",
+		"code": "EC-P"
+	},
+	{
+		"name": "Santa Elena",
+		"code": "EC-SE"
+	},
+	{
+		"name": "Santo Domingo de los Tsáchilas",
+		"code": "EC-SD"
+	},
+	{
+		"name": "Sucumbíos",
+		"code": "EC-U"
+	},
+	{
+		"name": "Tungurahua",
+		"code": "EC-T"
+	},
+	{
+		"name": "Zamora-Chinchipe",
+		"code": "EC-Z"
+	}
+]
