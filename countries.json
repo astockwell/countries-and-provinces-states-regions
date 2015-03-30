@@ -25,7 +25,7 @@
 	{"name": "Benin", "code": "BJ"},
 	{"name": "Bermuda", "code": "BM"},
 	{"name": "Bhutan", "code": "BT"},
-	{"name": "Bolivia", "code": "BO"},
+	{"name": "Bolivia", "code": "BO", "filename": "bolivia"},
 	{"name": "Bosnia and Herzegovina", "code": "BA"},
 	{"name": "Botswana", "code": "BW"},
 	{"name": "Bouvet Island", "code": "BV"},

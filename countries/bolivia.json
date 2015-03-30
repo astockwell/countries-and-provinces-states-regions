@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Chuquisaca",
+		"code": "BO-H"
+	},
+	{
+		"name": "Cochabamba",
+		"code": "BO-C"
+	},
+	{
+		"name": "El Beni",
+		"code": "BO-B"
+	},
+	{
+		"name": "La Paz",
+		"code": "BO-L"
+	},
+	{
+		"name": "Oruro",
+		"code": "BO-O"
+	},
+	{
+		"name": "Pando",
+		"code": "BO-N"
+	},
+	{
+		"name": "Potosí",
+		"code": "BO-P"
+	},
+	{
+		"name": "Santa Cruz",
+		"code": "BO-S"
+	},
+	{
+		"name": "Tarija",
+		"code": "BO-T"
+	}
+]
