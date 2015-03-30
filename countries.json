@@ -46,7 +46,7 @@
 	{"name": "China", "code": "CN", "filename": "china"},
 	{"name": "Christmas Island", "code": "CX"},
 	{"name": "Cocos (Keeling) Islands", "code": "CC"},
-	{"name": "Colombia", "code": "CO"},
+	{"name": "Colombia", "code": "CO", "filename": "colombia"},
 	{"name": "Comoros", "code": "KM"},
 	{"name": "Congo", "code": "CG"},
 	{"name": "Congo, The Democratic Republic of the", "code": "CD"},
