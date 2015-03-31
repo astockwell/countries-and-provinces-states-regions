@@ -169,7 +169,7 @@
 	{"name": "Palestinian Territory, Occupied", "code": "PS"},
 	{"name": "Panama", "code": "PA"},
 	{"name": "Papua New Guinea", "code": "PG"},
-	{"name": "Paraguay", "code": "PY", "continent": "South America"},
+	{"name": "Paraguay", "code": "PY", "continent": "South America", "filename": "paraguay"},
 	{"name": "Peru", "code": "PE", "continent": "South America", "filename": "peru"},
 	{"name": "Philippines", "code": "PH"},
 	{"name": "Pitcairn", "code": "PN"},

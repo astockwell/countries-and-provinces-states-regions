@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Alto Paraguay",
+		"code": "PY-16"
+	},
+	{
+		"name": "Alto Paraná",
+		"code": "PY-10"
+	},
+	{
+		"name": "Amambay",
+		"code": "PY-13"
+	},
+	{
+		"name": "Asunción",
+		"code": "PY-ASU"
+	},
+	{
+		"name": "Boquerón",
+		"code": "PY-19"
+	},
+	{
+		"name": "Caaguazú",
+		"code": "PY-5"
+	},
+	{
+		"name": "Caazapá",
+		"code": "PY-6"
+	},
+	{
+		"name": "Canindeyú",
+		"code": "PY-14"
+	},
+	{
+		"name": "Central",
+		"code": "PY-11"
+	},
+	{
+		"name": "Concepción",
+		"code": "PY-1"
+	},
+	{
+		"name": "Cordillera",
+		"code": "PY-3"
+	},
+	{
+		"name": "Guairá",
+		"code": "PY-4"
+	},
+	{
+		"name": "Itapúa",
+		"code": "PY-7"
+	},
+	{
+		"name": "Misiones",
+		"code": "PY-8"
+	},
+	{
+		"name": "Paraguarí",
+		"code": "PY-9"
+	},
+	{
+		"name": "Presidente Hayes",
+		"code": "PY-15"
+	},
+	{
+		"name": "San Pedro",
+		"code": "PY-2"
+	},
+	{
+		"name": "Ñeembucú",
+		"code": "PY-12"
+	}
+]

@@ -7,7 +7,7 @@ require_relative 'locale'
 module GetFromWikipedia
 	def self.Scrape(code, filename, options={})
 		starting_xpath = options[:starting_xpath] || '//*[@id="mw-content-text"]/table[1]//tr'
-		nested_xpath = options[:nested_xpath] || 'td[position() >= 1 and not(position() > 2)]/*[not(contains(@class, "sortkey") or contains(@class, "flagicon"))]'
+		nested_xpath = options[:nested_xpath] || 'td[position() >= 1 and not(position() > 2)]/*[not(contains(@class, "sortkey") or contains(@class, "flagicon") or contains(@class, "image"))]'
 		code_td_index = options[:code_td_index] || 0
 		name_td_index = options[:name_td_index] || 1
 

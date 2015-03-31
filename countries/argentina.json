@@ -1,29 +1,98 @@
 [
-	{"name": "Ciudad Autonoma de Buenos Aires", "code": "C"},
-	{"name": "Buenos Aires", "code": "B"},
-	{"name": "Catamarca", "code": "K"},
-	{"name": "Chaco", "code": "H"},
-	{"name": "Chubut", "code": "U"},
-	{"name": "Cordoba", "code": "X"},
-	{"name": "Corrientes", "code": "W"},
-	{"name": "Entre Rios", "code": "E"},
-	{"name": "Formosa", "code": "P"},
-	{"name": "Jujuy", "code": "Y"},
-	{"name": "La Pampa", "code": "L"},
-	{"name": "La Rioja", "code": "F"},
-	{"name": "Mendoza", "code": "M"},
-	{"name": "Misiones", "code": "N"},
-	{"name": "Neuquen", "code": "Q"},
-	{"name": "Rio Negro", "code": "R"},
-	{"name": "Salta", "code": "A"},
-	{"name": "San Juan", "code": "J"},
-	{"name": "San Luis", "code": "D"},
-	{"name": "Santa Cruz", "code": "Z"},
-	{"name": "Santa Fe", "code": "S"},
-	{"name": "Santiago del Estero", "code": "G"},
-	{"name": "Tierra del Fuego", "code": "V"},
-	{"name": "Santa Catarina", "code": "SC"},
-	{"name": "Tucuman", "code": "T"},
-	{"name": "Sergipe", "code": "SE"},
-	{"name": "Tocantins", "code": "TO"}
+	{
+		"name": "Buenos Aires",
+		"code": "AR-B"
+	},
+	{
+		"name": "Catamarca",
+		"code": "AR-K"
+	},
+	{
+		"name": "Chaco",
+		"code": "AR-H"
+	},
+	{
+		"name": "Chubut",
+		"code": "AR-U"
+	},
+	{
+		"name": "Ciudad Autónoma de Buenos Aires",
+		"code": "AR-C"
+	},
+	{
+		"name": "Corrientes",
+		"code": "AR-W"
+	},
+	{
+		"name": "Córdoba",
+		"code": "AR-X"
+	},
+	{
+		"name": "Entre Ríos",
+		"code": "AR-E"
+	},
+	{
+		"name": "Formosa",
+		"code": "AR-P"
+	},
+	{
+		"name": "Jujuy",
+		"code": "AR-Y"
+	},
+	{
+		"name": "La Pampa",
+		"code": "AR-L"
+	},
+	{
+		"name": "La Rioja",
+		"code": "AR-F"
+	},
+	{
+		"name": "Mendoza",
+		"code": "AR-M"
+	},
+	{
+		"name": "Misiones",
+		"code": "AR-N"
+	},
+	{
+		"name": "Neuquén",
+		"code": "AR-Q"
+	},
+	{
+		"name": "Río Negro",
+		"code": "AR-R"
+	},
+	{
+		"name": "Salta",
+		"code": "AR-A"
+	},
+	{
+		"name": "San Juan",
+		"code": "AR-J"
+	},
+	{
+		"name": "San Luis",
+		"code": "AR-D"
+	},
+	{
+		"name": "Santa Cruz",
+		"code": "AR-Z"
+	},
+	{
+		"name": "Santa Fe",
+		"code": "AR-S"
+	},
+	{
+		"name": "Santiago del Estero",
+		"code": "AR-G"
+	},
+	{
+		"name": "Tierra del Fuego",
+		"code": "AR-V"
+	},
+	{
+		"name": "Tucumán",
+		"code": "AR-T"
+	}
 ]

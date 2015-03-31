@@ -1,29 +1,110 @@
 [
-	{"name": "Acre", "code": "AC"},
-	{"name": "Alagoas", "code": "AL"},
-	{"name": "Amapá", "code": "AP"},
-	{"name": "Amazonas", "code": "AM"},
-	{"name": "Bahia", "code": "BA"},
-	{"name": "Ceará", "code": "CE"},
-	{"name": "Distrito Federal", "code": "DF"},
-	{"name": "Espírito Santo", "code": "ES"},
-	{"name": "Goiás", "code": "GO"},
-	{"name": "Maranhão", "code": "MA"},
-	{"name": "Mato Grosso", "code": "MT"},
-	{"name": "Mato Grosso do Sul", "code": "MS"},
-	{"name": "Minas Gerais", "code": "MG"},
-	{"name": "Pará", "code": "PA"},
-	{"name": "Paraíba", "code": "PB"},
-	{"name": "Paraná", "code": "PR"},
-	{"name": "Pernambuco", "code": "PE"},
-	{"name": "Piauí", "code": "PI"},
-	{"name": "Rio de Janeiro", "code": "RJ"},
-	{"name": "Rio Grande do Norte", "code": "RN"},
-	{"name": "Rio Grande do Sul", "code": "RS"},
-	{"name": "Rondônia", "code": "RO"},
-	{"name": "Roraima", "code": "RR"},
-	{"name": "Santa Catarina", "code": "SC"},
-	{"name": "São Paulo", "code": "SP"},
-	{"name": "Sergipe", "code": "SE"},
-	{"name": "Tocantins", "code": "TO"}
+	{
+		"name": "Acre",
+		"code": "BR-AC"
+	},
+	{
+		"name": "Alagoas",
+		"code": "BR-AL"
+	},
+	{
+		"name": "Amapá",
+		"code": "BR-AP"
+	},
+	{
+		"name": "Amazonas",
+		"code": "BR-AM"
+	},
+	{
+		"name": "Bahia",
+		"code": "BR-BA"
+	},
+	{
+		"name": "Ceará",
+		"code": "BR-CE"
+	},
+	{
+		"name": "Distrito Federal",
+		"code": "BR-DF"
+	},
+	{
+		"name": "Espírito Santo",
+		"code": "BR-ES"
+	},
+	{
+		"name": "Goiás",
+		"code": "BR-GO"
+	},
+	{
+		"name": "Maranhão",
+		"code": "BR-MA"
+	},
+	{
+		"name": "Mato Grosso",
+		"code": "BR-MT"
+	},
+	{
+		"name": "Mato Grosso do Sul",
+		"code": "BR-MS"
+	},
+	{
+		"name": "Minas Gerais",
+		"code": "BR-MG"
+	},
+	{
+		"name": "Paraná",
+		"code": "BR-PR"
+	},
+	{
+		"name": "Paraíba",
+		"code": "BR-PB"
+	},
+	{
+		"name": "Pará",
+		"code": "BR-PA"
+	},
+	{
+		"name": "Pernambuco",
+		"code": "BR-PE"
+	},
+	{
+		"name": "Piauí",
+		"code": "BR-PI"
+	},
+	{
+		"name": "Rio Grande do Norte",
+		"code": "BR-RN"
+	},
+	{
+		"name": "Rio Grande do Sul",
+		"code": "BR-RS"
+	},
+	{
+		"name": "Rio de Janeiro",
+		"code": "BR-RJ"
+	},
+	{
+		"name": "Rondônia",
+		"code": "BR-RO"
+	},
+	{
+		"name": "Roraima",
+		"code": "BR-RR"
+	},
+	{
+		"name": "Santa Catarina",
+		"code": "BR-SC"
+	},
+	{
+		"name": "Sergipe",
+		"code": "BR-SE"
+	},
+	{
+		"name": "São Paulo",
+		"code": "BR-SP"
+	},
+	{
+		"name": "Tocantins",
+		"code": "BR-TO"
+	}
 ]
