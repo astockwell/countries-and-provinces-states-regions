@@ -7,6 +7,67 @@ countries = JSON.parse(IO.read("../../countries.json").force_encoding("UTF-8").e
 
 countries.select! { |c| c["continent"] == "Europe" }
 
+def populate_gb(code, name)
+	source = "http://en.wikipedia.org/wiki/ISO_3166-2:#{code}"
+	results = []
+	preprocess = ->(s) {
+		s = s.gsub(" ") { |match| "" } # remove magical 0x2022 character
+		s = s.gsub(/\[.*?\]/) { |match| "" } # remove braces
+		return s.strip
+	}
+
+	doc = Nokogiri::HTML( open(source) )
+
+	# Countries and province
+	doc.xpath('//*[@id="mw-content-text"]/table[1]//tr').each do |tr|
+		tds = tr.xpath('td')
+		unless tds.size < 2
+			begin
+				n = preprocess.call(tds[1].text)
+				c = tds[0].text
+				t = preprocess.call(tds[2].text)
+				results << Locale.new(n, c, t)
+				rescue Exception => e
+				puts "Error encountered parsing tds (#{tds}) into Locale: #{e}"
+			end
+		end
+	end
+
+	# Nations
+	doc.xpath('//*[@id="mw-content-text"]/table[2]//tr').each do |tr|
+		tds = tr.xpath('td')
+		unless tds.size < 2
+			begin
+				n = preprocess.call(tds[1].text)
+				c = tds[0].text
+				t = "nation"
+				results << Locale.new(n, c, t)
+				rescue Exception => e
+				puts "Error encountered parsing tds (#{tds}) into Locale: #{e}"
+			end
+		end
+	end
+
+	# Second-level subdivisions
+	doc.xpath('//*[@id="mw-content-text"]/table[3]//tr').each do |tr|
+		tds = tr.xpath('td')
+		unless tds.size < 2
+			begin
+				n = preprocess.call(tds[1].text)
+				c = tds[0].text
+				t = preprocess.call(tds[2].text)
+				results << Locale.new(n, c, t)
+				rescue Exception => e
+				puts "Error encountered parsing tds (#{tds}) into Locale: #{e}"
+			end
+		end
+	end
+
+	File.open( "../../countries/#{name}.json", 'w' ) do |writer|
+		writer.write( JSON.pretty_generate(results.sort_by{ |r| [r.subdivision, r.name] }, indent: "\t") )
+	end
+end
+
 def fetch_country(code, name)
 	case code
 	# when "AL" # Albania
@@ -64,7 +125,7 @@ def fetch_country(code, name)
 	# when "TR" # Turkey
 	# when "UA" # Ukraine
 	when "GB" # United Kingdom
-		return
+		populate_gb(code, name)
 	else
 		GetFromWikipedia.Scrape(code, name)
 	end

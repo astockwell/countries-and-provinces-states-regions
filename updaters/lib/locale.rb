@@ -1,7 +1,7 @@
 ###
 # Represents a single province/state/region
 #
-class Locale < Struct.new(:name, :code, :native)
+class Locale < Struct.new(:name, :code, :subdivision, :native)
 	def to_map
 		map = Hash.new
 		self.members.each { |m| map[m] = self[m] unless self[m].nil? }

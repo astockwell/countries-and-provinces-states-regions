@@ -31,7 +31,7 @@ module GetFromWikipedia
 		end
 
 		File.open( "../../countries/#{filename}.json", 'w' ) do |writer|
-			writer.write( JSON.pretty_generate(@results.sort(), indent: "\t") )
+			writer.write( JSON.pretty_generate(@results.sort_by{ |r| [r.subdivision, r.name] }, indent: "\t") )
 		end
 	end
 
