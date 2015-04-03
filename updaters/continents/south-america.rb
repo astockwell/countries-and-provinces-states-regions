@@ -31,6 +31,7 @@ def fetch_country(code, name)
 	else
 		GetFromWikipedia.Scrape(code, name)
 	end
+	p code + " - " + name
 end
 
 countries.each do |country|
