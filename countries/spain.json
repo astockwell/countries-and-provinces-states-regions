@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Andalucía",
+		"code": "ES-AN"
+	},
+	{
+		"name": "Aragón",
+		"code": "ES-AR"
+	},
+	{
+		"name": "Asturias, Principado de",
+		"code": "ES-AS"
+	},
+	{
+		"name": "Canarias",
+		"code": "ES-CN"
+	},
+	{
+		"name": "Cantabria",
+		"code": "ES-CB"
+	},
+	{
+		"name": "Castilla y León",
+		"code": "ES-CL"
+	},
+	{
+		"name": "Castilla-La Mancha",
+		"code": "ES-CM"
+	},
+	{
+		"name": "Catalunya",
+		"code": "ES-CT"
+	},
+	{
+		"name": "Ceuta",
+		"code": "ES-CE"
+	},
+	{
+		"name": "Extremadura",
+		"code": "ES-EX"
+	},
+	{
+		"name": "Galicia",
+		"code": "ES-GA"
+	},
+	{
+		"name": "Illes Balears",
+		"code": "ES-IB"
+	},
+	{
+		"name": "La Rioja",
+		"code": "ES-RI"
+	},
+	{
+		"name": "Madrid, Comunidad de",
+		"code": "ES-MD"
+	},
+	{
+		"name": "Melilla",
+		"code": "ES-ML"
+	},
+	{
+		"name": "Murcia, Región de",
+		"code": "ES-MC"
+	},
+	{
+		"name": "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea",
+		"code": "ES-NC"
+	},
+	{
+		"name": "País Vasco / Euskadi",
+		"code": "ES-PV"
+	},
+	{
+		"name": "Valenciana, Comunidad / Valenciana, Comunitat",
+		"code": "ES-VC"
+	}
+]

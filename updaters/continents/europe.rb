@@ -56,7 +56,8 @@ def fetch_country(code, name)
 	# when "RS" # Serbia
 	# when "SK" # Slovakia
 	# when "SI" # Slovenia
-	# when "GS" # South Georgia and the South Sandwich Islands
+	when "GS" # South Georgia and the South Sandwich Islands
+		return
 	# when "ES" # Spain
 	# when "SE" # Sweden
 	# when "CH" # Switzerland
@@ -66,9 +67,10 @@ def fetch_country(code, name)
 	else
 		GetFromWikipedia.Scrape(code, name)
 	end
+	p code + " - " + name
 end
 
-countries[29..39].each do |country|
+countries.each do |country|
 	n = country["name"].gsub(/\(.*?\)/){ |m| "" }.parameterize
 	c = country["code"]
 

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Blekinge län",
+		"code": "SE-K"
+	},
+	{
+		"name": "Dalarnas län",
+		"code": "SE-W"
+	},
+	{
+		"name": "Gotlands län",
+		"code": "SE-I"
+	},
+	{
+		"name": "Gävleborgs län",
+		"code": "SE-X"
+	},
+	{
+		"name": "Hallands län",
+		"code": "SE-N"
+	},
+	{
+		"name": "Jämtlands län",
+		"code": "SE-Z"
+	},
+	{
+		"name": "Jönköpings län",
+		"code": "SE-F"
+	},
+	{
+		"name": "Kalmar län",
+		"code": "SE-H"
+	},
+	{
+		"name": "Kronobergs län",
+		"code": "SE-G"
+	},
+	{
+		"name": "Norrbottens län",
+		"code": "SE-BD"
+	},
+	{
+		"name": "Skåne län",
+		"code": "SE-M"
+	},
+	{
+		"name": "Stockholms län",
+		"code": "SE-AB"
+	},
+	{
+		"name": "Södermanlands län",
+		"code": "SE-D"
+	},
+	{
+		"name": "Uppsala län",
+		"code": "SE-C"
+	},
+	{
+		"name": "Värmlands län",
+		"code": "SE-S"
+	},
+	{
+		"name": "Västerbottens län",
+		"code": "SE-AC"
+	},
+	{
+		"name": "Västernorrlands län",
+		"code": "SE-Y"
+	},
+	{
+		"name": "Västmanlands län",
+		"code": "SE-U"
+	},
+	{
+		"name": "Västra Götalands län",
+		"code": "SE-O"
+	},
+	{
+		"name": "Örebro län",
+		"code": "SE-T"
+	},
+	{
+		"name": "Östergötlands län",
+		"code": "SE-E"
+	}
+]

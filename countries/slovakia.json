@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Banskobystrický kraj",
+		"code": "SK-BC"
+	},
+	{
+		"name": "Bratislavský kraj",
+		"code": "SK-BL"
+	},
+	{
+		"name": "Košický kraj",
+		"code": "SK-KI"
+	},
+	{
+		"name": "Nitriansky kraj",
+		"code": "SK-NI"
+	},
+	{
+		"name": "Prešovský kraj",
+		"code": "SK-PV"
+	},
+	{
+		"name": "Trenčiansky kraj",
+		"code": "SK-TC"
+	},
+	{
+		"name": "Trnavský kraj",
+		"code": "SK-TA"
+	},
+	{
+		"name": "Žilinský kraj",
+		"code": "SK-ZI"
+	}
+]

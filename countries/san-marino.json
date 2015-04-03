@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Acquaviva",
+		"code": "SM-01"
+	},
+	{
+		"name": "Borgo Maggiore",
+		"code": "SM-06"
+	},
+	{
+		"name": "Chiesanuova",
+		"code": "SM-02"
+	},
+	{
+		"name": "Domagnano",
+		"code": "SM-03"
+	},
+	{
+		"name": "Faetano",
+		"code": "SM-04"
+	},
+	{
+		"name": "Fiorentino",
+		"code": "SM-05"
+	},
+	{
+		"name": "Montegiardino",
+		"code": "SM-08"
+	},
+	{
+		"name": "San Marino",
+		"code": "SM-07"
+	},
+	{
+		"name": "Serravalle",
+		"code": "SM-09"
+	}
+]

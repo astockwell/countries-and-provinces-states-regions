@@ -1,0 +1,326 @@
+[
+	{
+		"name": "Adana",
+		"code": "TR-01"
+	},
+	{
+		"name": "Adıyaman",
+		"code": "TR-02"
+	},
+	{
+		"name": "Afyonkarahisar",
+		"code": "TR-03"
+	},
+	{
+		"name": "Aksaray",
+		"code": "TR-68"
+	},
+	{
+		"name": "Amasya",
+		"code": "TR-05"
+	},
+	{
+		"name": "Ankara",
+		"code": "TR-06"
+	},
+	{
+		"name": "Antalya",
+		"code": "TR-07"
+	},
+	{
+		"name": "Ardahan",
+		"code": "TR-75"
+	},
+	{
+		"name": "Artvin",
+		"code": "TR-08"
+	},
+	{
+		"name": "Aydın",
+		"code": "TR-09"
+	},
+	{
+		"name": "Ağrı",
+		"code": "TR-04"
+	},
+	{
+		"name": "Balıkesir",
+		"code": "TR-10"
+	},
+	{
+		"name": "Bartın",
+		"code": "TR-74"
+	},
+	{
+		"name": "Batman",
+		"code": "TR-72"
+	},
+	{
+		"name": "Bayburt",
+		"code": "TR-69"
+	},
+	{
+		"name": "Bilecik",
+		"code": "TR-11"
+	},
+	{
+		"name": "Bingöl",
+		"code": "TR-12"
+	},
+	{
+		"name": "Bitlis",
+		"code": "TR-13"
+	},
+	{
+		"name": "Bolu",
+		"code": "TR-14"
+	},
+	{
+		"name": "Burdur",
+		"code": "TR-15"
+	},
+	{
+		"name": "Bursa",
+		"code": "TR-16"
+	},
+	{
+		"name": "Denizli",
+		"code": "TR-20"
+	},
+	{
+		"name": "Diyarbakır",
+		"code": "TR-21"
+	},
+	{
+		"name": "Düzce",
+		"code": "TR-81"
+	},
+	{
+		"name": "Edirne",
+		"code": "TR-22"
+	},
+	{
+		"name": "Elazığ",
+		"code": "TR-23"
+	},
+	{
+		"name": "Erzincan",
+		"code": "TR-24"
+	},
+	{
+		"name": "Erzurum",
+		"code": "TR-25"
+	},
+	{
+		"name": "Eskişehir",
+		"code": "TR-26"
+	},
+	{
+		"name": "Gaziantep",
+		"code": "TR-27"
+	},
+	{
+		"name": "Giresun",
+		"code": "TR-28"
+	},
+	{
+		"name": "Gümüşhane",
+		"code": "TR-29"
+	},
+	{
+		"name": "Hakkâri",
+		"code": "TR-30"
+	},
+	{
+		"name": "Hatay",
+		"code": "TR-31"
+	},
+	{
+		"name": "Isparta",
+		"code": "TR-32"
+	},
+	{
+		"name": "Iğdır",
+		"code": "TR-76"
+	},
+	{
+		"name": "Kahramanmaraş",
+		"code": "TR-46"
+	},
+	{
+		"name": "Karabük",
+		"code": "TR-78"
+	},
+	{
+		"name": "Karaman",
+		"code": "TR-70"
+	},
+	{
+		"name": "Kars",
+		"code": "TR-36"
+	},
+	{
+		"name": "Kastamonu",
+		"code": "TR-37"
+	},
+	{
+		"name": "Kayseri",
+		"code": "TR-38"
+	},
+	{
+		"name": "Kilis",
+		"code": "TR-79"
+	},
+	{
+		"name": "Kocaeli",
+		"code": "TR-41"
+	},
+	{
+		"name": "Konya",
+		"code": "TR-42"
+	},
+	{
+		"name": "Kütahya",
+		"code": "TR-43"
+	},
+	{
+		"name": "Kırklareli",
+		"code": "TR-39"
+	},
+	{
+		"name": "Kırıkkale",
+		"code": "TR-71"
+	},
+	{
+		"name": "Kırşehir",
+		"code": "TR-40"
+	},
+	{
+		"name": "Malatya",
+		"code": "TR-44"
+	},
+	{
+		"name": "Manisa",
+		"code": "TR-45"
+	},
+	{
+		"name": "Mardin",
+		"code": "TR-47"
+	},
+	{
+		"name": "Mersin",
+		"code": "TR-33"
+	},
+	{
+		"name": "Muğla",
+		"code": "TR-48"
+	},
+	{
+		"name": "Muş",
+		"code": "TR-49"
+	},
+	{
+		"name": "Nevşehir",
+		"code": "TR-50"
+	},
+	{
+		"name": "Niğde",
+		"code": "TR-51"
+	},
+	{
+		"name": "Ordu",
+		"code": "TR-52"
+	},
+	{
+		"name": "Osmaniye",
+		"code": "TR-80"
+	},
+	{
+		"name": "Rize",
+		"code": "TR-53"
+	},
+	{
+		"name": "Sakarya",
+		"code": "TR-54"
+	},
+	{
+		"name": "Samsun",
+		"code": "TR-55"
+	},
+	{
+		"name": "Siirt",
+		"code": "TR-56"
+	},
+	{
+		"name": "Sinop",
+		"code": "TR-57"
+	},
+	{
+		"name": "Sivas",
+		"code": "TR-58"
+	},
+	{
+		"name": "Tekirdağ",
+		"code": "TR-59"
+	},
+	{
+		"name": "Tokat",
+		"code": "TR-60"
+	},
+	{
+		"name": "Trabzon",
+		"code": "TR-61"
+	},
+	{
+		"name": "Tunceli",
+		"code": "TR-62"
+	},
+	{
+		"name": "Uşak",
+		"code": "TR-64"
+	},
+	{
+		"name": "Van",
+		"code": "TR-65"
+	},
+	{
+		"name": "Yalova",
+		"code": "TR-77"
+	},
+	{
+		"name": "Yozgat",
+		"code": "TR-66"
+	},
+	{
+		"name": "Zonguldak",
+		"code": "TR-67"
+	},
+	{
+		"name": "Çanakkale",
+		"code": "TR-17"
+	},
+	{
+		"name": "Çankırı",
+		"code": "TR-18"
+	},
+	{
+		"name": "Çorum",
+		"code": "TR-19"
+	},
+	{
+		"name": "İstanbul",
+		"code": "TR-34"
+	},
+	{
+		"name": "İzmir",
+		"code": "TR-35"
+	},
+	{
+		"name": "Şanlıurfa",
+		"code": "TR-63"
+	},
+	{
+		"name": "Şırnak",
+		"code": "TR-73"
+	}
+]

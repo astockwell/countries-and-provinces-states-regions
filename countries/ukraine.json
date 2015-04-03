@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Avtonomna Respublika Krym",
+		"code": "UA-43"
+	},
+	{
+		"name": "Cherkas'ka Oblast'",
+		"code": "UA-71"
+	},
+	{
+		"name": "Chernihivs'ka Oblast'",
+		"code": "UA-74"
+	},
+	{
+		"name": "Chernivets'ka Oblast'",
+		"code": "UA-77"
+	},
+	{
+		"name": "Dnipropetrovs'ka Oblast'",
+		"code": "UA-12"
+	},
+	{
+		"name": "Donets'ka Oblast'",
+		"code": "UA-14"
+	},
+	{
+		"name": "Ivano-Frankivs'ka Oblast'",
+		"code": "UA-26"
+	},
+	{
+		"name": "Kharkivs'ka Oblast'",
+		"code": "UA-63"
+	},
+	{
+		"name": "Khersons'ka Oblast'",
+		"code": "UA-65"
+	},
+	{
+		"name": "Khmel'nyts'ka Oblast'",
+		"code": "UA-68"
+	},
+	{
+		"name": "Kirovohrads'ka Oblast'",
+		"code": "UA-35"
+	},
+	{
+		"name": "Kyïv",
+		"code": "UA-30"
+	},
+	{
+		"name": "Kyïvs'ka Oblast'",
+		"code": "UA-32"
+	},
+	{
+		"name": "L'vivs'ka Oblast'",
+		"code": "UA-46"
+	},
+	{
+		"name": "Luhans'ka Oblast'",
+		"code": "UA-09"
+	},
+	{
+		"name": "Mykolaïvs'ka Oblast'",
+		"code": "UA-48"
+	},
+	{
+		"name": "Odes'ka Oblast'",
+		"code": "UA-51"
+	},
+	{
+		"name": "Poltavs'ka Oblast'",
+		"code": "UA-53"
+	},
+	{
+		"name": "Rivnens'ka Oblast'",
+		"code": "UA-56"
+	},
+	{
+		"name": "Sevastopol'",
+		"code": "UA-40"
+	},
+	{
+		"name": "Sums'ka Oblast'",
+		"code": "UA-59"
+	},
+	{
+		"name": "Ternopil's'ka Oblast'",
+		"code": "UA-61"
+	},
+	{
+		"name": "Vinnyts'ka Oblast'",
+		"code": "UA-05"
+	},
+	{
+		"name": "Volyns'ka Oblast'",
+		"code": "UA-07"
+	},
+	{
+		"name": "Zakarpats'ka Oblast'",
+		"code": "UA-21"
+	},
+	{
+		"name": "Zaporiz'ka Oblast'",
+		"code": "UA-23"
+	},
+	{
+		"name": "Zhytomyrs'ka Oblast'",
+		"code": "UA-18"
+	}
+]
