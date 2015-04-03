@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Fontvieille",
+		"code": "MC-FO"
+	},
+	{
+		"name": "Jardin Exotique",
+		"code": "MC-JE"
+	},
+	{
+		"name": "La Colle",
+		"code": "MC-CL"
+	},
+	{
+		"name": "La Condamine",
+		"code": "MC-CO"
+	},
+	{
+		"name": "La Gare",
+		"code": "MC-GA"
+	},
+	{
+		"name": "La Source",
+		"code": "MC-SO"
+	},
+	{
+		"name": "Larvotto",
+		"code": "MC-LA"
+	},
+	{
+		"name": "Malbousquet",
+		"code": "MC-MA"
+	},
+	{
+		"name": "Monaco-Ville",
+		"code": "MC-MO"
+	},
+	{
+		"name": "Moneghetti",
+		"code": "MC-MG"
+	},
+	{
+		"name": "Monte-Carlo",
+		"code": "MC-MC"
+	},
+	{
+		"name": "Moulins",
+		"code": "MC-MU"
+	},
+	{
+		"name": "Port-Hercule",
+		"code": "MC-PH"
+	},
+	{
+		"name": "Saint-Roman",
+		"code": "MC-SR"
+	},
+	{
+		"name": "Sainte-Dévote",
+		"code": "MC-SD"
+	},
+	{
+		"name": "Spélugues",
+		"code": "MC-SP"
+	},
+	{
+		"name": "Vallon de la Rousse",
+		"code": "MC-VR"
+	}
+]

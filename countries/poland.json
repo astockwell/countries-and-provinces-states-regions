@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Dolnośląskie",
+		"code": "PL-DS"
+	},
+	{
+		"name": "Kujawsko-pomorskie",
+		"code": "PL-KP"
+	},
+	{
+		"name": "Lubelskie",
+		"code": "PL-LU"
+	},
+	{
+		"name": "Lubuskie",
+		"code": "PL-LB"
+	},
+	{
+		"name": "Mazowieckie",
+		"code": "PL-MZ"
+	},
+	{
+		"name": "Małopolskie",
+		"code": "PL-MA"
+	},
+	{
+		"name": "Opolskie",
+		"code": "PL-OP"
+	},
+	{
+		"name": "Podkarpackie",
+		"code": "PL-PK"
+	},
+	{
+		"name": "Podlaskie",
+		"code": "PL-PD"
+	},
+	{
+		"name": "Pomorskie",
+		"code": "PL-PM"
+	},
+	{
+		"name": "Warmińsko-mazurskie",
+		"code": "PL-WN"
+	},
+	{
+		"name": "Wielkopolskie",
+		"code": "PL-WP"
+	},
+	{
+		"name": "Zachodniopomorskie",
+		"code": "PL-ZP"
+	},
+	{
+		"name": "Łódzkie",
+		"code": "PL-LD"
+	},
+	{
+		"name": "Śląskie",
+		"code": "PL-SL"
+	},
+	{
+		"name": "Świętokrzyskie",
+		"code": "PL-SK"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Drenthe",
+		"code": "NL-DR"
+	},
+	{
+		"name": "Flevoland",
+		"code": "NL-FL"
+	},
+	{
+		"name": "Fryslân",
+		"code": "NL-FR"
+	},
+	{
+		"name": "Gelderland",
+		"code": "NL-GE"
+	},
+	{
+		"name": "Groningen",
+		"code": "NL-GR"
+	},
+	{
+		"name": "Limburg",
+		"code": "NL-LI"
+	},
+	{
+		"name": "Noord-Brabant",
+		"code": "NL-NB"
+	},
+	{
+		"name": "Noord-Holland",
+		"code": "NL-NH"
+	},
+	{
+		"name": "Overijssel",
+		"code": "NL-OV"
+	},
+	{
+		"name": "Utrecht",
+		"code": "NL-UT"
+	},
+	{
+		"name": "Zeeland",
+		"code": "NL-ZE"
+	},
+	{
+		"name": "Zuid-Holland",
+		"code": "NL-ZH"
+	}
+]

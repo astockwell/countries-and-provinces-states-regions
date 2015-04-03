@@ -1,0 +1,274 @@
+[
+	{
+		"name": "Attard",
+		"code": "MT-01"
+	},
+	{
+		"name": "Balzan",
+		"code": "MT-02"
+	},
+	{
+		"name": "Birgu",
+		"code": "MT-03"
+	},
+	{
+		"name": "Birkirkara",
+		"code": "MT-04"
+	},
+	{
+		"name": "Birżebbuġa",
+		"code": "MT-05"
+	},
+	{
+		"name": "Bormla",
+		"code": "MT-06"
+	},
+	{
+		"name": "Dingli",
+		"code": "MT-07"
+	},
+	{
+		"name": "Fgura",
+		"code": "MT-08"
+	},
+	{
+		"name": "Floriana",
+		"code": "MT-09"
+	},
+	{
+		"name": "Fontana",
+		"code": "MT-10"
+	},
+	{
+		"name": "Gudja",
+		"code": "MT-11"
+	},
+	{
+		"name": "Għajnsielem",
+		"code": "MT-13"
+	},
+	{
+		"name": "Għarb",
+		"code": "MT-14"
+	},
+	{
+		"name": "Għargħur",
+		"code": "MT-15"
+	},
+	{
+		"name": "Għasri",
+		"code": "MT-16"
+	},
+	{
+		"name": "Għaxaq",
+		"code": "MT-17"
+	},
+	{
+		"name": "Gżira",
+		"code": "MT-12"
+	},
+	{
+		"name": "Iklin",
+		"code": "MT-19"
+	},
+	{
+		"name": "Isla",
+		"code": "MT-20"
+	},
+	{
+		"name": "Kalkara",
+		"code": "MT-21"
+	},
+	{
+		"name": "Kerċem",
+		"code": "MT-22"
+	},
+	{
+		"name": "Kirkop",
+		"code": "MT-23"
+	},
+	{
+		"name": "Lija",
+		"code": "MT-24"
+	},
+	{
+		"name": "Luqa",
+		"code": "MT-25"
+	},
+	{
+		"name": "Marsa",
+		"code": "MT-26"
+	},
+	{
+		"name": "Marsaskala",
+		"code": "MT-27"
+	},
+	{
+		"name": "Marsaxlokk",
+		"code": "MT-28"
+	},
+	{
+		"name": "Mdina",
+		"code": "MT-29"
+	},
+	{
+		"name": "Mellieħa",
+		"code": "MT-30"
+	},
+	{
+		"name": "Mosta",
+		"code": "MT-32"
+	},
+	{
+		"name": "Mqabba",
+		"code": "MT-33"
+	},
+	{
+		"name": "Msida",
+		"code": "MT-34"
+	},
+	{
+		"name": "Mtarfa",
+		"code": "MT-35"
+	},
+	{
+		"name": "Munxar",
+		"code": "MT-36"
+	},
+	{
+		"name": "Mġarr",
+		"code": "MT-31"
+	},
+	{
+		"name": "Nadur",
+		"code": "MT-37"
+	},
+	{
+		"name": "Naxxar",
+		"code": "MT-38"
+	},
+	{
+		"name": "Paola",
+		"code": "MT-39"
+	},
+	{
+		"name": "Pembroke",
+		"code": "MT-40"
+	},
+	{
+		"name": "Pietà",
+		"code": "MT-41"
+	},
+	{
+		"name": "Qala",
+		"code": "MT-42"
+	},
+	{
+		"name": "Qormi",
+		"code": "MT-43"
+	},
+	{
+		"name": "Qrendi",
+		"code": "MT-44"
+	},
+	{
+		"name": "Rabat Malta",
+		"code": "MT-46"
+	},
+	{
+		"name": "Safi",
+		"code": "MT-47"
+	},
+	{
+		"name": "San Ġiljan",
+		"code": "MT-48"
+	},
+	{
+		"name": "San Ġwann",
+		"code": "MT-49"
+	},
+	{
+		"name": "Sannat",
+		"code": "MT-52"
+	},
+	{
+		"name": "Santa Venera",
+		"code": "MT-54"
+	},
+	{
+		"name": "Siġġiewi",
+		"code": "MT-55"
+	},
+	{
+		"name": "Sliema",
+		"code": "MT-56"
+	},
+	{
+		"name": "Swieqi",
+		"code": "MT-57"
+	},
+	{
+		"name": "Ta' Xbiex",
+		"code": "MT-58"
+	},
+	{
+		"name": "Tarxien",
+		"code": "MT-59"
+	},
+	{
+		"name": "Valletta",
+		"code": "MT-60"
+	},
+	{
+		"name": "Xagħra",
+		"code": "MT-61"
+	},
+	{
+		"name": "Xewkija",
+		"code": "MT-62"
+	},
+	{
+		"name": "Xgħajra",
+		"code": "MT-63"
+	},
+	{
+		"name": "mt",
+		"code": "MT-45"
+	},
+	{
+		"name": "mt",
+		"code": "MT-53"
+	},
+	{
+		"name": "mt",
+		"code": "MT-65"
+	},
+	{
+		"name": "mt",
+		"code": "MT-50"
+	},
+	{
+		"name": "mt",
+		"code": "MT-51"
+	},
+	{
+		"name": "Ħamrun",
+		"code": "MT-18"
+	},
+	{
+		"name": "Żabbar",
+		"code": "MT-64"
+	},
+	{
+		"name": "Żebbuġ Malta",
+		"code": "MT-66"
+	},
+	{
+		"name": "Żejtun",
+		"code": "MT-67"
+	},
+	{
+		"name": "Żurrieq",
+		"code": "MT-68"
+	}
+]

@@ -1,0 +1,170 @@
+[
+	{
+		"name": "Alba",
+		"code": "RO-AB"
+	},
+	{
+		"name": "Arad",
+		"code": "RO-AR"
+	},
+	{
+		"name": "Argeș",
+		"code": "RO-AG"
+	},
+	{
+		"name": "Bacău",
+		"code": "RO-BC"
+	},
+	{
+		"name": "Bihor",
+		"code": "RO-BH"
+	},
+	{
+		"name": "Bistrița-Năsăud",
+		"code": "RO-BN"
+	},
+	{
+		"name": "Botoșani",
+		"code": "RO-BT"
+	},
+	{
+		"name": "Brașov",
+		"code": "RO-BV"
+	},
+	{
+		"name": "Brăila",
+		"code": "RO-BR"
+	},
+	{
+		"name": "București",
+		"code": "RO-B"
+	},
+	{
+		"name": "Buzău",
+		"code": "RO-BZ"
+	},
+	{
+		"name": "Caraș-Severin",
+		"code": "RO-CS"
+	},
+	{
+		"name": "Cluj",
+		"code": "RO-CJ"
+	},
+	{
+		"name": "Constanța",
+		"code": "RO-CT"
+	},
+	{
+		"name": "Covasna",
+		"code": "RO-CV"
+	},
+	{
+		"name": "Călărași",
+		"code": "RO-CL"
+	},
+	{
+		"name": "Dolj",
+		"code": "RO-DJ"
+	},
+	{
+		"name": "Dâmbovița",
+		"code": "RO-DB"
+	},
+	{
+		"name": "Galați",
+		"code": "RO-GL"
+	},
+	{
+		"name": "Giurgiu",
+		"code": "RO-GR"
+	},
+	{
+		"name": "Gorj",
+		"code": "RO-GJ"
+	},
+	{
+		"name": "Harghita",
+		"code": "RO-HR"
+	},
+	{
+		"name": "Hunedoara",
+		"code": "RO-HD"
+	},
+	{
+		"name": "Ialomița",
+		"code": "RO-IL"
+	},
+	{
+		"name": "Iași",
+		"code": "RO-IS"
+	},
+	{
+		"name": "Ilfov",
+		"code": "RO-IF"
+	},
+	{
+		"name": "Maramureș",
+		"code": "RO-MM"
+	},
+	{
+		"name": "Mehedinți",
+		"code": "RO-MH"
+	},
+	{
+		"name": "Mureș",
+		"code": "RO-MS"
+	},
+	{
+		"name": "Neamț",
+		"code": "RO-NT"
+	},
+	{
+		"name": "Olt",
+		"code": "RO-OT"
+	},
+	{
+		"name": "Prahova",
+		"code": "RO-PH"
+	},
+	{
+		"name": "Satu Mare",
+		"code": "RO-SM"
+	},
+	{
+		"name": "Sibiu",
+		"code": "RO-SB"
+	},
+	{
+		"name": "Suceava",
+		"code": "RO-SV"
+	},
+	{
+		"name": "Sălaj",
+		"code": "RO-SJ"
+	},
+	{
+		"name": "Teleorman",
+		"code": "RO-TR"
+	},
+	{
+		"name": "Timiș",
+		"code": "RO-TM"
+	},
+	{
+		"name": "Tulcea",
+		"code": "RO-TL"
+	},
+	{
+		"name": "Vaslui",
+		"code": "RO-VS"
+	},
+	{
+		"name": "Vrancea",
+		"code": "RO-VN"
+	},
+	{
+		"name": "Vâlcea",
+		"code": "RO-VL"
+	}
+]

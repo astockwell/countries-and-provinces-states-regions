@@ -1,0 +1,150 @@
+[
+	{
+		"name": "Anenii Noi",
+		"code": "MD-AN"
+	},
+	{
+		"name": "Basarabeasca",
+		"code": "MD-BS"
+	},
+	{
+		"name": "Briceni",
+		"code": "MD-BR"
+	},
+	{
+		"name": "Bălţi",
+		"code": "MD-BA"
+	},
+	{
+		"name": "Cahul",
+		"code": "MD-CA"
+	},
+	{
+		"name": "Cantemir",
+		"code": "MD-CT"
+	},
+	{
+		"name": "Chişinău",
+		"code": "MD-CU"
+	},
+	{
+		"name": "Cimişlia",
+		"code": "MD-CM"
+	},
+	{
+		"name": "Criuleni",
+		"code": "MD-CR"
+	},
+	{
+		"name": "Călăraşi",
+		"code": "MD-CL"
+	},
+	{
+		"name": "Căuşeni",
+		"code": "MD-CS"
+	},
+	{
+		"name": "Donduşeni",
+		"code": "MD-DO"
+	},
+	{
+		"name": "Drochia",
+		"code": "MD-DR"
+	},
+	{
+		"name": "Dubăsari",
+		"code": "MD-DU"
+	},
+	{
+		"name": "Edineţ",
+		"code": "MD-ED"
+	},
+	{
+		"name": "Floreşti",
+		"code": "MD-FL"
+	},
+	{
+		"name": "Făleşti",
+		"code": "MD-FA"
+	},
+	{
+		"name": "Glodeni",
+		"code": "MD-GL"
+	},
+	{
+		"name": "Găgăuzia, Unitatea teritorială autonomă",
+		"code": "MD-GA"
+	},
+	{
+		"name": "Hînceşti",
+		"code": "MD-HI"
+	},
+	{
+		"name": "Ialoveni",
+		"code": "MD-IA"
+	},
+	{
+		"name": "Leova",
+		"code": "MD-LE"
+	},
+	{
+		"name": "Nisporeni",
+		"code": "MD-NI"
+	},
+	{
+		"name": "Ocniţa",
+		"code": "MD-OC"
+	},
+	{
+		"name": "Orhei",
+		"code": "MD-OR"
+	},
+	{
+		"name": "Rezina",
+		"code": "MD-RE"
+	},
+	{
+		"name": "Rîşcani",
+		"code": "MD-RI"
+	},
+	{
+		"name": "Soroca",
+		"code": "MD-SO"
+	},
+	{
+		"name": "Străşeni",
+		"code": "MD-ST"
+	},
+	{
+		"name": "Stînga Nistrului, unitatea teritorială din",
+		"code": "MD-SN"
+	},
+	{
+		"name": "Sîngerei",
+		"code": "MD-SI"
+	},
+	{
+		"name": "Taraclia",
+		"code": "MD-TA"
+	},
+	{
+		"name": "Teleneşti",
+		"code": "MD-TE"
+	},
+	{
+		"name": "Tighina",
+		"code": "MD-BD"
+	},
+	{
+		"name": "Ungheni",
+		"code": "MD-UN"
+	},
+	{
+		"name": "Şoldăneşti",
+		"code": "MD-SD"
+	},
+	{
+		"name": "Ştefan Vodă",
+		"code": "MD-SV"
+	}
+]

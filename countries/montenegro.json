@@ -1,0 +1,94 @@
+[
+	{
+		"name": "Andrijevica",
+		"code": "ME-01"
+	},
+	{
+		"name": "Bar",
+		"code": "ME-02"
+	},
+	{
+		"name": "Berane",
+		"code": "ME-03"
+	},
+	{
+		"name": "Bijelo Polje",
+		"code": "ME-04"
+	},
+	{
+		"name": "Budva",
+		"code": "ME-05"
+	},
+	{
+		"name": "Cetinje",
+		"code": "ME-06"
+	},
+	{
+		"name": "Danilovgrad",
+		"code": "ME-07"
+	},
+	{
+		"name": "Gusinje",
+		"code": "ME-22"
+	},
+	{
+		"name": "Herceg-Novi",
+		"code": "ME-08"
+	},
+	{
+		"name": "Kolašin",
+		"code": "ME-09"
+	},
+	{
+		"name": "Kotor",
+		"code": "ME-10"
+	},
+	{
+		"name": "Mojkovac",
+		"code": "ME-11"
+	},
+	{
+		"name": "Nikšić",
+		"code": "ME-12"
+	},
+	{
+		"name": "Petnjica",
+		"code": "ME-23"
+	},
+	{
+		"name": "Plav",
+		"code": "ME-13"
+	},
+	{
+		"name": "Pljevlja",
+		"code": "ME-14"
+	},
+	{
+		"name": "Plužine",
+		"code": "ME-15"
+	},
+	{
+		"name": "Podgorica",
+		"code": "ME-16"
+	},
+	{
+		"name": "Rožaje",
+		"code": "ME-17"
+	},
+	{
+		"name": "Tivat",
+		"code": "ME-19"
+	},
+	{
+		"name": "Ulcinj",
+		"code": "ME-20"
+	},
+	{
+		"name": "Šavnik",
+		"code": "ME-18"
+	},
+	{
+		"name": "Žabljak",
+		"code": "ME-21"
+	}
+]

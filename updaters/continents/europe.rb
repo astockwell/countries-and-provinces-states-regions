@@ -45,7 +45,8 @@ def fetch_country(code, name)
 	# when "MC" # Monaco
 	# when "ME" # Montenegro
 	# when "NL" # Netherlands
-	# when "AN" # Netherlands Antilles
+	when "AN" # Netherlands Antilles
+		return
 	# when "NO" # Norway
 	# when "PL" # Poland
 	# when "PT" # Portugal
@@ -67,7 +68,7 @@ def fetch_country(code, name)
 	end
 end
 
-countries[19..29].each do |country|
+countries[29..39].each do |country|
 	n = country["name"].gsub(/\(.*?\)/){ |m| "" }.parameterize
 	c = country["code"]
 

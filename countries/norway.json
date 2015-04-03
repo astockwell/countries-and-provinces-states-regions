@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Akershus",
+		"code": "NO-02"
+	},
+	{
+		"name": "Aust-Agder",
+		"code": "NO-09"
+	},
+	{
+		"name": "Buskerud",
+		"code": "NO-06"
+	},
+	{
+		"name": "Finnmark",
+		"code": "NO-20"
+	},
+	{
+		"name": "Hedmark",
+		"code": "NO-04"
+	},
+	{
+		"name": "Hordaland",
+		"code": "NO-12"
+	},
+	{
+		"name": "Jan Mayen",
+		"code": "NO-22"
+	},
+	{
+		"name": "Møre og Romsdal",
+		"code": "NO-15"
+	},
+	{
+		"name": "Nord-Trøndelag",
+		"code": "NO-17"
+	},
+	{
+		"name": "Nordland",
+		"code": "NO-18"
+	},
+	{
+		"name": "Oppland",
+		"code": "NO-05"
+	},
+	{
+		"name": "Oslo",
+		"code": "NO-03"
+	},
+	{
+		"name": "Rogaland",
+		"code": "NO-11"
+	},
+	{
+		"name": "Sogn og Fjordane",
+		"code": "NO-14"
+	},
+	{
+		"name": "Svalbard",
+		"code": "NO-21"
+	},
+	{
+		"name": "Sør-Trøndelag",
+		"code": "NO-16"
+	},
+	{
+		"name": "Telemark",
+		"code": "NO-08"
+	},
+	{
+		"name": "Troms",
+		"code": "NO-19"
+	},
+	{
+		"name": "Vest-Agder",
+		"code": "NO-10"
+	},
+	{
+		"name": "Vestfold",
+		"code": "NO-07"
+	},
+	{
+		"name": "Østfold",
+		"code": "NO-01"
+	}
+]
