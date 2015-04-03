@@ -1,22 +1,174 @@
 [
-	{"name": "Bács-Kiskun", "code": "BK"},
-	{"name": "Békés", "code": "BE"},
-	{"name": "Baranya", "code": "BA"},
-	{"name": "Borsod-Abaúj-Zemplén", "code": "BZ"},
-	{"name": "Budapest", "code": "BU"},
-	{"name": "Csongrád", "code": "CS"},
-	{"name": "Fejér", "code": "FE"},
-	{"name": "Győr-Moson-Sopron", "code": "GS"},
-	{"name": "Hajdú-Bihar", "code": "HB"},
-	{"name": "Heves", "code": "HE"},
-	{"name": "Jász-Nagykun-Szolnok", "code": "JN"},
-	{"name": "Komárom-Esztergom", "code": "KE"},
-	{"name": "Nógrád", "code": "NO"},
-	{"name": "Pest", "code": "PE"},
-	{"name": "Somogy", "code": "SO"},
-	{"name": "Szabolcs-Szatmár-Bereg", "code": "SZ"},
-	{"name": "Tolna", "code": "TO"},
-	{"name": "Vas", "code": "VA"},
-	{"name": "Veszprém", "code": "VE"},
-	{"name": "Zala", "code": "ZA"}
+	{
+		"name": "Baranya",
+		"code": "HU-BA"
+	},
+	{
+		"name": "Borsod-Abaúj-Zemplén",
+		"code": "HU-BZ"
+	},
+	{
+		"name": "Budapest",
+		"code": "HU-BU"
+	},
+	{
+		"name": "Bács-Kiskun",
+		"code": "HU-BK"
+	},
+	{
+		"name": "Békés",
+		"code": "HU-BE"
+	},
+	{
+		"name": "Békéscsaba",
+		"code": "HU-BC"
+	},
+	{
+		"name": "Csongrád",
+		"code": "HU-CS"
+	},
+	{
+		"name": "Debrecen",
+		"code": "HU-DE"
+	},
+	{
+		"name": "Dunaújváros",
+		"code": "HU-DU"
+	},
+	{
+		"name": "Eger",
+		"code": "HU-EG"
+	},
+	{
+		"name": "Fejér",
+		"code": "HU-FE"
+	},
+	{
+		"name": "Győr",
+		"code": "HU-GY"
+	},
+	{
+		"name": "Győr-Moson-Sopron",
+		"code": "HU-GS"
+	},
+	{
+		"name": "Hajdú-Bihar",
+		"code": "HU-HB"
+	},
+	{
+		"name": "Heves",
+		"code": "HU-HE"
+	},
+	{
+		"name": "Hódmezővásárhely",
+		"code": "HU-HV"
+	},
+	{
+		"name": "Jász-Nagykun-Szolnok",
+		"code": "HU-JN"
+	},
+	{
+		"name": "Kaposvár",
+		"code": "HU-KV"
+	},
+	{
+		"name": "Kecskemét",
+		"code": "HU-KM"
+	},
+	{
+		"name": "Komárom-Esztergom",
+		"code": "HU-KE"
+	},
+	{
+		"name": "Miskolc",
+		"code": "HU-MI"
+	},
+	{
+		"name": "Nagykanizsa",
+		"code": "HU-NK"
+	},
+	{
+		"name": "Nyíregyháza",
+		"code": "HU-NY"
+	},
+	{
+		"name": "Nógrád",
+		"code": "HU-NO"
+	},
+	{
+		"name": "Pest",
+		"code": "HU-PE"
+	},
+	{
+		"name": "Pécs",
+		"code": "HU-PS"
+	},
+	{
+		"name": "Salgótarján",
+		"code": "HU-ST"
+	},
+	{
+		"name": "Somogy",
+		"code": "HU-SO"
+	},
+	{
+		"name": "Sopron",
+		"code": "HU-SN"
+	},
+	{
+		"name": "Szabolcs-Szatmár-Bereg",
+		"code": "HU-SZ"
+	},
+	{
+		"name": "Szeged",
+		"code": "HU-SD"
+	},
+	{
+		"name": "Szekszárd",
+		"code": "HU-SS"
+	},
+	{
+		"name": "Szolnok",
+		"code": "HU-SK"
+	},
+	{
+		"name": "Szombathely",
+		"code": "HU-SH"
+	},
+	{
+		"name": "Székesfehérvár",
+		"code": "HU-SF"
+	},
+	{
+		"name": "Tatabánya",
+		"code": "HU-TB"
+	},
+	{
+		"name": "Tolna",
+		"code": "HU-TO"
+	},
+	{
+		"name": "Vas",
+		"code": "HU-VA"
+	},
+	{
+		"name": "Veszprém",
+		"code": "HU-VE"
+	},
+	{
+		"name": "Veszprém",
+		"code": "HU-VM"
+	},
+	{
+		"name": "Zala",
+		"code": "HU-ZA"
+	},
+	{
+		"name": "Zalaegerszeg",
+		"code": "HU-ZE"
+	},
+	{
+		"name": "Érd",
+		"code": "HU-ER"
+	}
 ]

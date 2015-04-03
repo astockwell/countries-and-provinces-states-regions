@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Balzers",
+		"code": "LI-01"
+	},
+	{
+		"name": "Eschen",
+		"code": "LI-02"
+	},
+	{
+		"name": "Gamprin",
+		"code": "LI-03"
+	},
+	{
+		"name": "Mauren",
+		"code": "LI-04"
+	},
+	{
+		"name": "Planken",
+		"code": "LI-05"
+	},
+	{
+		"name": "Ruggell",
+		"code": "LI-06"
+	},
+	{
+		"name": "Schaan",
+		"code": "LI-07"
+	},
+	{
+		"name": "Schellenberg",
+		"code": "LI-08"
+	},
+	{
+		"name": "Triesen",
+		"code": "LI-09"
+	},
+	{
+		"name": "Triesenberg",
+		"code": "LI-10"
+	},
+	{
+		"name": "Vaduz",
+		"code": "LI-11"
+	}
+]

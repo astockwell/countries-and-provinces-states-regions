@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Almaty",
+		"code": "KZ-ALA"
+	},
+	{
+		"name": "Almaty oblysy",
+		"code": "KZ-ALM"
+	},
+	{
+		"name": "Aqmola oblysy",
+		"code": "KZ-AKM"
+	},
+	{
+		"name": "Aqtöbe oblysy",
+		"code": "KZ-AKT"
+	},
+	{
+		"name": "Astana",
+		"code": "KZ-AST"
+	},
+	{
+		"name": "Atyraū oblysy",
+		"code": "KZ-ATY"
+	},
+	{
+		"name": "Batys Qazaqstan oblysy",
+		"code": "KZ-ZAP"
+	},
+	{
+		"name": "Mangghystaū oblysy",
+		"code": "KZ-MAN"
+	},
+	{
+		"name": "Ongtüstik Qazaqstan oblysy",
+		"code": "KZ-YUZ"
+	},
+	{
+		"name": "Pavlodar oblysy",
+		"code": "KZ-PAV"
+	},
+	{
+		"name": "Qaraghandy oblysy",
+		"code": "KZ-KAR"
+	},
+	{
+		"name": "Qostanay oblysy",
+		"code": "KZ-KUS"
+	},
+	{
+		"name": "Qyzylorda oblysy",
+		"code": "KZ-KZY"
+	},
+	{
+		"name": "Shyghys Qazaqstan oblysy",
+		"code": "KZ-VOS"
+	},
+	{
+		"name": "Soltüstik Qazaqstan oblysy",
+		"code": "KZ-SEV"
+	},
+	{
+		"name": "Zhambyl oblysy",
+		"code": "KZ-ZHA"
+	}
+]

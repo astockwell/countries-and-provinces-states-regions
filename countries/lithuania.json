@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Alytaus Apskritis",
+		"code": "LT-AL"
+	},
+	{
+		"name": "Kauno Apskritis",
+		"code": "LT-KU"
+	},
+	{
+		"name": "Klaipėdos Apskritis",
+		"code": "LT-KL"
+	},
+	{
+		"name": "Marijampolės Apskritis",
+		"code": "LT-MR"
+	},
+	{
+		"name": "Panevėžio Apskritis",
+		"code": "LT-PN"
+	},
+	{
+		"name": "Tauragės Apskritis",
+		"code": "LT-TA"
+	},
+	{
+		"name": "Telšių Apskritis",
+		"code": "LT-TE"
+	},
+	{
+		"name": "Utenos Apskritis",
+		"code": "LT-UT"
+	},
+	{
+		"name": "Vilniaus Apskritis",
+		"code": "LT-VL"
+	},
+	{
+		"name": "Šiaulių Apskritis",
+		"code": "LT-SA"
+	}
+]

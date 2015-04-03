@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Abruzzo",
+		"code": "IT-65"
+	},
+	{
+		"name": "Basilicata",
+		"code": "IT-77"
+	},
+	{
+		"name": "Calabria",
+		"code": "IT-78"
+	},
+	{
+		"name": "Campania",
+		"code": "IT-72"
+	},
+	{
+		"name": "Emilia-Romagna",
+		"code": "IT-45"
+	},
+	{
+		"name": "Friuli-Venezia Giulia",
+		"code": "IT-36"
+	},
+	{
+		"name": "Lazio",
+		"code": "IT-62"
+	},
+	{
+		"name": "Liguria",
+		"code": "IT-42"
+	},
+	{
+		"name": "Lombardia",
+		"code": "IT-25"
+	},
+	{
+		"name": "Marche",
+		"code": "IT-57"
+	},
+	{
+		"name": "Molise",
+		"code": "IT-67"
+	},
+	{
+		"name": "Piemonte",
+		"code": "IT-21"
+	},
+	{
+		"name": "Puglia",
+		"code": "IT-75"
+	},
+	{
+		"name": "Sardegna",
+		"code": "IT-88"
+	},
+	{
+		"name": "Sicilia",
+		"code": "IT-82"
+	},
+	{
+		"name": "Toscana",
+		"code": "IT-52"
+	},
+	{
+		"name": "Trentino-Alto Adige",
+		"code": "IT-32"
+	},
+	{
+		"name": "Umbria",
+		"code": "IT-55"
+	},
+	{
+		"name": "Valle d'Aosta",
+		"code": "IT-23"
+	},
+	{
+		"name": "Veneto",
+		"code": "IT-34"
+	}
+]

@@ -1,0 +1,338 @@
+[
+	{
+		"name": "Aerodrom",
+		"code": "MK-01"
+	},
+	{
+		"name": "Aračinovo",
+		"code": "MK-02"
+	},
+	{
+		"name": "Berovo",
+		"code": "MK-03"
+	},
+	{
+		"name": "Bitola",
+		"code": "MK-04"
+	},
+	{
+		"name": "Bogdanci",
+		"code": "MK-05"
+	},
+	{
+		"name": "Bogovinje",
+		"code": "MK-06"
+	},
+	{
+		"name": "Bosilovo",
+		"code": "MK-07"
+	},
+	{
+		"name": "Brvenica",
+		"code": "MK-08"
+	},
+	{
+		"name": "Butel",
+		"code": "MK-09"
+	},
+	{
+		"name": "Centar",
+		"code": "MK-77"
+	},
+	{
+		"name": "Centar Župa",
+		"code": "MK-78"
+	},
+	{
+		"name": "Debar",
+		"code": "MK-21"
+	},
+	{
+		"name": "Debarca",
+		"code": "MK-22"
+	},
+	{
+		"name": "Delčevo",
+		"code": "MK-23"
+	},
+	{
+		"name": "Demir Hisar",
+		"code": "MK-25"
+	},
+	{
+		"name": "Demir Kapija",
+		"code": "MK-24"
+	},
+	{
+		"name": "Dojran",
+		"code": "MK-26"
+	},
+	{
+		"name": "Dolneni",
+		"code": "MK-27"
+	},
+	{
+		"name": "Drugovo",
+		"code": "MK-28"
+	},
+	{
+		"name": "Gazi Baba",
+		"code": "MK-17"
+	},
+	{
+		"name": "Gevgelija",
+		"code": "MK-18"
+	},
+	{
+		"name": "Gjorče Petrov",
+		"code": "MK-29"
+	},
+	{
+		"name": "Gostivar",
+		"code": "MK-19"
+	},
+	{
+		"name": "Gradsko",
+		"code": "MK-20"
+	},
+	{
+		"name": "Ilinden",
+		"code": "MK-34"
+	},
+	{
+		"name": "Jegunovce",
+		"code": "MK-35"
+	},
+	{
+		"name": "Karbinci",
+		"code": "MK-37"
+	},
+	{
+		"name": "Karpoš",
+		"code": "MK-38"
+	},
+	{
+		"name": "Kavadarci",
+		"code": "MK-36"
+	},
+	{
+		"name": "Kisela Voda",
+		"code": "MK-39"
+	},
+	{
+		"name": "Kičevo",
+		"code": "MK-40"
+	},
+	{
+		"name": "Konče",
+		"code": "MK-41"
+	},
+	{
+		"name": "Kočani",
+		"code": "MK-42"
+	},
+	{
+		"name": "Kratovo",
+		"code": "MK-43"
+	},
+	{
+		"name": "Kriva Palanka",
+		"code": "MK-44"
+	},
+	{
+		"name": "Krivogaštani",
+		"code": "MK-45"
+	},
+	{
+		"name": "Kruševo",
+		"code": "MK-46"
+	},
+	{
+		"name": "Kumanovo",
+		"code": "MK-47"
+	},
+	{
+		"name": "Lipkovo",
+		"code": "MK-48"
+	},
+	{
+		"name": "Lozovo",
+		"code": "MK-49"
+	},
+	{
+		"name": "Makedonska Kamenica",
+		"code": "MK-51"
+	},
+	{
+		"name": "Makedonski Brod",
+		"code": "MK-52"
+	},
+	{
+		"name": "Mavrovo i Rostuša",
+		"code": "MK-50"
+	},
+	{
+		"name": "Mogila",
+		"code": "MK-53"
+	},
+	{
+		"name": "Negotino",
+		"code": "MK-54"
+	},
+	{
+		"name": "Novaci",
+		"code": "MK-55"
+	},
+	{
+		"name": "Novo Selo",
+		"code": "MK-56"
+	},
+	{
+		"name": "Ohrid",
+		"code": "MK-58"
+	},
+	{
+		"name": "Oslomej",
+		"code": "MK-57"
+	},
+	{
+		"name": "Pehčevo",
+		"code": "MK-60"
+	},
+	{
+		"name": "Petrovec",
+		"code": "MK-59"
+	},
+	{
+		"name": "Plasnica",
+		"code": "MK-61"
+	},
+	{
+		"name": "Prilep",
+		"code": "MK-62"
+	},
+	{
+		"name": "Probištip",
+		"code": "MK-63"
+	},
+	{
+		"name": "Radoviš",
+		"code": "MK-64"
+	},
+	{
+		"name": "Rankovce",
+		"code": "MK-65"
+	},
+	{
+		"name": "Resen",
+		"code": "MK-66"
+	},
+	{
+		"name": "Rosoman",
+		"code": "MK-67"
+	},
+	{
+		"name": "Saraj",
+		"code": "MK-68"
+	},
+	{
+		"name": "Sopište",
+		"code": "MK-70"
+	},
+	{
+		"name": "Staro Nagoričane",
+		"code": "MK-71"
+	},
+	{
+		"name": "Struga",
+		"code": "MK-72"
+	},
+	{
+		"name": "Strumica",
+		"code": "MK-73"
+	},
+	{
+		"name": "Studeničani",
+		"code": "MK-74"
+	},
+	{
+		"name": "Sveti Nikole",
+		"code": "MK-69"
+	},
+	{
+		"name": "Tearce",
+		"code": "MK-75"
+	},
+	{
+		"name": "Tetovo",
+		"code": "MK-76"
+	},
+	{
+		"name": "Valandovo",
+		"code": "MK-10"
+	},
+	{
+		"name": "Vasilevo",
+		"code": "MK-11"
+	},
+	{
+		"name": "Veles",
+		"code": "MK-13"
+	},
+	{
+		"name": "Vevčani",
+		"code": "MK-12"
+	},
+	{
+		"name": "Vinica",
+		"code": "MK-14"
+	},
+	{
+		"name": "Vraneštica",
+		"code": "MK-15"
+	},
+	{
+		"name": "Vrapčište",
+		"code": "MK-16"
+	},
+	{
+		"name": "Zajas",
+		"code": "MK-31"
+	},
+	{
+		"name": "Zelenikovo",
+		"code": "MK-32"
+	},
+	{
+		"name": "Zrnovci",
+		"code": "MK-33"
+	},
+	{
+		"name": "Čair",
+		"code": "MK-79"
+	},
+	{
+		"name": "Čaška",
+		"code": "MK-80"
+	},
+	{
+		"name": "Češinovo-Obleševo",
+		"code": "MK-81"
+	},
+	{
+		"name": "Čučer Sandevo",
+		"code": "MK-82"
+	},
+	{
+		"name": "Štip",
+		"code": "MK-83"
+	},
+	{
+		"name": "Šuto Orizari",
+		"code": "MK-84"
+	},
+	{
+		"name": "Želino",
+		"code": "MK-30"
+	}
+]

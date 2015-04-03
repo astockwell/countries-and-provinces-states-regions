@@ -1,0 +1,478 @@
+[
+	{
+		"name": "Aglonas novads",
+		"code": "LV-001"
+	},
+	{
+		"name": "Aizkraukles novads",
+		"code": "LV-002"
+	},
+	{
+		"name": "Aizputes novads",
+		"code": "LV-003"
+	},
+	{
+		"name": "Aknīstes novads",
+		"code": "LV-004"
+	},
+	{
+		"name": "Alojas novads",
+		"code": "LV-005"
+	},
+	{
+		"name": "Alsungas novads",
+		"code": "LV-006"
+	},
+	{
+		"name": "Alūksnes novads",
+		"code": "LV-007"
+	},
+	{
+		"name": "Amatas novads",
+		"code": "LV-008"
+	},
+	{
+		"name": "Apes novads",
+		"code": "LV-009"
+	},
+	{
+		"name": "Auces novads",
+		"code": "LV-010"
+	},
+	{
+		"name": "Babītes novads",
+		"code": "LV-012"
+	},
+	{
+		"name": "Baldones novads",
+		"code": "LV-013"
+	},
+	{
+		"name": "Baltinavas novads",
+		"code": "LV-014"
+	},
+	{
+		"name": "Balvu novads",
+		"code": "LV-015"
+	},
+	{
+		"name": "Bauskas novads",
+		"code": "LV-016"
+	},
+	{
+		"name": "Beverīnas novads",
+		"code": "LV-017"
+	},
+	{
+		"name": "Brocēnu novads",
+		"code": "LV-018"
+	},
+	{
+		"name": "Burtnieku novads",
+		"code": "LV-019"
+	},
+	{
+		"name": "Carnikavas novads",
+		"code": "LV-020"
+	},
+	{
+		"name": "Cesvaines novads",
+		"code": "LV-021"
+	},
+	{
+		"name": "Ciblas novads",
+		"code": "LV-023"
+	},
+	{
+		"name": "Cēsu novads (Cēsis)",
+		"code": "LV-022"
+	},
+	{
+		"name": "Dagdas novads",
+		"code": "LV-024"
+	},
+	{
+		"name": "Daugavpils",
+		"code": "LV-DGV"
+	},
+	{
+		"name": "Daugavpils novads",
+		"code": "LV-025"
+	},
+	{
+		"name": "Dobeles novads",
+		"code": "LV-026"
+	},
+	{
+		"name": "Dundagas novads",
+		"code": "LV-027"
+	},
+	{
+		"name": "Durbes novads",
+		"code": "LV-028"
+	},
+	{
+		"name": "Engures novads",
+		"code": "LV-029"
+	},
+	{
+		"name": "Garkalnes novads",
+		"code": "LV-031"
+	},
+	{
+		"name": "Grobiņas novads",
+		"code": "LV-032"
+	},
+	{
+		"name": "Gulbenes novads",
+		"code": "LV-033"
+	},
+	{
+		"name": "Iecavas novads",
+		"code": "LV-034"
+	},
+	{
+		"name": "Ikšķiles novads",
+		"code": "LV-035"
+	},
+	{
+		"name": "Ilūkstes novads",
+		"code": "LV-036"
+	},
+	{
+		"name": "Inčukalna novads",
+		"code": "LV-037"
+	},
+	{
+		"name": "Jaunjelgavas novads",
+		"code": "LV-038"
+	},
+	{
+		"name": "Jaunpiebalgas novads",
+		"code": "LV-039"
+	},
+	{
+		"name": "Jaunpils novads",
+		"code": "LV-040"
+	},
+	{
+		"name": "Jelgava",
+		"code": "LV-JEL"
+	},
+	{
+		"name": "Jelgavas novads",
+		"code": "LV-041"
+	},
+	{
+		"name": "Jēkabpils",
+		"code": "LV-JKB"
+	},
+	{
+		"name": "Jēkabpils novads",
+		"code": "LV-042"
+	},
+	{
+		"name": "Jūrmala",
+		"code": "LV-JUR"
+	},
+	{
+		"name": "Kandavas novads",
+		"code": "LV-043"
+	},
+	{
+		"name": "Kocēnu novads",
+		"code": "LV-045"
+	},
+	{
+		"name": "Kokneses novads",
+		"code": "LV-046"
+	},
+	{
+		"name": "Krimuldas novads",
+		"code": "LV-048"
+	},
+	{
+		"name": "Krustpils novads",
+		"code": "LV-049"
+	},
+	{
+		"name": "Krāslavas novads (Krāslava)",
+		"code": "LV-047"
+	},
+	{
+		"name": "Kuldīgas novads",
+		"code": "LV-050"
+	},
+	{
+		"name": "Kārsavas novads (Kārsava)",
+		"code": "LV-044"
+	},
+	{
+		"name": "Lielvārdes novads",
+		"code": "LV-053"
+	},
+	{
+		"name": "Liepāja",
+		"code": "LV-LPX"
+	},
+	{
+		"name": "Limbažu novads",
+		"code": "LV-054"
+	},
+	{
+		"name": "Lubānas novads",
+		"code": "LV-057"
+	},
+	{
+		"name": "Ludzas novads",
+		"code": "LV-058"
+	},
+	{
+		"name": "Līgatnes novads (Līgatne)",
+		"code": "LV-055"
+	},
+	{
+		"name": "Līvānu novads (Līvāni)",
+		"code": "LV-056"
+	},
+	{
+		"name": "Madonas novads",
+		"code": "LV-059"
+	},
+	{
+		"name": "Mazsalacas novads",
+		"code": "LV-060"
+	},
+	{
+		"name": "Mālpils novads (Mālpils)",
+		"code": "LV-061"
+	},
+	{
+		"name": "Mārupes novads (Mārupe)",
+		"code": "LV-062"
+	},
+	{
+		"name": "Mērsraga novads",
+		"code": "LV-063"
+	},
+	{
+		"name": "Naukšēnu novads",
+		"code": "LV-064"
+	},
+	{
+		"name": "Neretas novads",
+		"code": "LV-065"
+	},
+	{
+		"name": "Nīcas novads",
+		"code": "LV-066"
+	},
+	{
+		"name": "Ogres novads",
+		"code": "LV-067"
+	},
+	{
+		"name": "Olaines novads",
+		"code": "LV-068"
+	},
+	{
+		"name": "Ozolnieku novads",
+		"code": "LV-069"
+	},
+	{
+		"name": "Preiļu novads",
+		"code": "LV-073"
+	},
+	{
+		"name": "Priekules novads",
+		"code": "LV-074"
+	},
+	{
+		"name": "Priekuļu novads",
+		"code": "LV-075"
+	},
+	{
+		"name": "Pārgaujas novads (Pārgauja)",
+		"code": "LV-070"
+	},
+	{
+		"name": "Pāvilostas novads (Pāvilosta)",
+		"code": "LV-071"
+	},
+	{
+		"name": "Pļaviņu novads (Pļaviņas)",
+		"code": "LV-072"
+	},
+	{
+		"name": "Raunas novads",
+		"code": "LV-076"
+	},
+	{
+		"name": "Riebiņu novads",
+		"code": "LV-078"
+	},
+	{
+		"name": "Rojas novads",
+		"code": "LV-079"
+	},
+	{
+		"name": "Ropažu novads",
+		"code": "LV-080"
+	},
+	{
+		"name": "Rucavas novads",
+		"code": "LV-081"
+	},
+	{
+		"name": "Rugāju novads",
+		"code": "LV-082"
+	},
+	{
+		"name": "Rundāles novads",
+		"code": "LV-083"
+	},
+	{
+		"name": "Rēzekne",
+		"code": "LV-REZ"
+	},
+	{
+		"name": "Rēzeknes novads (Rēzekne)",
+		"code": "LV-077"
+	},
+	{
+		"name": "Rīga",
+		"code": "LV-RIX"
+	},
+	{
+		"name": "Rūjienas novads",
+		"code": "LV-084"
+	},
+	{
+		"name": "Salacgrīvas novads",
+		"code": "LV-086"
+	},
+	{
+		"name": "Salas novads",
+		"code": "LV-085"
+	},
+	{
+		"name": "Salaspils novads",
+		"code": "LV-087"
+	},
+	{
+		"name": "Saldus novads",
+		"code": "LV-088"
+	},
+	{
+		"name": "Saulkrastu novads",
+		"code": "LV-089"
+	},
+	{
+		"name": "Siguldas novads",
+		"code": "LV-091"
+	},
+	{
+		"name": "Skrundas novads",
+		"code": "LV-093"
+	},
+	{
+		"name": "Skrīveru novads (Skrīveri)",
+		"code": "LV-092"
+	},
+	{
+		"name": "Smiltenes novads",
+		"code": "LV-094"
+	},
+	{
+		"name": "Stopiņu novads",
+		"code": "LV-095"
+	},
+	{
+		"name": "Strenču novads",
+		"code": "LV-096"
+	},
+	{
+		"name": "Sējas novads (Sēja)",
+		"code": "LV-090"
+	},
+	{
+		"name": "Talsu novads",
+		"code": "LV-097"
+	},
+	{
+		"name": "Tukuma novads",
+		"code": "LV-099"
+	},
+	{
+		"name": "Tērvetes novads (Tērvete)",
+		"code": "LV-098"
+	},
+	{
+		"name": "Vaiņodes novads",
+		"code": "LV-100"
+	},
+	{
+		"name": "Valkas novads",
+		"code": "LV-101"
+	},
+	{
+		"name": "Valmiera",
+		"code": "LV-VMR"
+	},
+	{
+		"name": "Varakļānu novads",
+		"code": "LV-102"
+	},
+	{
+		"name": "Vecpiebalgas novads",
+		"code": "LV-104"
+	},
+	{
+		"name": "Vecumnieku novads",
+		"code": "LV-105"
+	},
+	{
+		"name": "Ventspils",
+		"code": "LV-VEN"
+	},
+	{
+		"name": "Ventspils novads",
+		"code": "LV-106"
+	},
+	{
+		"name": "Viesītes novads",
+		"code": "LV-107"
+	},
+	{
+		"name": "Viļakas novads",
+		"code": "LV-108"
+	},
+	{
+		"name": "Viļānu novads",
+		"code": "LV-109"
+	},
+	{
+		"name": "Vārkavas novads (Vārkava)",
+		"code": "LV-103"
+	},
+	{
+		"name": "Zilupes novads",
+		"code": "LV-110"
+	},
+	{
+		"name": "Ādažu novads (Ādaži)",
+		"code": "LV-011"
+	},
+	{
+		"name": "Ērgļu novads (Ērgļi)",
+		"code": "LV-030"
+	},
+	{
+		"name": "Ķeguma novads (Ķegums)",
+		"code": "LV-051"
+	},
+	{
+		"name": "Ķekavas novads (Ķekava)",
+		"code": "LV-052"
+	}
+]

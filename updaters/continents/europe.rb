@@ -67,7 +67,7 @@ def fetch_country(code, name)
 	end
 end
 
-countries[9..19].each do |country|
+countries[19..29].each do |country|
 	n = country["name"].gsub(/\(.*?\)/){ |m| "" }.parameterize
 	c = country["code"]
 
