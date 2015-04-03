@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Bjelovarsko-bilogorska županija",
+		"code": "HR-07"
+	},
+	{
+		"name": "Brodsko-posavska županija",
+		"code": "HR-12"
+	},
+	{
+		"name": "Dubrovačko-neretvanska županija",
+		"code": "HR-19"
+	},
+	{
+		"name": "Grad Zagreb",
+		"code": "HR-21"
+	},
+	{
+		"name": "Istarska županija",
+		"code": "HR-18"
+	},
+	{
+		"name": "Karlovačka županija",
+		"code": "HR-04"
+	},
+	{
+		"name": "Koprivničko-križevačka županija",
+		"code": "HR-06"
+	},
+	{
+		"name": "Krapinsko-zagorska županija",
+		"code": "HR-02"
+	},
+	{
+		"name": "Ličko-senjska županija",
+		"code": "HR-09"
+	},
+	{
+		"name": "Međimurska županija",
+		"code": "HR-20"
+	},
+	{
+		"name": "Osječko-baranjska županija",
+		"code": "HR-14"
+	},
+	{
+		"name": "Požeško-slavonska županija",
+		"code": "HR-11"
+	},
+	{
+		"name": "Primorsko-goranska županija",
+		"code": "HR-08"
+	},
+	{
+		"name": "Sisačko-moslavačka županija",
+		"code": "HR-03"
+	},
+	{
+		"name": "Splitsko-dalmatinska županija",
+		"code": "HR-17"
+	},
+	{
+		"name": "Varaždinska županija",
+		"code": "HR-05"
+	},
+	{
+		"name": "Virovitičko-podravska županija",
+		"code": "HR-10"
+	},
+	{
+		"name": "Vukovarsko-srijemska županija",
+		"code": "HR-16"
+	},
+	{
+		"name": "Zadarska županija",
+		"code": "HR-13"
+	},
+	{
+		"name": "Zagrebačka županija",
+		"code": "HR-01"
+	},
+	{
+		"name": "Šibensko-kninska županija",
+		"code": "HR-15"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Brestskaya voblasts'",
+		"code": "BY-BR"
+	},
+	{
+		"name": "Homyel'skaya voblasts'",
+		"code": "BY-HO"
+	},
+	{
+		"name": "Horad Minsk",
+		"code": "BY-HM"
+	},
+	{
+		"name": "Hrodzenskaya voblasts'",
+		"code": "BY-HR"
+	},
+	{
+		"name": "Mahilyowskaya voblasts'",
+		"code": "BY-MA"
+	},
+	{
+		"name": "Minskaya voblasts'",
+		"code": "BY-MI"
+	},
+	{
+		"name": "Vitsyebskaya voblasts'",
+		"code": "BY-VI"
+	}
+]
