@@ -63,7 +63,8 @@ def fetch_country(code, name)
 	# when "CH" # Switzerland
 	# when "TR" # Turkey
 	# when "UA" # Ukraine
-	# when "GB" # United Kingdom
+	when "GB" # United Kingdom
+		return
 	else
 		GetFromWikipedia.Scrape(code, name)
 	end
