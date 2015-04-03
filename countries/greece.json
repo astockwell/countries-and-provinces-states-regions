@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Anatoliki Makedonia kai Thraki",
+		"code": "GR-A"
+	},
+	{
+		"name": "Attiki",
+		"code": "GR-I"
+	},
+	{
+		"name": "Dytiki Ellada",
+		"code": "GR-G"
+	},
+	{
+		"name": "Dytiki Makedonia",
+		"code": "GR-C"
+	},
+	{
+		"name": "Ionia Nisia",
+		"code": "GR-F"
+	},
+	{
+		"name": "Ipeiros",
+		"code": "GR-D"
+	},
+	{
+		"name": "Kentriki Makedonia",
+		"code": "GR-B"
+	},
+	{
+		"name": "Kriti",
+		"code": "GR-M"
+	},
+	{
+		"name": "Notio Aigaio",
+		"code": "GR-L"
+	},
+	{
+		"name": "Peloponnisos",
+		"code": "GR-J"
+	},
+	{
+		"name": "Sterea Ellada",
+		"code": "GR-H"
+	},
+	{
+		"name": "Thessalia",
+		"code": "GR-E"
+	},
+	{
+		"name": "Voreio Aigaio",
+		"code": "GR-K"
+	}
+]

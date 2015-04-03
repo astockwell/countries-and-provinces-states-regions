@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Jihomoravský kraj",
+		"code": "CZ-JM"
+	},
+	{
+		"name": "Jihočeský kraj",
+		"code": "CZ-JC"
+	},
+	{
+		"name": "Karlovarský kraj",
+		"code": "CZ-KA"
+	},
+	{
+		"name": "Královéhradecký kraj",
+		"code": "CZ-KR"
+	},
+	{
+		"name": "Liberecký kraj",
+		"code": "CZ-LI"
+	},
+	{
+		"name": "Moravskoslezský kraj",
+		"code": "CZ-MO"
+	},
+	{
+		"name": "Olomoucký kraj",
+		"code": "CZ-OL"
+	},
+	{
+		"name": "Pardubický kraj",
+		"code": "CZ-PA"
+	},
+	{
+		"name": "Plzeňský kraj",
+		"code": "CZ-PL"
+	},
+	{
+		"name": "Praha, hlavní město",
+		"code": "CZ-PR"
+	},
+	{
+		"name": "Středočeský kraj",
+		"code": "CZ-ST"
+	},
+	{
+		"name": "Vysočina",
+		"code": "CZ-VY"
+	},
+	{
+		"name": "Zlínský kraj",
+		"code": "CZ-ZL"
+	},
+	{
+		"name": "Ústecký kraj",
+		"code": "CZ-US"
+	}
+]

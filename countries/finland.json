@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Ahvenanmaan maakunta",
+		"code": "FI-01"
+	},
+	{
+		"name": "Etelä-Karjala",
+		"code": "FI-02"
+	},
+	{
+		"name": "Etelä-Pohjanmaa",
+		"code": "FI-03"
+	},
+	{
+		"name": "Etelä-Savo",
+		"code": "FI-04"
+	},
+	{
+		"name": "Kainuu",
+		"code": "FI-05"
+	},
+	{
+		"name": "Kanta-Häme",
+		"code": "FI-06"
+	},
+	{
+		"name": "Keski-Pohjanmaa",
+		"code": "FI-07"
+	},
+	{
+		"name": "Keski-Suomi",
+		"code": "FI-08"
+	},
+	{
+		"name": "Kymenlaakso",
+		"code": "FI-09"
+	},
+	{
+		"name": "Lappi",
+		"code": "FI-10"
+	},
+	{
+		"name": "Pirkanmaa",
+		"code": "FI-11"
+	},
+	{
+		"name": "Pohjanmaa",
+		"code": "FI-12"
+	},
+	{
+		"name": "Pohjois-Karjala",
+		"code": "FI-13"
+	},
+	{
+		"name": "Pohjois-Pohjanmaa",
+		"code": "FI-14"
+	},
+	{
+		"name": "Pohjois-Savo",
+		"code": "FI-15"
+	},
+	{
+		"name": "Päijät-Häme",
+		"code": "FI-16"
+	},
+	{
+		"name": "Satakunta",
+		"code": "FI-17"
+	},
+	{
+		"name": "Uusimaa",
+		"code": "FI-18"
+	},
+	{
+		"name": "Varsinais-Suomi",
+		"code": "FI-19"
+	}
+]

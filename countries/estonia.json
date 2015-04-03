@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Harjumaa",
+		"code": "EE-37"
+	},
+	{
+		"name": "Hiiumaa",
+		"code": "EE-39"
+	},
+	{
+		"name": "Ida-Virumaa",
+		"code": "EE-44"
+	},
+	{
+		"name": "Järvamaa",
+		"code": "EE-51"
+	},
+	{
+		"name": "Jõgevamaa",
+		"code": "EE-49"
+	},
+	{
+		"name": "Lääne-Virumaa",
+		"code": "EE-59"
+	},
+	{
+		"name": "Läänemaa",
+		"code": "EE-57"
+	},
+	{
+		"name": "Pärnumaa",
+		"code": "EE-67"
+	},
+	{
+		"name": "Põlvamaa",
+		"code": "EE-65"
+	},
+	{
+		"name": "Raplamaa",
+		"code": "EE-70"
+	},
+	{
+		"name": "Saaremaa",
+		"code": "EE-74"
+	},
+	{
+		"name": "Tartumaa",
+		"code": "EE-78"
+	},
+	{
+		"name": "Valgamaa",
+		"code": "EE-82"
+	},
+	{
+		"name": "Viljandimaa",
+		"code": "EE-84"
+	},
+	{
+		"name": "Võrumaa",
+		"code": "EE-86"
+	}
+]

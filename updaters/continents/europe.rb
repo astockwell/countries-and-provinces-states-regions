@@ -8,7 +8,7 @@ countries = JSON.parse(IO.read("../../countries.json").force_encoding("UTF-8").e
 countries.select! { |c| c["continent"] == "Europe" }
 
 def fetch_country(code, name)
-	# case code
+	case code
 	# when "AL" # Albania
 	# when "AD" # AndorrA
 	# when "AM" # Armenia
@@ -28,7 +28,8 @@ def fetch_country(code, name)
 	# when "GE" # Georgia
 	# when "DE" # Germany
 	# when "GR" # Greece
-	# when "VA" # Holy See (Vatican City State)
+	when "VA" # Holy See (Vatican City State)
+		return
 	# when "HU" # Hungary
 	# when "IS" # Iceland
 	# when "IE" # Ireland
@@ -61,13 +62,12 @@ def fetch_country(code, name)
 	# when "TR" # Turkey
 	# when "UA" # Ukraine
 	# when "GB" # United Kingdom
-	# else
-	# 	GetFromWikipedia.Scrape(code, name)
-	# end
-	GetFromWikipedia.Scrape(code, name)
+	else
+		GetFromWikipedia.Scrape(code, name)
+	end
 end
 
-countries[0..9].each do |country|
+countries[9..19].each do |country|
 	n = country["name"].gsub(/\(.*?\)/){ |m| "" }.parameterize
 	c = country["code"]
 
