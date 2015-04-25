@@ -84,7 +84,7 @@
 		"code": "LV-023"
 	},
 	{
-		"name": "Cēsu novads (Cēsis)",
+		"name": "Cēsu novads",
 		"code": "LV-022"
 	},
 	{
@@ -196,7 +196,7 @@
 		"code": "LV-049"
 	},
 	{
-		"name": "Krāslavas novads (Krāslava)",
+		"name": "Krāslavas novads",
 		"code": "LV-047"
 	},
 	{
@@ -204,7 +204,7 @@
 		"code": "LV-050"
 	},
 	{
-		"name": "Kārsavas novads (Kārsava)",
+		"name": "Kārsavas novads",
 		"code": "LV-044"
 	},
 	{
@@ -228,11 +228,11 @@
 		"code": "LV-058"
 	},
 	{
-		"name": "Līgatnes novads (Līgatne)",
+		"name": "Līgatnes novads",
 		"code": "LV-055"
 	},
 	{
-		"name": "Līvānu novads (Līvāni)",
+		"name": "Līvānu novads",
 		"code": "LV-056"
 	},
 	{
@@ -244,11 +244,11 @@
 		"code": "LV-060"
 	},
 	{
-		"name": "Mālpils novads (Mālpils)",
+		"name": "Mālpils novads",
 		"code": "LV-061"
 	},
 	{
-		"name": "Mārupes novads (Mārupe)",
+		"name": "Mārupes novads",
 		"code": "LV-062"
 	},
 	{
@@ -292,15 +292,15 @@
 		"code": "LV-075"
 	},
 	{
-		"name": "Pārgaujas novads (Pārgauja)",
+		"name": "Pārgaujas novads",
 		"code": "LV-070"
 	},
 	{
-		"name": "Pāvilostas novads (Pāvilosta)",
+		"name": "Pāvilostas novads",
 		"code": "LV-071"
 	},
 	{
-		"name": "Pļaviņu novads (Pļaviņas)",
+		"name": "Pļaviņu novads",
 		"code": "LV-072"
 	},
 	{
@@ -336,7 +336,7 @@
 		"code": "LV-REZ"
 	},
 	{
-		"name": "Rēzeknes novads (Rēzekne)",
+		"name": "Rēzeknes novads",
 		"code": "LV-077"
 	},
 	{
@@ -376,7 +376,7 @@
 		"code": "LV-093"
 	},
 	{
-		"name": "Skrīveru novads (Skrīveri)",
+		"name": "Skrīveru novads",
 		"code": "LV-092"
 	},
 	{
@@ -392,7 +392,7 @@
 		"code": "LV-096"
 	},
 	{
-		"name": "Sējas novads (Sēja)",
+		"name": "Sējas novads",
 		"code": "LV-090"
 	},
 	{
@@ -404,7 +404,7 @@
 		"code": "LV-099"
 	},
 	{
-		"name": "Tērvetes novads (Tērvete)",
+		"name": "Tērvetes novads",
 		"code": "LV-098"
 	},
 	{
@@ -452,7 +452,7 @@
 		"code": "LV-109"
 	},
 	{
-		"name": "Vārkavas novads (Vārkava)",
+		"name": "Vārkavas novads",
 		"code": "LV-103"
 	},
 	{
@@ -460,19 +460,19 @@
 		"code": "LV-110"
 	},
 	{
-		"name": "Ādažu novads (Ādaži)",
+		"name": "Ādažu novads",
 		"code": "LV-011"
 	},
 	{
-		"name": "Ērgļu novads (Ērgļi)",
+		"name": "Ērgļu novads",
 		"code": "LV-030"
 	},
 	{
-		"name": "Ķeguma novads (Ķegums)",
+		"name": "Ķeguma novads",
 		"code": "LV-051"
 	},
 	{
-		"name": "Ķekavas novads (Ķekava)",
+		"name": "Ķekavas novads",
 		"code": "LV-052"
 	}
 ]

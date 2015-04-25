@@ -76,7 +76,13 @@ def fetch_country(code, name)
 	# when "AT" # Austria
 	# when "AZ" # Azerbaijan
 	# when "BY" # Belarus
-	# when "BE" # Belgium
+	when "BE" # Belgium
+		GetFromWikipedia.Scrape(code, name) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split("\n").first.strip
+			end
+			each_name
+		end
 	# when "BA" # Bosnia and Herzegovina
 	# when "BG" # Bulgaria
 	# when "HR" # Croatia
@@ -94,14 +100,32 @@ def fetch_country(code, name)
 	# when "HU" # Hungary
 	# when "IS" # Iceland
 	# when "IE" # Ireland
-	# when "IT" # Italy
+	when "IT" # Italy
+		GetFromWikipedia.Scrape(code, name) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split(',').first.strip
+			end
+			each_name
+		end
 	# when "KZ" # Kazakhstan
 	# when "LV" # Latvia
 	# when "LI" # Liechtenstein
 	# when "LT" # Lithuania
-	# when "LU" # Luxembourg
+	when "LU" # Luxembourg
+		GetFromWikipedia.Scrape(code, name) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split(',').first.strip
+			end
+			each_name
+		end
 	# when "MK" # Macedonia, The Former Yugoslav Republic of
-	# when "MT" # Malta
+	when "MT" # Malta
+		GetFromWikipedia.Scrape(code, name) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split(',').first.strip
+			end
+			each_name
+		end
 	# when "MD" # Moldova, Republic of
 	# when "MC" # Monaco
 	# when "ME" # Montenegro
@@ -121,7 +145,13 @@ def fetch_country(code, name)
 		return
 	# when "ES" # Spain
 	# when "SE" # Sweden
-	# when "CH" # Switzerland
+	when "CH" # Switzerland
+		GetFromWikipedia.Scrape(code, name) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split(',').first.strip
+			end
+			each_name
+		end
 	# when "TR" # Turkey
 	# when "UA" # Ukraine
 	when "GB" # United Kingdom

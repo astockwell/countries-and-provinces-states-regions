@@ -172,12 +172,24 @@
 		"code": "MT-44"
 	},
 	{
+		"name": "Rabat Għawdex",
+		"code": "MT-45"
+	},
+	{
 		"name": "Rabat Malta",
 		"code": "MT-46"
 	},
 	{
 		"name": "Safi",
 		"code": "MT-47"
+	},
+	{
+		"name": "San Lawrenz",
+		"code": "MT-50"
+	},
+	{
+		"name": "San Pawl il-Baħar",
+		"code": "MT-51"
 	},
 	{
 		"name": "San Ġiljan",
@@ -190,6 +202,10 @@
 	{
 		"name": "Sannat",
 		"code": "MT-52"
+	},
+	{
+		"name": "Santa Luċija",
+		"code": "MT-53"
 	},
 	{
 		"name": "Santa Venera",
@@ -232,32 +248,16 @@
 		"code": "MT-63"
 	},
 	{
-		"name": "mt",
-		"code": "MT-45"
-	},
-	{
-		"name": "mt",
-		"code": "MT-53"
-	},
-	{
-		"name": "mt",
-		"code": "MT-65"
-	},
-	{
-		"name": "mt",
-		"code": "MT-50"
-	},
-	{
-		"name": "mt",
-		"code": "MT-51"
-	},
-	{
 		"name": "Ħamrun",
 		"code": "MT-18"
 	},
 	{
 		"name": "Żabbar",
 		"code": "MT-64"
+	},
+	{
+		"name": "Żebbuġ Għawdex",
+		"code": "MT-65"
 	},
 	{
 		"name": "Żebbuġ Malta",

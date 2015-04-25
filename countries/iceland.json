@@ -1,6 +1,38 @@
 [
 	{
+		"name": "Austurland",
+		"code": "IS-7"
+	},
+	{
+		"name": "Höfuðborgarsvæði utan Reykjavíkur",
+		"code": "IS-1"
+	},
+	{
+		"name": "Norðurland eystra",
+		"code": "IS-6"
+	},
+	{
+		"name": "Norðurland vestra",
+		"code": "IS-5"
+	},
+	{
 		"name": "Reykjavík",
 		"code": "IS-0"
+	},
+	{
+		"name": "Suðurland",
+		"code": "IS-8"
+	},
+	{
+		"name": "Suðurnes",
+		"code": "IS-2"
+	},
+	{
+		"name": "Vestfirðir",
+		"code": "IS-4"
+	},
+	{
+		"name": "Vesturland",
+		"code": "IS-3"
 	}
 ]
