@@ -160,6 +160,21 @@
 		"subdivision": "London borough"
 	},
 	{
+		"name": "England and Wales",
+		"code": "GB-EAW",
+		"subdivision": "Nation"
+	},
+	{
+		"name": "Great Britain",
+		"code": "GB-GBN",
+		"subdivision": "Nation"
+	},
+	{
+		"name": "United Kingdom",
+		"code": "GB-UKM",
+		"subdivision": "Nation"
+	},
+	{
 		"name": "London, City of",
 		"code": "GB-LND",
 		"subdivision": "city corporation"
@@ -570,11 +585,6 @@
 		"subdivision": "metropolitan district"
 	},
 	{
-		"name": "Saint Helens !St. Helens",
-		"code": "GB-SHN",
-		"subdivision": "metropolitan district"
-	},
-	{
 		"name": "Salford",
 		"code": "GB-SLF",
 		"subdivision": "metropolitan district"
@@ -602,6 +612,11 @@
 	{
 		"name": "South Tyneside",
 		"code": "GB-STY",
+		"subdivision": "metropolitan district"
+	},
+	{
+		"name": "St. Helens",
+		"code": "GB-SHN",
 		"subdivision": "metropolitan district"
 	},
 	{
@@ -648,21 +663,6 @@
 		"name": "Wolverhampton",
 		"code": "GB-WLV",
 		"subdivision": "metropolitan district"
-	},
-	{
-		"name": "England and Wales",
-		"code": "GB-EAW",
-		"subdivision": "nation"
-	},
-	{
-		"name": "Great Britain",
-		"code": "GB-GBN",
-		"subdivision": "nation"
-	},
-	{
-		"name": "United Kingdom",
-		"code": "GB-UKM",
-		"subdivision": "nation"
 	},
 	{
 		"name": "Northern Ireland",
