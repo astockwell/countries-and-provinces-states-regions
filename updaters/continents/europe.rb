@@ -82,7 +82,17 @@ def fetch_country(code, name)
 	# when "SI" # Slovenia
 	when "GS" # South Georgia and the South Sandwich Islands
 		return
-	# when "ES" # Spain
+	when "ES" # Spain
+		tables = [
+			TableIndexMap.new(1, 0, 2),
+			TableIndexMap.new(1, 0, "Province"),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split('/').first.strip
+			end
+			each_name
+		end
 	# when "SE" # Sweden
 	when "CH" # Switzerland
 		GetFromWikipedia.Scrape(code, name) do |each_name, prop|

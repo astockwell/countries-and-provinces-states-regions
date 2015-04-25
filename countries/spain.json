@@ -1,78 +1,347 @@
 [
 	{
-		"name": "Andalucía",
-		"code": "ES-AN"
+		"name": "A Coruña",
+		"code": "ES-C",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Aragón",
-		"code": "ES-AR"
+		"name": "Albacete",
+		"code": "ES-AB",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Asturias, Principado de",
-		"code": "ES-AS"
+		"name": "Alicante",
+		"code": "ES-A",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Canarias",
-		"code": "ES-CN"
+		"name": "Almería",
+		"code": "ES-AL",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Asturias",
+		"code": "ES-O",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Badajoz",
+		"code": "ES-BA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Balears",
+		"code": "ES-PM",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Barcelona",
+		"code": "ES-B",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Burgos",
+		"code": "ES-BU",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Cantabria",
-		"code": "ES-CB"
+		"code": "ES-S",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Castilla y León",
-		"code": "ES-CL"
+		"name": "Castellón",
+		"code": "ES-CS",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Castilla-La Mancha",
-		"code": "ES-CM"
+		"name": "Ciudad Real",
+		"code": "ES-CR",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Catalunya",
-		"code": "ES-CT"
+		"name": "Cuenca",
+		"code": "ES-CU",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Ceuta",
-		"code": "ES-CE"
+		"name": "Cáceres",
+		"code": "ES-CC",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Extremadura",
-		"code": "ES-EX"
+		"name": "Cádiz",
+		"code": "ES-CA",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Galicia",
-		"code": "ES-GA"
+		"name": "Córdoba",
+		"code": "ES-CO",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Illes Balears",
-		"code": "ES-IB"
+		"name": "Girona",
+		"code": "ES-GI",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Granada",
+		"code": "ES-GR",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Guadalajara",
+		"code": "ES-GU",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Guipúzcoa",
+		"code": "ES-SS",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Huelva",
+		"code": "ES-H",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Huesca",
+		"code": "ES-HU",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Jaén",
+		"code": "ES-J",
+		"subdivision": "Province"
 	},
 	{
 		"name": "La Rioja",
-		"code": "ES-RI"
+		"code": "ES-LO",
+		"subdivision": "Province"
 	},
 	{
-		"name": "Madrid, Comunidad de",
-		"code": "ES-MD"
+		"name": "Las Palmas",
+		"code": "ES-GC",
+		"subdivision": "Province"
+	},
+	{
+		"name": "León",
+		"code": "ES-LE",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Lleida",
+		"code": "ES-L",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Lugo",
+		"code": "ES-LU",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Madrid",
+		"code": "ES-M",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Murcia",
+		"code": "ES-MU",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Málaga",
+		"code": "ES-MA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Navarra",
+		"code": "ES-NA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Ourense",
+		"code": "ES-OR",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Palencia",
+		"code": "ES-P",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Pontevedra",
+		"code": "ES-PO",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Salamanca",
+		"code": "ES-SA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Santa Cruz de Tenerife",
+		"code": "ES-TF",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Segovia",
+		"code": "ES-SG",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Sevilla",
+		"code": "ES-SE",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Soria",
+		"code": "ES-SO",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Tarragona",
+		"code": "ES-T",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Teruel",
+		"code": "ES-TE",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Toledo",
+		"code": "ES-TO",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Valencia",
+		"code": "ES-V",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Valladolid",
+		"code": "ES-VA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Vizcaya",
+		"code": "ES-BI",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Zamora",
+		"code": "ES-ZA",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Zaragoza",
+		"code": "ES-Z",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Álava",
+		"code": "ES-VI",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Ávila",
+		"code": "ES-AV",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Ceuta",
+		"code": "ES-CE",
+		"subdivision": "autonomous city in North Africa"
 	},
 	{
 		"name": "Melilla",
-		"code": "ES-ML"
+		"code": "ES-ML",
+		"subdivision": "autonomous city in North Africa"
+	},
+	{
+		"name": "Andalucía",
+		"code": "ES-AN",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Aragón",
+		"code": "ES-AR",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Asturias, Principado de",
+		"code": "ES-AS",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Canarias",
+		"code": "ES-CN",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Cantabria",
+		"code": "ES-CB",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Castilla y León",
+		"code": "ES-CL",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Castilla-La Mancha",
+		"code": "ES-CM",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Catalunya",
+		"code": "ES-CT",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Extremadura",
+		"code": "ES-EX",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Galicia",
+		"code": "ES-GA",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Illes Balears",
+		"code": "ES-IB",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "La Rioja",
+		"code": "ES-RI",
+		"subdivision": "autonomous community"
+	},
+	{
+		"name": "Madrid, Comunidad de",
+		"code": "ES-MD",
+		"subdivision": "autonomous community"
 	},
 	{
 		"name": "Murcia, Región de",
-		"code": "ES-MC"
+		"code": "ES-MC",
+		"subdivision": "autonomous community"
 	},
 	{
-		"name": "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea",
-		"code": "ES-NC"
+		"name": "Navarra, Comunidad Foral de",
+		"code": "ES-NC",
+		"subdivision": "autonomous community"
 	},
 	{
-		"name": "País Vasco / Euskadi",
-		"code": "ES-PV"
+		"name": "País Vasco",
+		"code": "ES-PV",
+		"subdivision": "autonomous community"
 	},
 	{
-		"name": "Valenciana, Comunidad / Valenciana, Comunitat",
-		"code": "ES-VC"
+		"name": "Valenciana, Comunidad",
+		"code": "ES-VC",
+		"subdivision": "autonomous community"
 	}
 ]
