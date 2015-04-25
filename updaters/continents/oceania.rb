@@ -52,10 +52,3 @@ countries.each do |country|
 
 	fetch_country(c, n)
 end
-
-
-# tables = [
-# 	TableIndexMap.new(1, 0, "Island"),
-# 	TableIndexMap.new(1, 0, 3, 2),
-# ]
-# GetFromWikipedia.Scrape("NZ", "new-zealand", tables: tables)
