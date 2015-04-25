@@ -1,10 +1,34 @@
 [
-	{"name": "Australian Capital Territory", "code": "ACT"},
-	{"name": "New South Wales", "code": "NSW"},
-	{"name": "Northern Territory", "code": "NT"},
-	{"name": "Queensland", "code": "QLD"},
-	{"name": "South Australia", "code": "SA"},
-	{"name": "Tasmania", "code": "TAS"},
-	{"name": "Victoria", "code": "VIC"},
-	{"name": "Western Australia", "code": "WA"}
+	{
+		"name": "Australian Capital Territory",
+		"code": "AU-ACT"
+	},
+	{
+		"name": "New South Wales",
+		"code": "AU-NSW"
+	},
+	{
+		"name": "Northern Territory",
+		"code": "AU-NT"
+	},
+	{
+		"name": "Queensland",
+		"code": "AU-QLD"
+	},
+	{
+		"name": "South Australia",
+		"code": "AU-SA"
+	},
+	{
+		"name": "Tasmania",
+		"code": "AU-TAS"
+	},
+	{
+		"name": "Victoria",
+		"code": "AU-VIC"
+	},
+	{
+		"name": "Western Australia",
+		"code": "AU-WA"
+	}
 ]

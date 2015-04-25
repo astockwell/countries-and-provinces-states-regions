@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Capital Territory",
+		"code": "SB-CT"
+	},
+	{
+		"name": "Central",
+		"code": "SB-CE"
+	},
+	{
+		"name": "Choiseul",
+		"code": "SB-CH"
+	},
+	{
+		"name": "Guadalcanal",
+		"code": "SB-GU"
+	},
+	{
+		"name": "Isabel",
+		"code": "SB-IS"
+	},
+	{
+		"name": "Makira-Ulawa",
+		"code": "SB-MK"
+	},
+	{
+		"name": "Malaita",
+		"code": "SB-ML"
+	},
+	{
+		"name": "Rennell and Bellona",
+		"code": "SB-RB"
+	},
+	{
+		"name": "Temotu",
+		"code": "SB-TE"
+	},
+	{
+		"name": "Western",
+		"code": "SB-WE"
+	}
+]

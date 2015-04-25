@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Malampa",
+		"code": "VU-MAP"
+	},
+	{
+		"name": "Pénama",
+		"code": "VU-PAM"
+	},
+	{
+		"name": "Sanma",
+		"code": "VU-SAM"
+	},
+	{
+		"name": "Shéfa",
+		"code": "VU-SEE"
+	},
+	{
+		"name": "Taféa",
+		"code": "VU-TAE"
+	},
+	{
+		"name": "Torba",
+		"code": "VU-TOB"
+	}
+]

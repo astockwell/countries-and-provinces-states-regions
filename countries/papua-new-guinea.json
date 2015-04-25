@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Bougainville",
+		"code": "PG-NSB"
+	},
+	{
+		"name": "Central",
+		"code": "PG-CPM"
+	},
+	{
+		"name": "Chimbu",
+		"code": "PG-CPK"
+	},
+	{
+		"name": "East New Britain",
+		"code": "PG-EBR"
+	},
+	{
+		"name": "East Sepik",
+		"code": "PG-ESW"
+	},
+	{
+		"name": "Eastern Highlands",
+		"code": "PG-EHG"
+	},
+	{
+		"name": "Enga",
+		"code": "PG-EPW"
+	},
+	{
+		"name": "Gulf",
+		"code": "PG-GPK"
+	},
+	{
+		"name": "Madang",
+		"code": "PG-MPM"
+	},
+	{
+		"name": "Manus",
+		"code": "PG-MRL"
+	},
+	{
+		"name": "Milne Bay",
+		"code": "PG-MBA"
+	},
+	{
+		"name": "Morobe",
+		"code": "PG-MPL"
+	},
+	{
+		"name": "National Capital District",
+		"code": "PG-NCD"
+	},
+	{
+		"name": "New Ireland",
+		"code": "PG-NIK"
+	},
+	{
+		"name": "Northern",
+		"code": "PG-NPP"
+	},
+	{
+		"name": "Sandaun",
+		"code": "PG-SAN"
+	},
+	{
+		"name": "Southern Highlands",
+		"code": "PG-SHM"
+	},
+	{
+		"name": "West New Britain",
+		"code": "PG-WBK"
+	},
+	{
+		"name": "Western",
+		"code": "PG-WPD"
+	},
+	{
+		"name": "Western Highlands",
+		"code": "PG-WHM"
+	}
+]

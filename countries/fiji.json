@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Central",
+		"code": "FJ-C"
+	},
+	{
+		"name": "Eastern",
+		"code": "FJ-E"
+	},
+	{
+		"name": "Northern",
+		"code": "FJ-N"
+	},
+	{
+		"name": "Rotuma",
+		"code": "FJ-R"
+	},
+	{
+		"name": "Western",
+		"code": "FJ-W"
+	}
+]

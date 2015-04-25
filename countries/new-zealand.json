@@ -1,17 +1,112 @@
 [
-	{"name": "Auckland", "code": "AK"},
-	{"name": "Bay of Plenty", "code": "BP"},
-	{"name": "Canterbury", "code": "CT"},
-	{"name": "Hawke's Bay", "code": "HB"},
-	{"name": "Manawatu-Wanganui", "code": "MW"},
-	{"name": "Marlborough", "code": "MB"},
-	{"name": "Nelson", "code": "NS"},
-	{"name": "Northland", "code": "NL"},
-	{"name": "Otago", "code": "OT"},
-	{"name": "Southland", "code": "SL"},
-	{"name": "Taranaki", "code": "TK"},
-	{"name": "Tasman", "code": "TM"},
-	{"name": "Waikato", "code": "WA"},
-	{"name": "Wellington", "code": "WE"},
-	{"name": "West Coast", "code": "WC"}
+	{
+		"name": "North Island",
+		"code": "NZ-N",
+		"subdivision": "Island"
+	},
+	{
+		"name": "South Island",
+		"code": "NZ-S",
+		"subdivision": "Island"
+	},
+	{
+		"name": "Auckland",
+		"code": "NZ-AUK",
+		"subdivision": "regional council",
+		"native": "Tāmaki-makau-rau"
+	},
+	{
+		"name": "Bay of Plenty",
+		"code": "NZ-BOP",
+		"subdivision": "regional council",
+		"native": "Te Moana a Toi Te Huatahi"
+	},
+	{
+		"name": "Canterbury",
+		"code": "NZ-CAN",
+		"subdivision": "regional council",
+		"native": "Waitaha"
+	},
+	{
+		"name": "Hawke's Bay",
+		"code": "NZ-HKB",
+		"subdivision": "regional council",
+		"native": "Te Matau a Māui"
+	},
+	{
+		"name": "Manawatu-Wanganui",
+		"code": "NZ-MWT",
+		"subdivision": "regional council",
+		"native": "Manawatu Whanganui"
+	},
+	{
+		"name": "Northland",
+		"code": "NZ-NTL",
+		"subdivision": "regional council",
+		"native": "Te Tai tokerau"
+	},
+	{
+		"name": "Otago",
+		"code": "NZ-OTA",
+		"subdivision": "regional council",
+		"native": "Ō Tākou"
+	},
+	{
+		"name": "Southland",
+		"code": "NZ-STL",
+		"subdivision": "regional council",
+		"native": "Murihiku"
+	},
+	{
+		"name": "Taranaki",
+		"code": "NZ-TKI",
+		"subdivision": "regional council",
+		"native": "Taranaki"
+	},
+	{
+		"name": "Waikato",
+		"code": "NZ-WKO",
+		"subdivision": "regional council",
+		"native": "Waikato"
+	},
+	{
+		"name": "Wellington",
+		"code": "NZ-WGN",
+		"subdivision": "regional council",
+		"native": "Te Whanga-nui-a-Tara"
+	},
+	{
+		"name": "West Coast",
+		"code": "NZ-WTC",
+		"subdivision": "regional council",
+		"native": "Te Taihau ā uru"
+	},
+	{
+		"name": "Chatham Islands Territory",
+		"code": "NZ-CIT",
+		"subdivision": "special island authority",
+		"native": "Wharekauri"
+	},
+	{
+		"name": "Gisborne District",
+		"code": "NZ-GIS",
+		"subdivision": "unitary authority",
+		"native": "Tūranga nui a Kiwa"
+	},
+	{
+		"name": "Marlborough District",
+		"code": "NZ-MBH",
+		"subdivision": "unitary authority"
+	},
+	{
+		"name": "Nelson City",
+		"code": "NZ-NSN",
+		"subdivision": "unitary authority",
+		"native": "Whakatū"
+	},
+	{
+		"name": "Tasman District",
+		"code": "NZ-TAS",
+		"subdivision": "unitary authority"
+	}
 ]
