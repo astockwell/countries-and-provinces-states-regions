@@ -44,7 +44,8 @@
 	{
 		"name": "Antigua and Barbuda",
 		"code": "AG",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "antigua-and-barbuda"
 	},
 	{
 		"name": "Argentina",
@@ -84,7 +85,8 @@
 	{
 		"name": "Bahamas",
 		"code": "BS",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "bahamas"
 	},
 	{
 		"name": "Bahrain",
@@ -97,7 +99,8 @@
 	{
 		"name": "Barbados",
 		"code": "BB",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "barbados"
 	},
 	{
 		"name": "Belarus",
@@ -114,7 +117,8 @@
 	{
 		"name": "Belize",
 		"code": "BZ",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "belize"
 	},
 	{
 		"name": "Benin",
@@ -254,7 +258,8 @@
 	{
 		"name": "Costa Rica",
 		"code": "CR",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "costa-rica"
 	},
 	{
 		"name": "Côte d'Ivoire, Republic of",
@@ -269,7 +274,8 @@
 	{
 		"name": "Cuba",
 		"code": "CU",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "cuba"
 	},
 	{
 		"name": "Curaçao",
@@ -301,12 +307,14 @@
 	{
 		"name": "Dominica",
 		"code": "DM",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "dominica"
 	},
 	{
 		"name": "Dominican Republic",
 		"code": "DO",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "dominican-republic"
 	},
 	{
 		"name": "Ecuador",
@@ -321,7 +329,8 @@
 	{
 		"name": "El Salvador",
 		"code": "SV",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "el-salvador"
 	},
 	{
 		"name": "Equatorial Guinea",
@@ -419,12 +428,14 @@
 	{
 		"name": "Greenland",
 		"code": "GL",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "greenland"
 	},
 	{
 		"name": "Grenada",
 		"code": "GD",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "grenada"
 	},
 	{
 		"name": "Guadeloupe",
@@ -439,7 +450,8 @@
 	{
 		"name": "Guatemala",
 		"code": "GT",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "guatemala"
 	},
 	{
 		"name": "Guernsey",
@@ -462,7 +474,8 @@
 	{
 		"name": "Haiti",
 		"code": "HT",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "haiti"
 	},
 	{
 		"name": "Heard Island and Mcdonald Islands",
@@ -476,7 +489,8 @@
 	{
 		"name": "Honduras",
 		"code": "HN",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "honduras"
 	},
 	{
 		"name": "Hong Kong",
@@ -536,7 +550,8 @@
 	{
 		"name": "Jamaica",
 		"code": "JM",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "jamaica"
 	},
 	{
 		"name": "Japan",
@@ -776,7 +791,8 @@
 	{
 		"name": "Nicaragua",
 		"code": "NI",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "nicaragua"
 	},
 	{
 		"name": "Niger",
@@ -826,7 +842,8 @@
 	{
 		"name": "Panama",
 		"code": "PA",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "panama"
 	},
 	{
 		"name": "Papua New Guinea",
@@ -902,12 +919,14 @@
 	{
 		"name": "Saint Kitts and Nevis",
 		"code": "KN",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "saint-kitts-and-nevis"
 	},
 	{
 		"name": "Saint Lucia",
 		"code": "LC",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "saint-lucia"
 	},
 	{
 		"name": "Saint Pierre and Miquelon",
@@ -917,7 +936,8 @@
 	{
 		"name": "Saint Vincent and the Grenadines",
 		"code": "VC",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "saint-vincent-and-the-grenadines"
 	},
 	{
 		"name": "Samoa",
@@ -1082,7 +1102,8 @@
 	{
 		"name": "Trinidad and Tobago",
 		"code": "TT",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "trinidad-and-tobago"
 	},
 	{
 		"name": "Tunisia",
@@ -1138,7 +1159,8 @@
 	{
 		"name": "United States Minor Outlying Islands",
 		"code": "UM",
-		"continent": "North America"
+		"continent": "North America",
+		"filename": "united-states-minor-outlying-islands"
 	},
 	{
 		"name": "Uruguay",
