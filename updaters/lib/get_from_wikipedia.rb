@@ -1,5 +1,7 @@
 require 'json'
 require 'open-uri'
+require 'active_support'
+require 'active_support/core_ext/string'
 require 'nokogiri'
 require_relative '../lib/locale'
 
@@ -68,5 +70,9 @@ module GetFromWikipedia
 		s = s.gsub(/\[.*?\]/) { |match| "" } # remove braces
 		s = s.gsub(/\(.*?\)/) { |match| "" } # remove parentheses
 		return s.strip
+	end
+
+	def self.make_filename(s)
+		s.gsub(/\(.*?\)/){ |m| "" }.parameterize
 	end
 end

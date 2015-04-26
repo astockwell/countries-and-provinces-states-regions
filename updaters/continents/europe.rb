@@ -1,6 +1,4 @@
 require 'json'
-require 'active_support'
-require 'active_support/core_ext/string'
 require '../lib/get_from_wikipedia'
 
 countries = JSON.parse(IO.read("../../countries.json").force_encoding("UTF-8").encode!)
@@ -117,7 +115,7 @@ def fetch_country(code, name)
 end
 
 countries.each do |country|
-	n = country["name"].gsub(/\(.*?\)/){ |m| "" }.parameterize
+	n = GetFromWikipedia.make_filename(country["name"])
 	c = country["code"]
 
 	fetch_country(c, n)
