@@ -433,7 +433,8 @@
 	},
 	{
 		"name": "Guam",
-		"code": "GU"
+		"code": "GU",
+		"continent": "Oceania"
 	},
 	{
 		"name": "Guatemala",
@@ -1136,7 +1137,8 @@
 	},
 	{
 		"name": "United States Minor Outlying Islands",
-		"code": "UM"
+		"code": "UM",
+		"continent": "North America"
 	},
 	{
 		"name": "Uruguay",

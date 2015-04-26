@@ -15,6 +15,8 @@ def fetch_country(code, name)
 	when "CC" # cocos-keeling-islands
 		return
 	# when "FJ" # fiji
+	when "GU" # guam
+		return
 	when "PF" # french-polynesia
 		return
 	# when "KI" # kiribati
