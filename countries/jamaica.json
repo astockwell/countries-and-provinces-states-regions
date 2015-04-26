@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Clarendon",
+		"code": "JM-13"
+	},
+	{
+		"name": "Hanover",
+		"code": "JM-09"
+	},
+	{
+		"name": "Kingston",
+		"code": "JM-01"
+	},
+	{
+		"name": "Manchester",
+		"code": "JM-12"
+	},
+	{
+		"name": "Portland",
+		"code": "JM-04"
+	},
+	{
+		"name": "Saint Andrew",
+		"code": "JM-02"
+	},
+	{
+		"name": "Saint Ann",
+		"code": "JM-06"
+	},
+	{
+		"name": "Saint Catherine",
+		"code": "JM-14"
+	},
+	{
+		"name": "Saint Elizabeth",
+		"code": "JM-11"
+	},
+	{
+		"name": "Saint James",
+		"code": "JM-08"
+	},
+	{
+		"name": "Saint Mary",
+		"code": "JM-05"
+	},
+	{
+		"name": "Saint Thomas",
+		"code": "JM-03"
+	},
+	{
+		"name": "Trelawny",
+		"code": "JM-07"
+	},
+	{
+		"name": "Westmoreland",
+		"code": "JM-10"
+	}
+]

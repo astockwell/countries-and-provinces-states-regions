@@ -1,68 +1,287 @@
 [
-	{"name": "Alabama", "code": "AL"},
-	{"name": "Alaska", "code": "AK"},
-	{"name": "Arizona", "code": "AZ"},
-	{"name": "Arkansas", "code": "AR"},
-	{"name": "California", "code": "CA"},
-	{"name": "Colorado", "code": "CO"},
-	{"name": "Connecticut", "code": "CT"},
-	{"name": "Delaware", "code": "DE"},
-	{"name": "District of Columbia", "code": "DC"},
-	{"name": "Florida", "code": "FL"},
-	{"name": "Georgia", "code": "GA"},
-	{"name": "Hawaii", "code": "HI"},
-	{"name": "Idaho", "code": "ID"},
-	{"name": "Illinois", "code": "IL"},
-	{"name": "Indiana", "code": "IN"},
-	{"name": "Iowa", "code": "IA"},
-	{"name": "Kansas", "code": "KS"},
-	{"name": "Kentucky", "code": "KY"},
-	{"name": "Louisiana", "code": "LA"},
-	{"name": "Maine", "code": "ME"},
-	{"name": "Maryland", "code": "MD"},
-	{"name": "Massachusetts", "code": "MA"},
-	{"name": "Michigan", "code": "MI"},
-	{"name": "Minnesota", "code": "MN"},
-	{"name": "Mississippi", "code": "MS"},
-	{"name": "Missouri", "code": "MO"},
-	{"name": "Montana", "code": "MT"},
-	{"name": "Nebraska", "code": "NE"},
-	{"name": "Nevada", "code": "NV"},
-	{"name": "New Hampshire", "code": "NH"},
-	{"name": "New Jersey", "code": "NJ"},
-	{"name": "New Mexico", "code": "NM"},
-	{"name": "New York", "code": "NY"},
-	{"name": "North Carolina", "code": "NC"},
-	{"name": "North Dakota", "code": "ND"},
-	{"name": "Ohio", "code": "OH"},
-	{"name": "Oklahoma", "code": "OK"},
-	{"name": "Oregon", "code": "OR"},
-	{"name": "Pennsylvania", "code": "PA"},
-	{"name": "Rhode Island", "code": "RI"},
-	{"name": "South Carolina", "code": "SC"},
-	{"name": "South Dakota", "code": "SD"},
-	{"name": "Tennessee", "code": "TN"},
-	{"name": "Texas", "code": "TX"},
-	{"name": "Utah", "code": "UT"},
-	{"name": "Vermont", "code": "VT"},
-	{"name": "Virginia", "code": "VA"},
-	{"name": "Washington", "code": "WA"},
-	{"name": "West Virginia", "code": "WV"},
-	{"name": "Wisconsin", "code": "WI"},
-	{"name": "Wyoming", "code": "WY"},
-	{"name": "American Samoa", "code": "AS"},
-	{"name": "Canal Zone", "code": "CZ"},
-	{"name": "Commonwealth of the Northern Mariana Islands", "code": "CM"},
-	{"name": "Federated States of Micronesia", "code": "FM"},
-	{"name": "Guam", "code": "GU"},
-	{"name": "Marshall Islands", "code": "MH"},
-	{"name": "Northern Mariana Islands", "code": "MP"},
-	{"name": "Palau", "code": "PW"},
-	{"name": "Philippine Islands", "code": "PI"},
-	{"name": "Puerto Rico", "code": "PR"},
-	{"name": "Trust Territory of the Pacific Islands", "code": "TT"},
-	{"name": "Virgin Islands", "code": "VI"},
-	{"name": "Armed Forces - Americas", "code": "AA"},
-	{"name": "Armed Forces - Europe, Canada, Middle East, Africa", "code": "AE"},
-	{"name": "Armed Forces - Pacific", "code": "AP"}
+	{
+		"name": "District of Columbia",
+		"code": "US-DC",
+		"subdivision": "district"
+	},
+	{
+		"name": "American Samoa",
+		"code": "US-AS",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "Guam",
+		"code": "US-GU",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"code": "US-MP",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "Puerto Rico",
+		"code": "US-PR",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "United States Minor Outlying Islands",
+		"code": "US-UM",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "Virgin Islands, U.S.",
+		"code": "US-VI",
+		"subdivision": "outlying territory"
+	},
+	{
+		"name": "Alabama",
+		"code": "US-AL",
+		"subdivision": "state"
+	},
+	{
+		"name": "Alaska",
+		"code": "US-AK",
+		"subdivision": "state"
+	},
+	{
+		"name": "Arizona",
+		"code": "US-AZ",
+		"subdivision": "state"
+	},
+	{
+		"name": "Arkansas",
+		"code": "US-AR",
+		"subdivision": "state"
+	},
+	{
+		"name": "California",
+		"code": "US-CA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Colorado",
+		"code": "US-CO",
+		"subdivision": "state"
+	},
+	{
+		"name": "Connecticut",
+		"code": "US-CT",
+		"subdivision": "state"
+	},
+	{
+		"name": "Delaware",
+		"code": "US-DE",
+		"subdivision": "state"
+	},
+	{
+		"name": "Florida",
+		"code": "US-FL",
+		"subdivision": "state"
+	},
+	{
+		"name": "Georgia",
+		"code": "US-GA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Hawaii",
+		"code": "US-HI",
+		"subdivision": "state"
+	},
+	{
+		"name": "Idaho",
+		"code": "US-ID",
+		"subdivision": "state"
+	},
+	{
+		"name": "Illinois",
+		"code": "US-IL",
+		"subdivision": "state"
+	},
+	{
+		"name": "Indiana",
+		"code": "US-IN",
+		"subdivision": "state"
+	},
+	{
+		"name": "Iowa",
+		"code": "US-IA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Kansas",
+		"code": "US-KS",
+		"subdivision": "state"
+	},
+	{
+		"name": "Kentucky",
+		"code": "US-KY",
+		"subdivision": "state"
+	},
+	{
+		"name": "Louisiana",
+		"code": "US-LA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Maine",
+		"code": "US-ME",
+		"subdivision": "state"
+	},
+	{
+		"name": "Maryland",
+		"code": "US-MD",
+		"subdivision": "state"
+	},
+	{
+		"name": "Massachusetts",
+		"code": "US-MA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Michigan",
+		"code": "US-MI",
+		"subdivision": "state"
+	},
+	{
+		"name": "Minnesota",
+		"code": "US-MN",
+		"subdivision": "state"
+	},
+	{
+		"name": "Mississippi",
+		"code": "US-MS",
+		"subdivision": "state"
+	},
+	{
+		"name": "Missouri",
+		"code": "US-MO",
+		"subdivision": "state"
+	},
+	{
+		"name": "Montana",
+		"code": "US-MT",
+		"subdivision": "state"
+	},
+	{
+		"name": "Nebraska",
+		"code": "US-NE",
+		"subdivision": "state"
+	},
+	{
+		"name": "Nevada",
+		"code": "US-NV",
+		"subdivision": "state"
+	},
+	{
+		"name": "New Hampshire",
+		"code": "US-NH",
+		"subdivision": "state"
+	},
+	{
+		"name": "New Jersey",
+		"code": "US-NJ",
+		"subdivision": "state"
+	},
+	{
+		"name": "New Mexico",
+		"code": "US-NM",
+		"subdivision": "state"
+	},
+	{
+		"name": "New York",
+		"code": "US-NY",
+		"subdivision": "state"
+	},
+	{
+		"name": "North Carolina",
+		"code": "US-NC",
+		"subdivision": "state"
+	},
+	{
+		"name": "North Dakota",
+		"code": "US-ND",
+		"subdivision": "state"
+	},
+	{
+		"name": "Ohio",
+		"code": "US-OH",
+		"subdivision": "state"
+	},
+	{
+		"name": "Oklahoma",
+		"code": "US-OK",
+		"subdivision": "state"
+	},
+	{
+		"name": "Oregon",
+		"code": "US-OR",
+		"subdivision": "state"
+	},
+	{
+		"name": "Pennsylvania",
+		"code": "US-PA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Rhode Island",
+		"code": "US-RI",
+		"subdivision": "state"
+	},
+	{
+		"name": "South Carolina",
+		"code": "US-SC",
+		"subdivision": "state"
+	},
+	{
+		"name": "South Dakota",
+		"code": "US-SD",
+		"subdivision": "state"
+	},
+	{
+		"name": "Tennessee",
+		"code": "US-TN",
+		"subdivision": "state"
+	},
+	{
+		"name": "Texas",
+		"code": "US-TX",
+		"subdivision": "state"
+	},
+	{
+		"name": "Utah",
+		"code": "US-UT",
+		"subdivision": "state"
+	},
+	{
+		"name": "Vermont",
+		"code": "US-VT",
+		"subdivision": "state"
+	},
+	{
+		"name": "Virginia",
+		"code": "US-VA",
+		"subdivision": "state"
+	},
+	{
+		"name": "Washington",
+		"code": "US-WA",
+		"subdivision": "state"
+	},
+	{
+		"name": "West Virginia",
+		"code": "US-WV",
+		"subdivision": "state"
+	},
+	{
+		"name": "Wisconsin",
+		"code": "US-WI",
+		"subdivision": "state"
+	},
+	{
+		"name": "Wyoming",
+		"code": "US-WY",
+		"subdivision": "state"
+	}
 ]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Saint Andrew",
+		"code": "GD-01"
+	},
+	{
+		"name": "Saint David",
+		"code": "GD-02"
+	},
+	{
+		"name": "Saint George",
+		"code": "GD-03"
+	},
+	{
+		"name": "Saint John",
+		"code": "GD-04"
+	},
+	{
+		"name": "Saint Mark",
+		"code": "GD-05"
+	},
+	{
+		"name": "Saint Patrick",
+		"code": "GD-06"
+	},
+	{
+		"name": "Southern Grenadine Islands",
+		"code": "GD-10"
+	}
+]

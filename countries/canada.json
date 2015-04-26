@@ -1,15 +1,80 @@
 [
-	{"name": "Alberta", "code": "AB"},
-	{"name": "British Columbia", "code": "BC"},
-	{"name": "Manitoba", "code": "MB"},
-	{"name": "New Brunswick", "code": "NB"},
-	{"name": "Newfoundland and Labrador", "code": "NL"},
-	{"name": "Nova Scotia", "code": "NS"},
-	{"name": "Northwest Territories", "code": "NT"},
-	{"name": "Nunavut", "code": "NU"},
-	{"name": "Ontario", "code": "ON"},
-	{"name": "Prince Edward Island", "code": "PE"},
-	{"name": "Quebec", "code": "QC"},
-	{"name": "Saskatchewan", "code": "SK"},
-	{"name": "Yukon", "code": "YT"}
+	{
+		"name": "Alberta",
+		"code": "CA-AB",
+		"subdivision": "province",
+		"native": "Alberta"
+	},
+	{
+		"name": "British Columbia",
+		"code": "CA-BC",
+		"subdivision": "province",
+		"native": "Colombie-Britannique"
+	},
+	{
+		"name": "Manitoba",
+		"code": "CA-MB",
+		"subdivision": "province",
+		"native": "Manitoba"
+	},
+	{
+		"name": "New Brunswick",
+		"code": "CA-NB",
+		"subdivision": "province",
+		"native": "Nouveau-Brunswick"
+	},
+	{
+		"name": "Newfoundland and Labrador",
+		"code": "CA-NL",
+		"subdivision": "province",
+		"native": "Terre-Neuve-et-Labrador"
+	},
+	{
+		"name": "Nova Scotia",
+		"code": "CA-NS",
+		"subdivision": "province",
+		"native": "Nouvelle-Écosse"
+	},
+	{
+		"name": "Ontario",
+		"code": "CA-ON",
+		"subdivision": "province",
+		"native": "Ontario"
+	},
+	{
+		"name": "Prince Edward Island",
+		"code": "CA-PE",
+		"subdivision": "province",
+		"native": "Île-du-Prince-Édouard"
+	},
+	{
+		"name": "Quebec",
+		"code": "CA-QC",
+		"subdivision": "province",
+		"native": "Québec"
+	},
+	{
+		"name": "Saskatchewan",
+		"code": "CA-SK",
+		"subdivision": "province",
+		"native": "Saskatchewan"
+	},
+	{
+		"name": "Northwest Territories",
+		"code": "CA-NT",
+		"subdivision": "territory",
+		"native": "Territoires du Nord-Ouest"
+	},
+	{
+		"name": "Nunavut",
+		"code": "CA-NU",
+		"subdivision": "territory",
+		"native": "Nunavut"
+	},
+	{
+		"name": "Yukon",
+		"code": "CA-YT",
+		"subdivision": "territory",
+		"native": "Yukon"
+	}
 ]

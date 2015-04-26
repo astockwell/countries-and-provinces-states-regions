@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Alta Verapaz",
+		"code": "GT-AV"
+	},
+	{
+		"name": "Baja Verapaz",
+		"code": "GT-BV"
+	},
+	{
+		"name": "Chimaltenango",
+		"code": "GT-CM"
+	},
+	{
+		"name": "Chiquimula",
+		"code": "GT-CQ"
+	},
+	{
+		"name": "El Progreso",
+		"code": "GT-PR"
+	},
+	{
+		"name": "Escuintla",
+		"code": "GT-ES"
+	},
+	{
+		"name": "Guatemala",
+		"code": "GT-GU"
+	},
+	{
+		"name": "Huehuetenango",
+		"code": "GT-HU"
+	},
+	{
+		"name": "Izabal",
+		"code": "GT-IZ"
+	},
+	{
+		"name": "Jalapa",
+		"code": "GT-JA"
+	},
+	{
+		"name": "Jutiapa",
+		"code": "GT-JU"
+	},
+	{
+		"name": "Petén",
+		"code": "GT-PE"
+	},
+	{
+		"name": "Quetzaltenango",
+		"code": "GT-QZ"
+	},
+	{
+		"name": "Quiché",
+		"code": "GT-QC"
+	},
+	{
+		"name": "Retalhuleu",
+		"code": "GT-RE"
+	},
+	{
+		"name": "Sacatepéquez",
+		"code": "GT-SA"
+	},
+	{
+		"name": "San Marcos",
+		"code": "GT-SM"
+	},
+	{
+		"name": "Santa Rosa",
+		"code": "GT-SR"
+	},
+	{
+		"name": "Sololá",
+		"code": "GT-SO"
+	},
+	{
+		"name": "Suchitepéquez",
+		"code": "GT-SU"
+	},
+	{
+		"name": "Totonicapán",
+		"code": "GT-TO"
+	},
+	{
+		"name": "Zacapa",
+		"code": "GT-ZA"
+	}
+]

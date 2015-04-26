@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Barbuda",
+		"code": "AG-10"
+	},
+	{
+		"name": "Redonda",
+		"code": "AG-11"
+	},
+	{
+		"name": "Saint George",
+		"code": "AG-03"
+	},
+	{
+		"name": "Saint John",
+		"code": "AG-04"
+	},
+	{
+		"name": "Saint Mary",
+		"code": "AG-05"
+	},
+	{
+		"name": "Saint Paul",
+		"code": "AG-06"
+	},
+	{
+		"name": "Saint Peter",
+		"code": "AG-07"
+	},
+	{
+		"name": "Saint Philip",
+		"code": "AG-08"
+	}
+]

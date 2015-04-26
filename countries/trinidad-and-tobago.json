@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Arima",
+		"code": "TT-ARI"
+	},
+	{
+		"name": "Chaguanas",
+		"code": "TT-CHA"
+	},
+	{
+		"name": "Couva-Tabaquite-Talparo",
+		"code": "TT-CTT"
+	},
+	{
+		"name": "Diego Martin",
+		"code": "TT-DMN"
+	},
+	{
+		"name": "Eastern Tobago",
+		"code": "TT-ETO"
+	},
+	{
+		"name": "Penal-Debe",
+		"code": "TT-PED"
+	},
+	{
+		"name": "Point Fortin",
+		"code": "TT-PTF"
+	},
+	{
+		"name": "Port of Spain",
+		"code": "TT-POS"
+	},
+	{
+		"name": "Princes Town",
+		"code": "TT-PRT"
+	},
+	{
+		"name": "Rio Claro-Mayaro",
+		"code": "TT-RCM"
+	},
+	{
+		"name": "San Fernando",
+		"code": "TT-SFO"
+	},
+	{
+		"name": "San Juan-Laventille",
+		"code": "TT-SJL"
+	},
+	{
+		"name": "Sangre Grande",
+		"code": "TT-SGE"
+	},
+	{
+		"name": "Siparia",
+		"code": "TT-SIP"
+	},
+	{
+		"name": "Tunapuna-Piarco",
+		"code": "TT-TUP"
+	},
+	{
+		"name": "Western Tobago",
+		"code": "TT-WTO"
+	}
+]

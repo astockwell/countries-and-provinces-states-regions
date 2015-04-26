@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Anse la Raye",
+		"code": "LC-01"
+	},
+	{
+		"name": "Castries",
+		"code": "LC-02"
+	},
+	{
+		"name": "Choiseul",
+		"code": "LC-03"
+	},
+	{
+		"name": "Dauphin",
+		"code": "LC-04"
+	},
+	{
+		"name": "Dennery",
+		"code": "LC-05"
+	},
+	{
+		"name": "Gros Islet",
+		"code": "LC-06"
+	},
+	{
+		"name": "Laborie",
+		"code": "LC-07"
+	},
+	{
+		"name": "Micoud",
+		"code": "LC-08"
+	},
+	{
+		"name": "Praslin",
+		"code": "LC-09"
+	},
+	{
+		"name": "Soufrière",
+		"code": "LC-10"
+	},
+	{
+		"name": "Vieux Fort",
+		"code": "LC-11"
+	}
+]

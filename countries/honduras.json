@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Atlántida",
+		"code": "HN-AT"
+	},
+	{
+		"name": "Choluteca",
+		"code": "HN-CH"
+	},
+	{
+		"name": "Colón",
+		"code": "HN-CL"
+	},
+	{
+		"name": "Comayagua",
+		"code": "HN-CM"
+	},
+	{
+		"name": "Copán",
+		"code": "HN-CP"
+	},
+	{
+		"name": "Cortés",
+		"code": "HN-CR"
+	},
+	{
+		"name": "El Paraíso",
+		"code": "HN-EP"
+	},
+	{
+		"name": "Francisco Morazán",
+		"code": "HN-FM"
+	},
+	{
+		"name": "Gracias a Dios",
+		"code": "HN-GD"
+	},
+	{
+		"name": "Intibucá",
+		"code": "HN-IN"
+	},
+	{
+		"name": "Islas de la Bahía",
+		"code": "HN-IB"
+	},
+	{
+		"name": "La Paz",
+		"code": "HN-LP"
+	},
+	{
+		"name": "Lempira",
+		"code": "HN-LE"
+	},
+	{
+		"name": "Ocotepeque",
+		"code": "HN-OC"
+	},
+	{
+		"name": "Olancho",
+		"code": "HN-OL"
+	},
+	{
+		"name": "Santa Bárbara",
+		"code": "HN-SB"
+	},
+	{
+		"name": "Valle",
+		"code": "HN-VA"
+	},
+	{
+		"name": "Yoro",
+		"code": "HN-YO"
+	}
+]

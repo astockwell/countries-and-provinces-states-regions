@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Saint Andrew",
+		"code": "DM-02"
+	},
+	{
+		"name": "Saint David",
+		"code": "DM-03"
+	},
+	{
+		"name": "Saint George",
+		"code": "DM-04"
+	},
+	{
+		"name": "Saint John",
+		"code": "DM-05"
+	},
+	{
+		"name": "Saint Joseph",
+		"code": "DM-06"
+	},
+	{
+		"name": "Saint Luke",
+		"code": "DM-07"
+	},
+	{
+		"name": "Saint Mark",
+		"code": "DM-08"
+	},
+	{
+		"name": "Saint Patrick",
+		"code": "DM-09"
+	},
+	{
+		"name": "Saint Paul",
+		"code": "DM-10"
+	},
+	{
+		"name": "Saint Peter",
+		"code": "DM-11"
+	}
+]

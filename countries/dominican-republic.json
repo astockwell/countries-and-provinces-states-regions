@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Cibao Nordeste",
+		"code": "DO-33"
+	},
+	{
+		"name": "Cibao Noroeste",
+		"code": "DO-34"
+	},
+	{
+		"name": "Cibao Norte",
+		"code": "DO-35"
+	},
+	{
+		"name": "Cibao Sur",
+		"code": "DO-36"
+	},
+	{
+		"name": "El Valle",
+		"code": "DO-37"
+	},
+	{
+		"name": "Enriquillo",
+		"code": "DO-38"
+	},
+	{
+		"name": "Higuamo",
+		"code": "DO-39"
+	},
+	{
+		"name": "Ozama",
+		"code": "DO-40"
+	},
+	{
+		"name": "Valdesia",
+		"code": "DO-41"
+	},
+	{
+		"name": "Yuma",
+		"code": "DO-42"
+	}
+]

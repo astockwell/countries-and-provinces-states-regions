@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Baker Island",
+		"code": "UM-81"
+	},
+	{
+		"name": "Howland Island",
+		"code": "UM-84"
+	},
+	{
+		"name": "Jarvis Island",
+		"code": "UM-86"
+	},
+	{
+		"name": "Johnston Atoll",
+		"code": "UM-67"
+	},
+	{
+		"name": "Kingman Reef",
+		"code": "UM-89"
+	},
+	{
+		"name": "Midway Islands",
+		"code": "UM-71"
+	},
+	{
+		"name": "Navassa Island",
+		"code": "UM-76"
+	},
+	{
+		"name": "Palmyra Atoll",
+		"code": "UM-95"
+	},
+	{
+		"name": "Wake Island",
+		"code": "UM-79"
+	}
+]

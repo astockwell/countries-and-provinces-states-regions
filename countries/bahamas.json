@@ -1,0 +1,126 @@
+[
+	{
+		"name": "Acklins",
+		"code": "BS-AK"
+	},
+	{
+		"name": "Berry Islands",
+		"code": "BS-BY"
+	},
+	{
+		"name": "Bimini",
+		"code": "BS-BI"
+	},
+	{
+		"name": "Black Point",
+		"code": "BS-BP"
+	},
+	{
+		"name": "Cat Island",
+		"code": "BS-CI"
+	},
+	{
+		"name": "Central Abaco",
+		"code": "BS-CO"
+	},
+	{
+		"name": "Central Andros",
+		"code": "BS-CS"
+	},
+	{
+		"name": "Central Eleuthera",
+		"code": "BS-CE"
+	},
+	{
+		"name": "City of Freeport",
+		"code": "BS-FP"
+	},
+	{
+		"name": "Crooked Island and Long Cay",
+		"code": "BS-CK"
+	},
+	{
+		"name": "East Grand Bahama",
+		"code": "BS-EG"
+	},
+	{
+		"name": "Exuma",
+		"code": "BS-EX"
+	},
+	{
+		"name": "Grand Cay",
+		"code": "BS-GC"
+	},
+	{
+		"name": "Harbour Island",
+		"code": "BS-HI"
+	},
+	{
+		"name": "Hope Town",
+		"code": "BS-HT"
+	},
+	{
+		"name": "Inagua",
+		"code": "BS-IN"
+	},
+	{
+		"name": "Long Island",
+		"code": "BS-LI"
+	},
+	{
+		"name": "Mangrove Cay",
+		"code": "BS-MC"
+	},
+	{
+		"name": "Mayaguana",
+		"code": "BS-MG"
+	},
+	{
+		"name": "Moores Island",
+		"code": "BS-MI"
+	},
+	{
+		"name": "North Abaco",
+		"code": "BS-NO"
+	},
+	{
+		"name": "North Andros",
+		"code": "BS-NS"
+	},
+	{
+		"name": "North Eleuthera",
+		"code": "BS-NE"
+	},
+	{
+		"name": "Ragged Island",
+		"code": "BS-RI"
+	},
+	{
+		"name": "Rum Cay",
+		"code": "BS-RC"
+	},
+	{
+		"name": "San Salvador",
+		"code": "BS-SS"
+	},
+	{
+		"name": "South Abaco",
+		"code": "BS-SO"
+	},
+	{
+		"name": "South Andros",
+		"code": "BS-SA"
+	},
+	{
+		"name": "South Eleuthera",
+		"code": "BS-SE"
+	},
+	{
+		"name": "Spanish Wells",
+		"code": "BS-SW"
+	},
+	{
+		"name": "West Grand Bahama",
+		"code": "BS-WG"
+	}
+]

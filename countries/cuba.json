@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Artemisa",
+		"code": "CU-15"
+	},
+	{
+		"name": "Camagüey",
+		"code": "CU-09"
+	},
+	{
+		"name": "Ciego de Ávila",
+		"code": "CU-08"
+	},
+	{
+		"name": "Cienfuegos",
+		"code": "CU-06"
+	},
+	{
+		"name": "Granma",
+		"code": "CU-12"
+	},
+	{
+		"name": "Guantánamo",
+		"code": "CU-14"
+	},
+	{
+		"name": "Holguín",
+		"code": "CU-11"
+	},
+	{
+		"name": "Isla de la Juventud",
+		"code": "CU-99"
+	},
+	{
+		"name": "La Habana",
+		"code": "CU-03"
+	},
+	{
+		"name": "Las Tunas",
+		"code": "CU-10"
+	},
+	{
+		"name": "Matanzas",
+		"code": "CU-04"
+	},
+	{
+		"name": "Mayabeque",
+		"code": "CU-16"
+	},
+	{
+		"name": "Pinar del Río",
+		"code": "CU-01"
+	},
+	{
+		"name": "Sancti Spíritus",
+		"code": "CU-07"
+	},
+	{
+		"name": "Santiago de Cuba",
+		"code": "CU-13"
+	},
+	{
+		"name": "Villa Clara",
+		"code": "CU-05"
+	}
+]

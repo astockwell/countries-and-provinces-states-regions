@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Atlántico Norte",
+		"code": "NI-AN"
+	},
+	{
+		"name": "Atlántico Sur",
+		"code": "NI-AS"
+	},
+	{
+		"name": "Boaco",
+		"code": "NI-BO"
+	},
+	{
+		"name": "Carazo",
+		"code": "NI-CA"
+	},
+	{
+		"name": "Chinandega",
+		"code": "NI-CI"
+	},
+	{
+		"name": "Chontales",
+		"code": "NI-CO"
+	},
+	{
+		"name": "Estelí",
+		"code": "NI-ES"
+	},
+	{
+		"name": "Granada",
+		"code": "NI-GR"
+	},
+	{
+		"name": "Jinotega",
+		"code": "NI-JI"
+	},
+	{
+		"name": "León",
+		"code": "NI-LE"
+	},
+	{
+		"name": "Madriz",
+		"code": "NI-MD"
+	},
+	{
+		"name": "Managua",
+		"code": "NI-MN"
+	},
+	{
+		"name": "Masaya",
+		"code": "NI-MS"
+	},
+	{
+		"name": "Matagalpa",
+		"code": "NI-MT"
+	},
+	{
+		"name": "Nueva Segovia",
+		"code": "NI-NS"
+	},
+	{
+		"name": "Rivas",
+		"code": "NI-RI"
+	},
+	{
+		"name": "Río San Juan",
+		"code": "NI-SJ"
+	}
+]

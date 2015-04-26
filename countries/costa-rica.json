@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Alajuela",
+		"code": "CR-A"
+	},
+	{
+		"name": "Cartago",
+		"code": "CR-C"
+	},
+	{
+		"name": "Guanacaste",
+		"code": "CR-G"
+	},
+	{
+		"name": "Heredia",
+		"code": "CR-H"
+	},
+	{
+		"name": "Limón",
+		"code": "CR-L"
+	},
+	{
+		"name": "Puntarenas",
+		"code": "CR-P"
+	},
+	{
+		"name": "San José",
+		"code": "CR-SJ"
+	}
+]
