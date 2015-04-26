@@ -20,6 +20,8 @@ def fetch_country(code, name)
 	# when "GY" # guyana
 	# when "PY" # paraguay
 	# when "PE" # peru
+	when "GS" # South Georgia and the South Sandwich Islands
+		return
 	# when "SR" # suriname
 	# when "UY" # uruguay
 	when "VE" # venezuela

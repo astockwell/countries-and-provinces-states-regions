@@ -78,8 +78,6 @@ def fetch_country(code, name)
 	# when "RS" # Serbia
 	# when "SK" # Slovakia
 	# when "SI" # Slovenia
-	when "GS" # South Georgia and the South Sandwich Islands
-		return
 	when "ES" # Spain
 		tables = [
 			TableIndexMap.new(1, 0, 2),
