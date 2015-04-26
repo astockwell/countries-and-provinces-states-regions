@@ -15,7 +15,8 @@
 	},
 	{
 		"name": "Algeria",
-		"code": "DZ"
+		"code": "DZ",
+		"continent": "Africa"
 	},
 	{
 		"name": "American Samoa",
@@ -30,7 +31,8 @@
 	},
 	{
 		"name": "Angola",
-		"code": "AO"
+		"code": "AO",
+		"continent": "Africa"
 	},
 	{
 		"name": "Anguilla",
@@ -122,7 +124,8 @@
 	},
 	{
 		"name": "Benin",
-		"code": "BJ"
+		"code": "BJ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Bermuda",
@@ -147,7 +150,8 @@
 	},
 	{
 		"name": "Botswana",
-		"code": "BW"
+		"code": "BW",
+		"continent": "Africa"
 	},
 	{
 		"name": "Bouvet Island",
@@ -175,11 +179,13 @@
 	},
 	{
 		"name": "Burkina Faso",
-		"code": "BF"
+		"code": "BF",
+		"continent": "Africa"
 	},
 	{
 		"name": "Burundi",
-		"code": "BI"
+		"code": "BI",
+		"continent": "Africa"
 	},
 	{
 		"name": "Cambodia",
@@ -187,7 +193,8 @@
 	},
 	{
 		"name": "Cameroon",
-		"code": "CM"
+		"code": "CM",
+		"continent": "Africa"
 	},
 	{
 		"name": "Canada",
@@ -197,7 +204,8 @@
 	},
 	{
 		"name": "Cape Verde",
-		"code": "CV"
+		"code": "CV",
+		"continent": "Africa"
 	},
 	{
 		"name": "Cayman Islands",
@@ -206,11 +214,13 @@
 	},
 	{
 		"name": "Central African Republic",
-		"code": "CF"
+		"code": "CF",
+		"continent": "Africa"
 	},
 	{
 		"name": "Chad",
-		"code": "TD"
+		"code": "TD",
+		"continent": "Africa"
 	},
 	{
 		"name": "Chile",
@@ -241,15 +251,18 @@
 	},
 	{
 		"name": "Comoros",
-		"code": "KM"
+		"code": "KM",
+		"continent": "Africa"
 	},
 	{
 		"name": "Congo",
-		"code": "CG"
+		"code": "CG",
+		"continent": "Africa"
 	},
 	{
 		"name": "Congo, The Democratic Republic of the",
-		"code": "CD"
+		"code": "CD",
+		"continent": "Africa"
 	},
 	{
 		"name": "Cook Islands",
@@ -263,7 +276,8 @@
 	},
 	{
 		"name": "Côte d'Ivoire, Republic of",
-		"code": "CI"
+		"code": "CI",
+		"continent": "Africa"
 	},
 	{
 		"name": "Croatia",
@@ -302,7 +316,8 @@
 	},
 	{
 		"name": "Djibouti",
-		"code": "DJ"
+		"code": "DJ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Dominica",
@@ -324,7 +339,8 @@
 	},
 	{
 		"name": "Egypt",
-		"code": "EG"
+		"code": "EG",
+		"continent": "Africa"
 	},
 	{
 		"name": "El Salvador",
@@ -334,11 +350,13 @@
 	},
 	{
 		"name": "Equatorial Guinea",
-		"code": "GQ"
+		"code": "GQ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Eritrea",
-		"code": "ER"
+		"code": "ER",
+		"continent": "Africa"
 	},
 	{
 		"name": "Estonia",
@@ -348,7 +366,8 @@
 	},
 	{
 		"name": "Ethiopia",
-		"code": "ET"
+		"code": "ET",
+		"continent": "Africa"
 	},
 	{
 		"name": "Falkland Islands (Malvinas)",
@@ -393,11 +412,13 @@
 	},
 	{
 		"name": "Gabon",
-		"code": "GA"
+		"code": "GA",
+		"continent": "Africa"
 	},
 	{
 		"name": "Gambia",
-		"code": "GM"
+		"code": "GM",
+		"continent": "Africa"
 	},
 	{
 		"name": "Georgia",
@@ -413,7 +434,8 @@
 	},
 	{
 		"name": "Ghana",
-		"code": "GH"
+		"code": "GH",
+		"continent": "Africa"
 	},
 	{
 		"name": "Gibraltar",
@@ -459,11 +481,13 @@
 	},
 	{
 		"name": "Guinea",
-		"code": "GN"
+		"code": "GN",
+		"continent": "Africa"
 	},
 	{
 		"name": "Guinea-Bissau",
-		"code": "GW"
+		"code": "GW",
+		"continent": "Africa"
 	},
 	{
 		"name": "Guyana",
@@ -573,7 +597,8 @@
 	},
 	{
 		"name": "Kenya",
-		"code": "KE"
+		"code": "KE",
+		"continent": "Africa"
 	},
 	{
 		"name": "Kiribati",
@@ -613,15 +638,18 @@
 	},
 	{
 		"name": "Lesotho",
-		"code": "LS"
+		"code": "LS",
+		"continent": "Africa"
 	},
 	{
 		"name": "Liberia",
-		"code": "LR"
+		"code": "LR",
+		"continent": "Africa"
 	},
 	{
 		"name": "Libyan Arab Jamahiriya",
-		"code": "LY"
+		"code": "LY",
+		"continent": "Africa"
 	},
 	{
 		"name": "Liechtenstein",
@@ -653,11 +681,13 @@
 	},
 	{
 		"name": "Madagascar",
-		"code": "MG"
+		"code": "MG",
+		"continent": "Africa"
 	},
 	{
 		"name": "Malawi",
-		"code": "MW"
+		"code": "MW",
+		"continent": "Africa"
 	},
 	{
 		"name": "Malaysia",
@@ -670,7 +700,8 @@
 	},
 	{
 		"name": "Mali",
-		"code": "ML"
+		"code": "ML",
+		"continent": "Africa"
 	},
 	{
 		"name": "Malta",
@@ -691,15 +722,18 @@
 	},
 	{
 		"name": "Mauritania",
-		"code": "MR"
+		"code": "MR",
+		"continent": "Africa"
 	},
 	{
 		"name": "Mauritius",
-		"code": "MU"
+		"code": "MU",
+		"continent": "Africa"
 	},
 	{
 		"name": "Mayotte",
-		"code": "YT"
+		"code": "YT",
+		"continent": "Africa"
 	},
 	{
 		"name": "Mexico",
@@ -742,11 +776,13 @@
 	},
 	{
 		"name": "Morocco",
-		"code": "MA"
+		"code": "MA",
+		"continent": "Africa"
 	},
 	{
 		"name": "Mozambique",
-		"code": "MZ"
+		"code": "MZ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Myanmar",
@@ -754,7 +790,8 @@
 	},
 	{
 		"name": "Namibia",
-		"code": "NA"
+		"code": "NA",
+		"continent": "Africa"
 	},
 	{
 		"name": "Nauru",
@@ -796,11 +833,13 @@
 	},
 	{
 		"name": "Niger",
-		"code": "NE"
+		"code": "NE",
+		"continent": "Africa"
 	},
 	{
 		"name": "Nigeria",
-		"code": "NG"
+		"code": "NG",
+		"continent": "Africa"
 	},
 	{
 		"name": "Niue",
@@ -893,8 +932,9 @@
 		"code": "QA"
 	},
 	{
-		"name": "Reunion",
-		"code": "RE"
+		"name": "Réunion",
+		"code": "RE",
+		"continent": "Africa"
 	},
 	{
 		"name": "Romania",
@@ -909,12 +949,14 @@
 		"filename": "russian-federation"
 	},
 	{
-		"name": "RWANDA",
-		"code": "RW"
+		"name": "Rwanda",
+		"code": "RW",
+		"continent": "Africa"
 	},
 	{
-		"name": "Saint Helena",
-		"code": "SH"
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"code": "SH",
+		"continent": "Africa"
 	},
 	{
 		"name": "Saint Kitts and Nevis",
@@ -952,8 +994,9 @@
 		"filename": "san-marino"
 	},
 	{
-		"name": "Sao Tome and Principe",
-		"code": "ST"
+		"name": "São Tomé and Príncipe",
+		"code": "ST",
+		"continent": "Africa"
 	},
 	{
 		"name": "Saudi Arabia",
@@ -961,7 +1004,8 @@
 	},
 	{
 		"name": "Senegal",
-		"code": "SN"
+		"code": "SN",
+		"continent": "Africa"
 	},
 	{
 		"name": "Serbia",
@@ -971,11 +1015,13 @@
 	},
 	{
 		"name": "Seychelles",
-		"code": "SC"
+		"code": "SC",
+		"continent": "Africa"
 	},
 	{
 		"name": "Sierra Leone",
-		"code": "SL"
+		"code": "SL",
+		"continent": "Africa"
 	},
 	{
 		"name": "Singapore",
@@ -1006,12 +1052,19 @@
 	},
 	{
 		"name": "Somalia",
-		"code": "SO"
+		"code": "SO",
+		"continent": "Africa"
 	},
 	{
 		"name": "South Africa",
 		"code": "ZA",
+		"continent": "Africa",
 		"filename": "south-africa"
+	},
+	{
+		"name": "South Sudan",
+		"code": "SS",
+		"continent": "Africa"
 	},
 	{
 		"name": "South Georgia and the South Sandwich Islands",
@@ -1030,7 +1083,8 @@
 	},
 	{
 		"name": "Sudan",
-		"code": "SD"
+		"code": "SD",
+		"continent": "Africa"
 	},
 	{
 		"name": "Suriname",
@@ -1044,7 +1098,8 @@
 	},
 	{
 		"name": "Swaziland",
-		"code": "SZ"
+		"code": "SZ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Sweden",
@@ -1072,7 +1127,8 @@
 	},
 	{
 		"name": "Tanzania, United Republic of",
-		"code": "TZ"
+		"code": "TZ",
+		"continent": "Africa"
 	},
 	{
 		"name": "Thailand",
@@ -1087,7 +1143,8 @@
 	},
 	{
 		"name": "Togo",
-		"code": "TG"
+		"code": "TG",
+		"continent": "Africa"
 	},
 	{
 		"name": "Tokelau",
@@ -1107,7 +1164,8 @@
 	},
 	{
 		"name": "Tunisia",
-		"code": "TN"
+		"code": "TN",
+		"continent": "Africa"
 	},
 	{
 		"name": "Turkey",
@@ -1132,7 +1190,8 @@
 	},
 	{
 		"name": "Uganda",
-		"code": "UG"
+		"code": "UG",
+		"continent": "Africa"
 	},
 	{
 		"name": "Ukraine",
@@ -1212,10 +1271,12 @@
 	},
 	{
 		"name": "Zambia",
-		"code": "ZM"
+		"code": "ZM",
+		"continent": "Africa"
 	},
 	{
 		"name": "Zimbabwe",
-		"code": "ZW"
+		"code": "ZW",
+		"continent": "Africa"
 	}
 ]
