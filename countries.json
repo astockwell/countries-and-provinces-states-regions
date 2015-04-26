@@ -1062,14 +1062,14 @@
 		"filename": "south-africa"
 	},
 	{
-		"name": "South Sudan",
-		"code": "SS",
-		"continent": "Africa"
-	},
-	{
 		"name": "South Georgia and the South Sandwich Islands",
 		"code": "GS",
 		"continent": "South America"
+	},
+	{
+		"name": "South Sudan",
+		"code": "SS",
+		"continent": "Africa"
 	},
 	{
 		"name": "Spain",
