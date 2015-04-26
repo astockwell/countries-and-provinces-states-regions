@@ -1,50 +1,92 @@
 [
 	{
 		"name": "Drenthe",
-		"code": "NL-DR"
+		"code": "NL-DR",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Flevoland",
-		"code": "NL-FL"
+		"code": "NL-FL",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Fryslân",
-		"code": "NL-FR"
+		"code": "NL-FR",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Gelderland",
-		"code": "NL-GE"
+		"code": "NL-GE",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Groningen",
-		"code": "NL-GR"
+		"code": "NL-GR",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Limburg",
-		"code": "NL-LI"
+		"code": "NL-LI",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Noord-Brabant",
-		"code": "NL-NB"
+		"code": "NL-NB",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Noord-Holland",
-		"code": "NL-NH"
+		"code": "NL-NH",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Overijssel",
-		"code": "NL-OV"
+		"code": "NL-OV",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Utrecht",
-		"code": "NL-UT"
+		"code": "NL-UT",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Zeeland",
-		"code": "NL-ZE"
+		"code": "NL-ZE",
+		"subdivision": "Province"
 	},
 	{
 		"name": "Zuid-Holland",
-		"code": "NL-ZH"
+		"code": "NL-ZH",
+		"subdivision": "Province"
+	},
+	{
+		"name": "Aruba",
+		"code": "NL-AW",
+		"subdivision": "country"
+	},
+	{
+		"name": "Curaçao",
+		"code": "NL-CW",
+		"subdivision": "country"
+	},
+	{
+		"name": "Sint Maarten",
+		"code": "NL-SX",
+		"subdivision": "country"
+	},
+	{
+		"name": "Bonaire",
+		"code": "NL-BQ1",
+		"subdivision": "special municipality"
+	},
+	{
+		"name": "Saba",
+		"code": "NL-BQ2",
+		"subdivision": "special municipality"
+	},
+	{
+		"name": "Sint Eustatius",
+		"code": "NL-BQ3",
+		"subdivision": "special municipality"
 	}
 ]

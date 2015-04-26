@@ -11,6 +11,8 @@ def fetch_country(code, name)
 	# when "AD" # AndorrA
 	# when "AM" # Armenia
 	# when "AT" # Austria
+	when "AW" # Aruba
+		return
 	# when "AZ" # Azerbaijan
 	# when "BY" # Belarus
 	when "BE" # Belgium
@@ -23,6 +25,8 @@ def fetch_country(code, name)
 	# when "BA" # Bosnia and Herzegovina
 	# when "BG" # Bulgaria
 	# when "HR" # Croatia
+	when "CW" # Curacao
+		return
 	# when "CY" # Cyprus
 	# when "CZ" # Czech Republic
 	# when "DK" # Denmark
@@ -66,7 +70,12 @@ def fetch_country(code, name)
 	# when "MD" # Moldova, Republic of
 	# when "MC" # Monaco
 	# when "ME" # Montenegro
-	# when "NL" # Netherlands
+	when "NL" # Netherlands
+		tables = [
+			TableIndexMap.new(1, 0, "Province"),
+			TableIndexMap.new(1, 0, 2),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables)
 	when "AN" # Netherlands Antilles
 		return
 	# when "NO" # Norway
@@ -97,6 +106,8 @@ def fetch_country(code, name)
 			end
 			each_name
 		end
+	when "SX" # Sint Maarten
+		return
 	# when "TR" # Turkey
 	# when "UA" # Ukraine
 	when "GB" # United Kingdom

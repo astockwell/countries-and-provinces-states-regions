@@ -61,7 +61,7 @@
 	{
 		"name": "Aruba",
 		"code": "AW",
-		"continent": "North America"
+		"continent": "Europe"
 	},
 	{
 		"name": "Australia",
@@ -270,6 +270,11 @@
 		"name": "Cuba",
 		"code": "CU",
 		"continent": "North America"
+	},
+	{
+		"name": "Curaçao",
+		"code": "CW",
+		"continent": "Europe"
 	},
 	{
 		"name": "Cyprus",
@@ -954,6 +959,11 @@
 	{
 		"name": "Singapore",
 		"code": "SG"
+	},
+	{
+		"name": "Sint Maarten",
+		"code": "SX",
+		"continent": "Europe"
 	},
 	{
 		"name": "Slovakia",
