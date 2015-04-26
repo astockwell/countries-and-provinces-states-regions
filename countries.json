@@ -66,8 +66,8 @@
 	{
 		"name": "Australia",
 		"code": "AU",
-		"filename": "australia",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "australia"
 	},
 	{
 		"name": "Austria",
@@ -348,7 +348,8 @@
 	{
 		"name": "Fiji",
 		"code": "FJ",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "fiji"
 	},
 	{
 		"name": "Finland",
@@ -359,8 +360,8 @@
 	{
 		"name": "France",
 		"code": "FR",
-		"filename": "france",
-		"continent": "Europe"
+		"continent": "Europe",
+		"filename": "france"
 	},
 	{
 		"name": "French Guiana",
@@ -393,8 +394,8 @@
 	{
 		"name": "Germany",
 		"code": "DE",
-		"filename": "germany",
-		"continent": "Europe"
+		"continent": "Europe",
+		"filename": "germany"
 	},
 	{
 		"name": "Ghana",
@@ -479,8 +480,8 @@
 	{
 		"name": "Hungary",
 		"code": "HU",
-		"filename": "hungary",
-		"continent": "Europe"
+		"continent": "Europe",
+		"filename": "hungary"
 	},
 	{
 		"name": "Iceland",
@@ -556,7 +557,8 @@
 	{
 		"name": "Kiribati",
 		"code": "KI",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "kiribati"
 	},
 	{
 		"name": "Korea, Democratic People's Republic of",
@@ -658,7 +660,8 @@
 	{
 		"name": "Marshall Islands",
 		"code": "MH",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "marshall-islands"
 	},
 	{
 		"name": "Martinique",
@@ -686,7 +689,8 @@
 	{
 		"name": "Micronesia, Federated States of",
 		"code": "FM",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "micronesia-federated-states-of"
 	},
 	{
 		"name": "Moldova, Republic of",
@@ -734,7 +738,8 @@
 	{
 		"name": "Nauru",
 		"code": "NR",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "nauru"
 	},
 	{
 		"name": "Nepal",
@@ -759,8 +764,8 @@
 	{
 		"name": "New Zealand",
 		"code": "NZ",
-		"filename": "new-zealand",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "new-zealand"
 	},
 	{
 		"name": "Nicaragua",
@@ -805,7 +810,8 @@
 	{
 		"name": "Palau",
 		"code": "PW",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "palau"
 	},
 	{
 		"name": "Palestinian Territory, Occupied",
@@ -819,7 +825,8 @@
 	{
 		"name": "Papua New Guinea",
 		"code": "PG",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "papua-new-guinea"
 	},
 	{
 		"name": "Paraguay",
@@ -909,7 +916,8 @@
 	{
 		"name": "Samoa",
 		"code": "WS",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "samoa"
 	},
 	{
 		"name": "San Marino",
@@ -962,7 +970,8 @@
 	{
 		"name": "Solomon Islands",
 		"code": "SB",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "solomon-islands"
 	},
 	{
 		"name": "Somalia",
@@ -1042,7 +1051,8 @@
 	{
 		"name": "Timor-Leste",
 		"code": "TL",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "timor-leste"
 	},
 	{
 		"name": "Togo",
@@ -1055,7 +1065,8 @@
 	{
 		"name": "Tonga",
 		"code": "TO",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "tonga"
 	},
 	{
 		"name": "Trinidad and Tobago",
@@ -1084,7 +1095,8 @@
 	{
 		"name": "Tuvalu",
 		"code": "TV",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "tuvalu"
 	},
 	{
 		"name": "Uganda",
@@ -1103,8 +1115,8 @@
 	{
 		"name": "United Kingdom",
 		"code": "GB",
-		"filename": "united-kingdom",
-		"continent": "Europe"
+		"continent": "Europe",
+		"filename": "united-kingdom"
 	},
 	{
 		"name": "United States",
@@ -1129,7 +1141,8 @@
 	{
 		"name": "Vanuatu",
 		"code": "VU",
-		"continent": "Oceania"
+		"continent": "Oceania",
+		"filename": "vanuatu"
 	},
 	{
 		"name": "Venezuela",
