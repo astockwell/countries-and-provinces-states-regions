@@ -60,6 +60,11 @@ module GetFromWikipedia
 
 		end
 
+		if @results.size < 1
+			puts "No results for #{filename}, no json file written"
+			return
+		end
+
 		File.open( "../../countries/#{filename}.json", 'w' ) do |writer|
 			writer.write( JSON.pretty_generate(@results.sort_by{ |r| [r.subdivision, r.name] }, indent: "\t") )
 		end
