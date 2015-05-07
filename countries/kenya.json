@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Central",
+		"code": "KE-200"
+	},
+	{
+		"name": "Coast",
+		"code": "KE-300"
+	},
+	{
+		"name": "Eastern",
+		"code": "KE-400"
+	},
+	{
+		"name": "Nairobi",
+		"code": "KE-110"
+	},
+	{
+		"name": "North-Eastern",
+		"code": "KE-500"
+	},
+	{
+		"name": "Nyanza",
+		"code": "KE-600"
+	},
+	{
+		"name": "Rift Valley",
+		"code": "KE-700"
+	},
+	{
+		"name": "Western",
+		"code": "KE-800"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Leste",
+		"code": "GW-L"
+	},
+	{
+		"name": "Norte",
+		"code": "GW-N"
+	},
+	{
+		"name": "Sul",
+		"code": "GW-S"
+	}
+]

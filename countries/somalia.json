@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Awdal",
+		"code": "SO-AW"
+	},
+	{
+		"name": "Bakool",
+		"code": "SO-BK"
+	},
+	{
+		"name": "Banaadir",
+		"code": "SO-BN"
+	},
+	{
+		"name": "Bari",
+		"code": "SO-BR"
+	},
+	{
+		"name": "Bay",
+		"code": "SO-BY"
+	},
+	{
+		"name": "Galguduud",
+		"code": "SO-GA"
+	},
+	{
+		"name": "Gedo",
+		"code": "SO-GE"
+	},
+	{
+		"name": "Hiiraan",
+		"code": "SO-HI"
+	},
+	{
+		"name": "Jubbada Dhexe",
+		"code": "SO-JD"
+	},
+	{
+		"name": "Jubbada Hoose",
+		"code": "SO-JH"
+	},
+	{
+		"name": "Mudug",
+		"code": "SO-MU"
+	},
+	{
+		"name": "Nugaal",
+		"code": "SO-NU"
+	},
+	{
+		"name": "Sanaag",
+		"code": "SO-SA"
+	},
+	{
+		"name": "Shabeellaha Dhexe",
+		"code": "SO-SD"
+	},
+	{
+		"name": "Shabeellaha Hoose",
+		"code": "SO-SH"
+	},
+	{
+		"name": "Sool",
+		"code": "SO-SO"
+	},
+	{
+		"name": "Togdheer",
+		"code": "SO-TO"
+	},
+	{
+		"name": "Woqooyi Galbeed",
+		"code": "SO-WO"
+	}
+]

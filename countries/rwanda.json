@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Est",
+		"code": "RW-02"
+	},
+	{
+		"name": "Nord",
+		"code": "RW-03"
+	},
+	{
+		"name": "Ouest",
+		"code": "RW-04"
+	},
+	{
+		"name": "Sud",
+		"code": "RW-05"
+	},
+	{
+		"name": "Ville de Kigali",
+		"code": "RW-01"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Alibori",
+		"code": "BJ-AL"
+	},
+	{
+		"name": "Atakora",
+		"code": "BJ-AK"
+	},
+	{
+		"name": "Atlantique",
+		"code": "BJ-AQ"
+	},
+	{
+		"name": "Borgou",
+		"code": "BJ-BO"
+	},
+	{
+		"name": "Collines",
+		"code": "BJ-CO"
+	},
+	{
+		"name": "Donga",
+		"code": "BJ-DO"
+	},
+	{
+		"name": "Kouffo",
+		"code": "BJ-KO"
+	},
+	{
+		"name": "Littoral",
+		"code": "BJ-LI"
+	},
+	{
+		"name": "Mono",
+		"code": "BJ-MO"
+	},
+	{
+		"name": "Ouémé",
+		"code": "BJ-OU"
+	},
+	{
+		"name": "Plateau",
+		"code": "BJ-PL"
+	},
+	{
+		"name": "Zou",
+		"code": "BJ-ZO"
+	}
+]

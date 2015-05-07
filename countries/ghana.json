@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Ashanti",
+		"code": "GH-AH"
+	},
+	{
+		"name": "Brong-Ahafo",
+		"code": "GH-BA"
+	},
+	{
+		"name": "Central",
+		"code": "GH-CP"
+	},
+	{
+		"name": "Eastern",
+		"code": "GH-EP"
+	},
+	{
+		"name": "Greater Accra",
+		"code": "GH-AA"
+	},
+	{
+		"name": "Northern",
+		"code": "GH-NP"
+	},
+	{
+		"name": "Upper East",
+		"code": "GH-UE"
+	},
+	{
+		"name": "Upper West",
+		"code": "GH-UW"
+	},
+	{
+		"name": "Volta",
+		"code": "GH-TV"
+	},
+	{
+		"name": "Western",
+		"code": "GH-WP"
+	}
+]

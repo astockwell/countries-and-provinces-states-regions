@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Chaouia-Ouardigha",
+		"code": "MA-09"
+	},
+	{
+		"name": "Doukhala-Abda",
+		"code": "MA-10"
+	},
+	{
+		"name": "Fès-Boulemane",
+		"code": "MA-05"
+	},
+	{
+		"name": "Gharb-Chrarda-Beni Hssen",
+		"code": "MA-02"
+	},
+	{
+		"name": "Grand Casablanca",
+		"code": "MA-08"
+	},
+	{
+		"name": "Guelmim-Es Smara",
+		"code": "MA-14"
+	},
+	{
+		"name": "L'Oriental",
+		"code": "MA-04"
+	},
+	{
+		"name": "Laâyoune-Boujdour-Sakia el Hamra",
+		"code": "MA-15"
+	},
+	{
+		"name": "Marrakech-Tensift-Al Haouz",
+		"code": "MA-11"
+	},
+	{
+		"name": "Meknès-Tafilalet",
+		"code": "MA-06"
+	},
+	{
+		"name": "Oued ed Dahab-Lagouira",
+		"code": "MA-16"
+	},
+	{
+		"name": "Rabat-Salé-Zemmour-Zaer",
+		"code": "MA-07"
+	},
+	{
+		"name": "Souss-Massa-Drâa",
+		"code": "MA-13"
+	},
+	{
+		"name": "Tadla-Azilal",
+		"code": "MA-12"
+	},
+	{
+		"name": "Tanger-Tétouan",
+		"code": "MA-01"
+	},
+	{
+		"name": "Taza-Al Hoceima-Taounate",
+		"code": "MA-03"
+	}
+]

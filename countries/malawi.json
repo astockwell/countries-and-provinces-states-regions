@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Central Region",
+		"code": "MW-C"
+	},
+	{
+		"name": "Northern Region",
+		"code": "MW-N"
+	},
+	{
+		"name": "Southern Region",
+		"code": "MW-S"
+	}
+]

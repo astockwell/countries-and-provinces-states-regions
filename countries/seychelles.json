@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Anse Boileau",
+		"code": "SC-02"
+	},
+	{
+		"name": "Anse Etoile",
+		"code": "SC-03"
+	},
+	{
+		"name": "Anse Royale",
+		"code": "SC-05"
+	},
+	{
+		"name": "Anse aux Pins",
+		"code": "SC-01"
+	},
+	{
+		"name": "Au Cap",
+		"code": "SC-04"
+	},
+	{
+		"name": "Baie Lazare",
+		"code": "SC-06"
+	},
+	{
+		"name": "Baie Sainte Anne",
+		"code": "SC-07"
+	},
+	{
+		"name": "Beau Vallon",
+		"code": "SC-08"
+	},
+	{
+		"name": "Bel Air",
+		"code": "SC-09"
+	},
+	{
+		"name": "Bel Ombre",
+		"code": "SC-10"
+	},
+	{
+		"name": "Cascade",
+		"code": "SC-11"
+	},
+	{
+		"name": "English River",
+		"code": "SC-16"
+	},
+	{
+		"name": "Glacis",
+		"code": "SC-12"
+	},
+	{
+		"name": "Grand Anse Mahe",
+		"code": "SC-13"
+	},
+	{
+		"name": "Grand Anse Praslin",
+		"code": "SC-14"
+	},
+	{
+		"name": "La Digue",
+		"code": "SC-15"
+	},
+	{
+		"name": "Les Mamelles",
+		"code": "SC-24"
+	},
+	{
+		"name": "Mont Buxton",
+		"code": "SC-17"
+	},
+	{
+		"name": "Mont Fleuri",
+		"code": "SC-18"
+	},
+	{
+		"name": "Plaisance",
+		"code": "SC-19"
+	},
+	{
+		"name": "Pointe Larue",
+		"code": "SC-20"
+	},
+	{
+		"name": "Port Glaud",
+		"code": "SC-21"
+	},
+	{
+		"name": "Roche Caiman",
+		"code": "SC-25"
+	},
+	{
+		"name": "Saint Louis",
+		"code": "SC-22"
+	},
+	{
+		"name": "Takamaka",
+		"code": "SC-23"
+	}
+]

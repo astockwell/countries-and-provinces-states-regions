@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Cabo Delgado",
+		"code": "MZ-P"
+	},
+	{
+		"name": "Gaza",
+		"code": "MZ-G"
+	},
+	{
+		"name": "Inhambane",
+		"code": "MZ-I"
+	},
+	{
+		"name": "Manica",
+		"code": "MZ-B"
+	},
+	{
+		"name": "Maputo",
+		"code": "MZ-MPM"
+	},
+	{
+		"name": "Maputo",
+		"code": "MZ-L"
+	},
+	{
+		"name": "Nampula",
+		"code": "MZ-N"
+	},
+	{
+		"name": "Niassa",
+		"code": "MZ-A"
+	},
+	{
+		"name": "Sofala",
+		"code": "MZ-S"
+	},
+	{
+		"name": "Tete",
+		"code": "MZ-T"
+	},
+	{
+		"name": "Zambézia",
+		"code": "MZ-Q"
+	}
+]

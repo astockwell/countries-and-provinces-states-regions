@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Bamako",
+		"code": "ML-BKO"
+	},
+	{
+		"name": "Gao",
+		"code": "ML-7"
+	},
+	{
+		"name": "Kayes",
+		"code": "ML-1"
+	},
+	{
+		"name": "Kidal",
+		"code": "ML-8"
+	},
+	{
+		"name": "Koulikoro",
+		"code": "ML-2"
+	},
+	{
+		"name": "Mopti",
+		"code": "ML-5"
+	},
+	{
+		"name": "Sikasso",
+		"code": "ML-3"
+	},
+	{
+		"name": "Ségou",
+		"code": "ML-4"
+	},
+	{
+		"name": "Tombouctou",
+		"code": "ML-6"
+	}
+]

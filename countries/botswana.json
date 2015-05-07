@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Central",
+		"code": "BW-CE"
+	},
+	{
+		"name": "Chobe",
+		"code": "BW-CH"
+	},
+	{
+		"name": "Francistown",
+		"code": "BW-FR"
+	},
+	{
+		"name": "Gaborone",
+		"code": "BW-GA"
+	},
+	{
+		"name": "Ghanzi",
+		"code": "BW-GH"
+	},
+	{
+		"name": "Jwaneng",
+		"code": "BW-JW"
+	},
+	{
+		"name": "Kgalagadi",
+		"code": "BW-KG"
+	},
+	{
+		"name": "Kgatleng",
+		"code": "BW-KL"
+	},
+	{
+		"name": "Kweneng",
+		"code": "BW-KW"
+	},
+	{
+		"name": "Lobatse",
+		"code": "BW-LO"
+	},
+	{
+		"name": "North-East",
+		"code": "BW-NE"
+	},
+	{
+		"name": "North-West",
+		"code": "BW-NW"
+	},
+	{
+		"name": "Selibe Phikwe",
+		"code": "BW-SP"
+	},
+	{
+		"name": "South-East",
+		"code": "BW-SE"
+	},
+	{
+		"name": "Southern",
+		"code": "BW-SO"
+	},
+	{
+		"name": "Sowa Town",
+		"code": "BW-ST"
+	}
+]

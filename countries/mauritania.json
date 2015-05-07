@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Adrar",
+		"code": "MR-07"
+	},
+	{
+		"name": "Assaba",
+		"code": "MR-03"
+	},
+	{
+		"name": "Brakna",
+		"code": "MR-05"
+	},
+	{
+		"name": "Dakhlet Nouâdhibou",
+		"code": "MR-08"
+	},
+	{
+		"name": "Gorgol",
+		"code": "MR-04"
+	},
+	{
+		"name": "Guidimaka",
+		"code": "MR-10"
+	},
+	{
+		"name": "Hodh ech Chargui",
+		"code": "MR-01"
+	},
+	{
+		"name": "Hodh el Gharbi",
+		"code": "MR-02"
+	},
+	{
+		"name": "Inchiri",
+		"code": "MR-12"
+	},
+	{
+		"name": "Nouakchott",
+		"code": "MR-NKC"
+	},
+	{
+		"name": "Tagant",
+		"code": "MR-09"
+	},
+	{
+		"name": "Tiris Zemmour",
+		"code": "MR-11"
+	},
+	{
+		"name": "Trarza",
+		"code": "MR-06"
+	}
+]

@@ -1,11 +1,38 @@
 [
-	{"name": "Eastern Cape", "code": "EC"},
-	{"name": "Free State", "code": "FS"},
-	{"name": "Gauteng", "code": "GP"},
-	{"name": "KwaZulu-Natal", "code": "KZN"},
-	{"name": "Limpopo", "code": "LP"},
-	{"name": "Mpumalanga", "code": "MP"},
-	{"name": "Northern Cape", "code": "NC"},
-	{"name": "North West", "code": "NW"},
-	{"name": "Western Cape", "code": "WC"}
+	{
+		"name": "Eastern Cape",
+		"code": "ZA-EC"
+	},
+	{
+		"name": "Free State",
+		"code": "ZA-FS"
+	},
+	{
+		"name": "Gauteng",
+		"code": "ZA-GT"
+	},
+	{
+		"name": "KwaZulu-Natal",
+		"code": "ZA-NL"
+	},
+	{
+		"name": "Limpopo",
+		"code": "ZA-LP"
+	},
+	{
+		"name": "Mpumalanga",
+		"code": "ZA-MP"
+	},
+	{
+		"name": "North West",
+		"code": "ZA-NW"
+	},
+	{
+		"name": "Northern Cape",
+		"code": "ZA-NC"
+	},
+	{
+		"name": "Western Cape",
+		"code": "ZA-WC"
+	}
 ]

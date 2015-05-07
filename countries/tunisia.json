@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Ariana",
+		"code": "TN-12"
+	},
+	{
+		"name": "Ben Arous",
+		"code": "TN-13"
+	},
+	{
+		"name": "Bizerte",
+		"code": "TN-23"
+	},
+	{
+		"name": "Béja",
+		"code": "TN-31"
+	},
+	{
+		"name": "Gabès",
+		"code": "TN-81"
+	},
+	{
+		"name": "Gafsa",
+		"code": "TN-71"
+	},
+	{
+		"name": "Jendouba",
+		"code": "TN-32"
+	},
+	{
+		"name": "Kairouan",
+		"code": "TN-41"
+	},
+	{
+		"name": "Kasserine",
+		"code": "TN-42"
+	},
+	{
+		"name": "Kebili",
+		"code": "TN-73"
+	},
+	{
+		"name": "La Manouba",
+		"code": "TN-14"
+	},
+	{
+		"name": "Le Kef",
+		"code": "TN-33"
+	},
+	{
+		"name": "Mahdia",
+		"code": "TN-53"
+	},
+	{
+		"name": "Medenine",
+		"code": "TN-82"
+	},
+	{
+		"name": "Monastir",
+		"code": "TN-52"
+	},
+	{
+		"name": "Nabeul",
+		"code": "TN-21"
+	},
+	{
+		"name": "Sfax",
+		"code": "TN-61"
+	},
+	{
+		"name": "Sidi Bouzid",
+		"code": "TN-43"
+	},
+	{
+		"name": "Siliana",
+		"code": "TN-34"
+	},
+	{
+		"name": "Sousse",
+		"code": "TN-51"
+	},
+	{
+		"name": "Tataouine",
+		"code": "TN-83"
+	},
+	{
+		"name": "Tozeur",
+		"code": "TN-72"
+	},
+	{
+		"name": "Tunis",
+		"code": "TN-11"
+	},
+	{
+		"name": "Zaghouan",
+		"code": "TN-22"
+	}
+]

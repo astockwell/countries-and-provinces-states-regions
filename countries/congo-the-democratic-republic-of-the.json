@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Bandundu",
+		"code": "CD-BN"
+	},
+	{
+		"name": "Bas-Congo",
+		"code": "CD-BC"
+	},
+	{
+		"name": "Kasai-Occidental",
+		"code": "CD-KW"
+	},
+	{
+		"name": "Kasai-Oriental",
+		"code": "CD-KE"
+	},
+	{
+		"name": "Katanga",
+		"code": "CD-KA"
+	},
+	{
+		"name": "Kinshasa",
+		"code": "CD-KN"
+	},
+	{
+		"name": "Maniema",
+		"code": "CD-MA"
+	},
+	{
+		"name": "Nord-Kivu",
+		"code": "CD-NK"
+	},
+	{
+		"name": "Orientale",
+		"code": "CD-OR"
+	},
+	{
+		"name": "Sud-Kivu",
+		"code": "CD-SK"
+	},
+	{
+		"name": "Équateur",
+		"code": "CD-EQ"
+	}
+]

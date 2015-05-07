@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Central",
+		"code": "ZM-02"
+	},
+	{
+		"name": "Copperbelt",
+		"code": "ZM-08"
+	},
+	{
+		"name": "Eastern",
+		"code": "ZM-03"
+	},
+	{
+		"name": "Luapula",
+		"code": "ZM-04"
+	},
+	{
+		"name": "Lusaka",
+		"code": "ZM-09"
+	},
+	{
+		"name": "North-Western",
+		"code": "ZM-06"
+	},
+	{
+		"name": "Northern",
+		"code": "ZM-05"
+	},
+	{
+		"name": "Southern",
+		"code": "ZM-07"
+	},
+	{
+		"name": "Western",
+		"code": "ZM-01"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Agadez",
+		"code": "NE-1"
+	},
+	{
+		"name": "Diffa",
+		"code": "NE-2"
+	},
+	{
+		"name": "Dosso",
+		"code": "NE-3"
+	},
+	{
+		"name": "Maradi",
+		"code": "NE-4"
+	},
+	{
+		"name": "Niamey",
+		"code": "NE-8"
+	},
+	{
+		"name": "Tahoua",
+		"code": "NE-5"
+	},
+	{
+		"name": "Tillabéri",
+		"code": "NE-6"
+	},
+	{
+		"name": "Zinder",
+		"code": "NE-7"
+	}
+]

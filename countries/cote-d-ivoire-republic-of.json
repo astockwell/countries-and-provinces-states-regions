@@ -1,0 +1,78 @@
+[
+	{
+		"name": "18 Montagnes",
+		"code": "CI-06"
+	},
+	{
+		"name": "Agnébi",
+		"code": "CI-16"
+	},
+	{
+		"name": "Bafing",
+		"code": "CI-17"
+	},
+	{
+		"name": "Bas-Sassandra",
+		"code": "CI-09"
+	},
+	{
+		"name": "Denguélé",
+		"code": "CI-10"
+	},
+	{
+		"name": "Fromager",
+		"code": "CI-18"
+	},
+	{
+		"name": "Haut-Sassandra",
+		"code": "CI-02"
+	},
+	{
+		"name": "Lacs",
+		"code": "CI-07"
+	},
+	{
+		"name": "Lagunes",
+		"code": "CI-01"
+	},
+	{
+		"name": "Marahoué",
+		"code": "CI-12"
+	},
+	{
+		"name": "Moyen-Cavally",
+		"code": "CI-19"
+	},
+	{
+		"name": "Moyen-Comoé",
+		"code": "CI-05"
+	},
+	{
+		"name": "Nzi-Comoé",
+		"code": "CI-11"
+	},
+	{
+		"name": "Savanes",
+		"code": "CI-03"
+	},
+	{
+		"name": "Sud-Bandama",
+		"code": "CI-15"
+	},
+	{
+		"name": "Sud-Comoé",
+		"code": "CI-13"
+	},
+	{
+		"name": "Vallée du Bandama",
+		"code": "CI-04"
+	},
+	{
+		"name": "Worodougou",
+		"code": "CI-14"
+	},
+	{
+		"name": "Zanzan",
+		"code": "CI-08"
+	}
+]

@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Al Baṭḩah",
+		"code": "TD-BA"
+	},
+	{
+		"name": "Al Buḩayrah",
+		"code": "TD-LC"
+	},
+	{
+		"name": "Baḩr al Ghazāl",
+		"code": "TD-BG"
+	},
+	{
+		"name": "Būrkū",
+		"code": "TD-BO"
+	},
+	{
+		"name": "Innīdī",
+		"code": "TD-EN"
+	},
+	{
+		"name": "Kānim",
+		"code": "TD-KA"
+	},
+	{
+		"name": "Lūqūn al Gharbī",
+		"code": "TD-LO"
+	},
+	{
+		"name": "Lūqūn ash Sharqī",
+		"code": "TD-LR"
+	},
+	{
+		"name": "Madīnat Injamīnā",
+		"code": "TD-ND"
+	},
+	{
+		"name": "Māndūl",
+		"code": "TD-MA"
+	},
+	{
+		"name": "Māyū Kībbī al Gharbī",
+		"code": "TD-MO"
+	},
+	{
+		"name": "Māyū Kībbī ash Sharqī",
+		"code": "TD-ME"
+	},
+	{
+		"name": "Qīrā",
+		"code": "TD-GR"
+	},
+	{
+		"name": "Salāmāt",
+		"code": "TD-SA"
+	},
+	{
+		"name": "Shārī Bāqirmī",
+		"code": "TD-CB"
+	},
+	{
+		"name": "Shārī al Awsaṭ",
+		"code": "TD-MC"
+	},
+	{
+		"name": "Sīlā",
+		"code": "TD-SI"
+	},
+	{
+		"name": "Tibastī",
+		"code": "TD-TI"
+	},
+	{
+		"name": "Tānjilī",
+		"code": "TD-TA"
+	},
+	{
+		"name": "Waddāy",
+		"code": "TD-OD"
+	},
+	{
+		"name": "Wādī Fīrā",
+		"code": "TD-WF"
+	},
+	{
+		"name": "Ḥajjar Lamīs",
+		"code": "TD-HL"
+	}
+]

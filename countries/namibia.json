@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Erongo",
+		"code": "NA-ER"
+	},
+	{
+		"name": "Hardap",
+		"code": "NA-HA"
+	},
+	{
+		"name": "Karas",
+		"code": "NA-KA"
+	},
+	{
+		"name": "Kavango East",
+		"code": "NA-KE"
+	},
+	{
+		"name": "Kavango West",
+		"code": "NA-KW"
+	},
+	{
+		"name": "Khomas",
+		"code": "NA-KH"
+	},
+	{
+		"name": "Kunene",
+		"code": "NA-KU"
+	},
+	{
+		"name": "Ohangwena",
+		"code": "NA-OW"
+	},
+	{
+		"name": "Omaheke",
+		"code": "NA-OH"
+	},
+	{
+		"name": "Omusati",
+		"code": "NA-OS"
+	},
+	{
+		"name": "Oshana",
+		"code": "NA-ON"
+	},
+	{
+		"name": "Oshikoto",
+		"code": "NA-OT"
+	},
+	{
+		"name": "Otjozondjupa",
+		"code": "NA-OD"
+	},
+	{
+		"name": "Zambezi",
+		"code": "NA-CA"
+	}
+]

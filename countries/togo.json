@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Centre",
+		"code": "TG-C"
+	},
+	{
+		"name": "Kara",
+		"code": "TG-K"
+	},
+	{
+		"name": "Maritime",
+		"code": "TG-M"
+	},
+	{
+		"name": "Plateaux",
+		"code": "TG-P"
+	},
+	{
+		"name": "Savannes",
+		"code": "TG-S"
+	}
+]

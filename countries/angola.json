@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Bengo",
+		"code": "AO-BGO"
+	},
+	{
+		"name": "Benguela",
+		"code": "AO-BGU"
+	},
+	{
+		"name": "Bié",
+		"code": "AO-BIE"
+	},
+	{
+		"name": "Cabinda",
+		"code": "AO-CAB"
+	},
+	{
+		"name": "Cunene",
+		"code": "AO-CNN"
+	},
+	{
+		"name": "Huambo",
+		"code": "AO-HUA"
+	},
+	{
+		"name": "Huíla",
+		"code": "AO-HUI"
+	},
+	{
+		"name": "Kuando Kubango",
+		"code": "AO-CCU"
+	},
+	{
+		"name": "Kwanza Norte",
+		"code": "AO-CNO"
+	},
+	{
+		"name": "Kwanza Sul",
+		"code": "AO-CUS"
+	},
+	{
+		"name": "Luanda",
+		"code": "AO-LUA"
+	},
+	{
+		"name": "Lunda Norte",
+		"code": "AO-LNO"
+	},
+	{
+		"name": "Lunda Sul",
+		"code": "AO-LSU"
+	},
+	{
+		"name": "Malange",
+		"code": "AO-MAL"
+	},
+	{
+		"name": "Moxico",
+		"code": "AO-MOX"
+	},
+	{
+		"name": "Namibe",
+		"code": "AO-NAM"
+	},
+	{
+		"name": "Uíge",
+		"code": "AO-UIG"
+	},
+	{
+		"name": "Zaire",
+		"code": "AO-ZAI"
+	}
+]

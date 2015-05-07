@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Estuaire",
+		"code": "GA-1"
+	},
+	{
+		"name": "Haut-Ogooué",
+		"code": "GA-2"
+	},
+	{
+		"name": "Moyen-Ogooué",
+		"code": "GA-3"
+	},
+	{
+		"name": "Ngounié",
+		"code": "GA-4"
+	},
+	{
+		"name": "Nyanga",
+		"code": "GA-5"
+	},
+	{
+		"name": "Ogooué-Ivindo",
+		"code": "GA-6"
+	},
+	{
+		"name": "Ogooué-Lolo",
+		"code": "GA-7"
+	},
+	{
+		"name": "Ogooué-Maritime",
+		"code": "GA-8"
+	},
+	{
+		"name": "Woleu-Ntem",
+		"code": "GA-9"
+	}
+]

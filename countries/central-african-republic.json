@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Bamingui-Bangoran",
+		"code": "CF-BB"
+	},
+	{
+		"name": "Bangui",
+		"code": "CF-BGF"
+	},
+	{
+		"name": "Basse-Kotto",
+		"code": "CF-BK"
+	},
+	{
+		"name": "Gribingui",
+		"code": "CF-KB"
+	},
+	{
+		"name": "Haut-Mbomou",
+		"code": "CF-HM"
+	},
+	{
+		"name": "Haute-Kotto",
+		"code": "CF-HK"
+	},
+	{
+		"name": "Haute-Sangha / Mambéré-Kadéï",
+		"code": "CF-HS"
+	},
+	{
+		"name": "Kémo-Gribingui",
+		"code": "CF-KG"
+	},
+	{
+		"name": "Lobaye",
+		"code": "CF-LB"
+	},
+	{
+		"name": "Mbomou",
+		"code": "CF-MB"
+	},
+	{
+		"name": "Nana-Mambéré",
+		"code": "CF-NM"
+	},
+	{
+		"name": "Ombella-Mpoko",
+		"code": "CF-MP"
+	},
+	{
+		"name": "Ouaka",
+		"code": "CF-UK"
+	},
+	{
+		"name": "Ouham",
+		"code": "CF-AC"
+	},
+	{
+		"name": "Ouham-Pendé",
+		"code": "CF-OP"
+	},
+	{
+		"name": "Sangha",
+		"code": "CF-SE"
+	},
+	{
+		"name": "Vakaga",
+		"code": "CF-VK"
+	}
+]

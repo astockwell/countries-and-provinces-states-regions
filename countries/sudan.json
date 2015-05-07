@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Al Baḩr al Aḩmar",
+		"code": "SD-RS"
+	},
+	{
+		"name": "Al Jazīrah",
+		"code": "SD-GZ"
+	},
+	{
+		"name": "Al Kharţūm",
+		"code": "SD-KH"
+	},
+	{
+		"name": "Al Qaḑārif",
+		"code": "SD-GD"
+	},
+	{
+		"name": "An Nīl",
+		"code": "SD-NR"
+	},
+	{
+		"name": "An Nīl al Abyaḑ",
+		"code": "SD-NW"
+	},
+	{
+		"name": "An Nīl al Azraq",
+		"code": "SD-NB"
+	},
+	{
+		"name": "Ash Shamālīyah",
+		"code": "SD-NO"
+	},
+	{
+		"name": "Gharb Dārfūr",
+		"code": "SD-DW"
+	},
+	{
+		"name": "Janūb Dārfūr",
+		"code": "SD-DS"
+	},
+	{
+		"name": "Janūb Kurdufān",
+		"code": "SD-KS"
+	},
+	{
+		"name": "Kassalā",
+		"code": "SD-KA"
+	},
+	{
+		"name": "Shamāl Dārfūr",
+		"code": "SD-DN"
+	},
+	{
+		"name": "Shamāl Kurdufān",
+		"code": "SD-KN"
+	},
+	{
+		"name": "Sharq Dārfūr",
+		"code": "SD-DE"
+	},
+	{
+		"name": "Sinnār",
+		"code": "SD-SI"
+	},
+	{
+		"name": "Zalingei",
+		"code": "SD-DC"
+	}
+]

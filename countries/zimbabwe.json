@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Bulawayo",
+		"code": "ZW-BU"
+	},
+	{
+		"name": "Harare",
+		"code": "ZW-HA"
+	},
+	{
+		"name": "Manicaland",
+		"code": "ZW-MA"
+	},
+	{
+		"name": "Mashonaland Central",
+		"code": "ZW-MC"
+	},
+	{
+		"name": "Mashonaland East",
+		"code": "ZW-ME"
+	},
+	{
+		"name": "Mashonaland West",
+		"code": "ZW-MW"
+	},
+	{
+		"name": "Masvingo",
+		"code": "ZW-MV"
+	},
+	{
+		"name": "Matabeleland North",
+		"code": "ZW-MN"
+	},
+	{
+		"name": "Matabeleland South",
+		"code": "ZW-MS"
+	},
+	{
+		"name": "Midlands",
+		"code": "ZW-MI"
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Adrar",
+		"code": "DZ-01"
+	},
+	{
+		"name": "Alger",
+		"code": "DZ-16"
+	},
+	{
+		"name": "Annaba",
+		"code": "DZ-23"
+	},
+	{
+		"name": "Aïn Defla",
+		"code": "DZ-44"
+	},
+	{
+		"name": "Aïn Témouchent",
+		"code": "DZ-46"
+	},
+	{
+		"name": "Batna",
+		"code": "DZ-05"
+	},
+	{
+		"name": "Biskra",
+		"code": "DZ-07"
+	},
+	{
+		"name": "Blida",
+		"code": "DZ-09"
+	},
+	{
+		"name": "Bordj Bou Arréridj",
+		"code": "DZ-34"
+	},
+	{
+		"name": "Bouira",
+		"code": "DZ-10"
+	},
+	{
+		"name": "Boumerdès",
+		"code": "DZ-35"
+	},
+	{
+		"name": "Béchar",
+		"code": "DZ-08"
+	},
+	{
+		"name": "Béjaïa",
+		"code": "DZ-06"
+	},
+	{
+		"name": "Chlef",
+		"code": "DZ-02"
+	},
+	{
+		"name": "Constantine",
+		"code": "DZ-25"
+	},
+	{
+		"name": "Djelfa",
+		"code": "DZ-17"
+	},
+	{
+		"name": "El Bayadh",
+		"code": "DZ-32"
+	},
+	{
+		"name": "El Oued",
+		"code": "DZ-39"
+	},
+	{
+		"name": "El Tarf",
+		"code": "DZ-36"
+	},
+	{
+		"name": "Ghardaïa",
+		"code": "DZ-47"
+	},
+	{
+		"name": "Guelma",
+		"code": "DZ-24"
+	},
+	{
+		"name": "Illizi",
+		"code": "DZ-33"
+	},
+	{
+		"name": "Jijel",
+		"code": "DZ-18"
+	},
+	{
+		"name": "Khenchela",
+		"code": "DZ-40"
+	},
+	{
+		"name": "Laghouat",
+		"code": "DZ-03"
+	},
+	{
+		"name": "Mascara",
+		"code": "DZ-29"
+	},
+	{
+		"name": "Mila",
+		"code": "DZ-43"
+	},
+	{
+		"name": "Mostaganem",
+		"code": "DZ-27"
+	},
+	{
+		"name": "Msila",
+		"code": "DZ-28"
+	},
+	{
+		"name": "Médéa",
+		"code": "DZ-26"
+	},
+	{
+		"name": "Naama",
+		"code": "DZ-45"
+	},
+	{
+		"name": "Oran",
+		"code": "DZ-31"
+	},
+	{
+		"name": "Ouargla",
+		"code": "DZ-30"
+	},
+	{
+		"name": "Oum el Bouaghi",
+		"code": "DZ-04"
+	},
+	{
+		"name": "Relizane",
+		"code": "DZ-48"
+	},
+	{
+		"name": "Saïda",
+		"code": "DZ-20"
+	},
+	{
+		"name": "Sidi Bel Abbès",
+		"code": "DZ-22"
+	},
+	{
+		"name": "Skikda",
+		"code": "DZ-21"
+	},
+	{
+		"name": "Souk Ahras",
+		"code": "DZ-41"
+	},
+	{
+		"name": "Sétif",
+		"code": "DZ-19"
+	},
+	{
+		"name": "Tamanghasset",
+		"code": "DZ-11"
+	},
+	{
+		"name": "Tiaret",
+		"code": "DZ-14"
+	},
+	{
+		"name": "Tindouf",
+		"code": "DZ-37"
+	},
+	{
+		"name": "Tipaza",
+		"code": "DZ-42"
+	},
+	{
+		"name": "Tissemsilt",
+		"code": "DZ-38"
+	},
+	{
+		"name": "Tizi Ouzou",
+		"code": "DZ-15"
+	},
+	{
+		"name": "Tlemcen",
+		"code": "DZ-13"
+	},
+	{
+		"name": "Tébessa",
+		"code": "DZ-12"
+	}
+]
