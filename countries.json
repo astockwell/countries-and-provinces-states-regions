@@ -16,7 +16,8 @@
 	{
 		"name": "Algeria",
 		"code": "DZ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "algeria"
 	},
 	{
 		"name": "American Samoa",
@@ -32,7 +33,8 @@
 	{
 		"name": "Angola",
 		"code": "AO",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "angola"
 	},
 	{
 		"name": "Anguilla",
@@ -125,7 +127,8 @@
 	{
 		"name": "Benin",
 		"code": "BJ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "benin"
 	},
 	{
 		"name": "Bermuda",
@@ -151,7 +154,8 @@
 	{
 		"name": "Botswana",
 		"code": "BW",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "botswana"
 	},
 	{
 		"name": "Bouvet Island",
@@ -180,12 +184,14 @@
 	{
 		"name": "Burkina Faso",
 		"code": "BF",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "burkina-faso"
 	},
 	{
 		"name": "Burundi",
 		"code": "BI",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "burundi"
 	},
 	{
 		"name": "Cambodia",
@@ -194,7 +200,8 @@
 	{
 		"name": "Cameroon",
 		"code": "CM",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "cameroon"
 	},
 	{
 		"name": "Canada",
@@ -205,7 +212,8 @@
 	{
 		"name": "Cape Verde",
 		"code": "CV",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "cape-verde"
 	},
 	{
 		"name": "Cayman Islands",
@@ -215,12 +223,14 @@
 	{
 		"name": "Central African Republic",
 		"code": "CF",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "central-african-republic"
 	},
 	{
 		"name": "Chad",
 		"code": "TD",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "chad"
 	},
 	{
 		"name": "Chile",
@@ -252,17 +262,20 @@
 	{
 		"name": "Comoros",
 		"code": "KM",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "comoros"
 	},
 	{
 		"name": "Congo",
 		"code": "CG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "congo"
 	},
 	{
 		"name": "Congo, The Democratic Republic of the",
 		"code": "CD",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "congo-the-democratic-republic-of-the"
 	},
 	{
 		"name": "Cook Islands",
@@ -277,7 +290,8 @@
 	{
 		"name": "Côte d'Ivoire, Republic of",
 		"code": "CI",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "cote-d-ivoire-republic-of"
 	},
 	{
 		"name": "Croatia",
@@ -317,7 +331,8 @@
 	{
 		"name": "Djibouti",
 		"code": "DJ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "djibouti"
 	},
 	{
 		"name": "Dominica",
@@ -340,7 +355,8 @@
 	{
 		"name": "Egypt",
 		"code": "EG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "egypt"
 	},
 	{
 		"name": "El Salvador",
@@ -351,12 +367,14 @@
 	{
 		"name": "Equatorial Guinea",
 		"code": "GQ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "equatorial-guinea"
 	},
 	{
 		"name": "Eritrea",
 		"code": "ER",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "eritrea"
 	},
 	{
 		"name": "Estonia",
@@ -367,7 +385,8 @@
 	{
 		"name": "Ethiopia",
 		"code": "ET",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "ethiopia"
 	},
 	{
 		"name": "Falkland Islands (Malvinas)",
@@ -413,12 +432,14 @@
 	{
 		"name": "Gabon",
 		"code": "GA",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "gabon"
 	},
 	{
 		"name": "Gambia",
 		"code": "GM",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "gambia"
 	},
 	{
 		"name": "Georgia",
@@ -435,7 +456,8 @@
 	{
 		"name": "Ghana",
 		"code": "GH",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "ghana"
 	},
 	{
 		"name": "Gibraltar",
@@ -482,12 +504,14 @@
 	{
 		"name": "Guinea",
 		"code": "GN",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "guinea"
 	},
 	{
 		"name": "Guinea-Bissau",
 		"code": "GW",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "guinea-bissau"
 	},
 	{
 		"name": "Guyana",
@@ -598,7 +622,8 @@
 	{
 		"name": "Kenya",
 		"code": "KE",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "kenya"
 	},
 	{
 		"name": "Kiribati",
@@ -639,17 +664,20 @@
 	{
 		"name": "Lesotho",
 		"code": "LS",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "lesotho"
 	},
 	{
 		"name": "Liberia",
 		"code": "LR",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "liberia"
 	},
 	{
 		"name": "Libyan Arab Jamahiriya",
 		"code": "LY",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "libyan-arab-jamahiriya"
 	},
 	{
 		"name": "Liechtenstein",
@@ -682,12 +710,14 @@
 	{
 		"name": "Madagascar",
 		"code": "MG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "madagascar"
 	},
 	{
 		"name": "Malawi",
 		"code": "MW",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "malawi"
 	},
 	{
 		"name": "Malaysia",
@@ -701,7 +731,8 @@
 	{
 		"name": "Mali",
 		"code": "ML",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "mali"
 	},
 	{
 		"name": "Malta",
@@ -723,12 +754,14 @@
 	{
 		"name": "Mauritania",
 		"code": "MR",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "mauritania"
 	},
 	{
 		"name": "Mauritius",
 		"code": "MU",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "mauritius"
 	},
 	{
 		"name": "Mayotte",
@@ -777,12 +810,14 @@
 	{
 		"name": "Morocco",
 		"code": "MA",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "morocco"
 	},
 	{
 		"name": "Mozambique",
 		"code": "MZ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "mozambique"
 	},
 	{
 		"name": "Myanmar",
@@ -791,7 +826,8 @@
 	{
 		"name": "Namibia",
 		"code": "NA",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "namibia"
 	},
 	{
 		"name": "Nauru",
@@ -834,12 +870,14 @@
 	{
 		"name": "Niger",
 		"code": "NE",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "niger"
 	},
 	{
 		"name": "Nigeria",
 		"code": "NG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "nigeria"
 	},
 	{
 		"name": "Niue",
@@ -951,12 +989,14 @@
 	{
 		"name": "Rwanda",
 		"code": "RW",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "rwanda"
 	},
 	{
 		"name": "Saint Helena, Ascension and Tristan da Cunha",
 		"code": "SH",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "saint-helena-ascension-and-tristan-da-cunha"
 	},
 	{
 		"name": "Saint Kitts and Nevis",
@@ -996,7 +1036,8 @@
 	{
 		"name": "São Tomé and Príncipe",
 		"code": "ST",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "sao-tome-and-principe"
 	},
 	{
 		"name": "Saudi Arabia",
@@ -1005,7 +1046,8 @@
 	{
 		"name": "Senegal",
 		"code": "SN",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "senegal"
 	},
 	{
 		"name": "Serbia",
@@ -1016,12 +1058,14 @@
 	{
 		"name": "Seychelles",
 		"code": "SC",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "seychelles"
 	},
 	{
 		"name": "Sierra Leone",
 		"code": "SL",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "sierra-leone"
 	},
 	{
 		"name": "Singapore",
@@ -1053,7 +1097,8 @@
 	{
 		"name": "Somalia",
 		"code": "SO",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "somalia"
 	},
 	{
 		"name": "South Africa",
@@ -1069,7 +1114,8 @@
 	{
 		"name": "South Sudan",
 		"code": "SS",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "south-sudan"
 	},
 	{
 		"name": "Spain",
@@ -1084,7 +1130,8 @@
 	{
 		"name": "Sudan",
 		"code": "SD",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "sudan"
 	},
 	{
 		"name": "Suriname",
@@ -1099,7 +1146,8 @@
 	{
 		"name": "Swaziland",
 		"code": "SZ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "swaziland"
 	},
 	{
 		"name": "Sweden",
@@ -1128,7 +1176,8 @@
 	{
 		"name": "Tanzania, United Republic of",
 		"code": "TZ",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "tanzania-united-republic-of"
 	},
 	{
 		"name": "Thailand",
@@ -1144,7 +1193,8 @@
 	{
 		"name": "Togo",
 		"code": "TG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "togo"
 	},
 	{
 		"name": "Tokelau",
@@ -1165,7 +1215,8 @@
 	{
 		"name": "Tunisia",
 		"code": "TN",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "tunisia"
 	},
 	{
 		"name": "Turkey",
@@ -1191,7 +1242,8 @@
 	{
 		"name": "Uganda",
 		"code": "UG",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "uganda"
 	},
 	{
 		"name": "Ukraine",
@@ -1272,11 +1324,13 @@
 	{
 		"name": "Zambia",
 		"code": "ZM",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "zambia"
 	},
 	{
 		"name": "Zimbabwe",
 		"code": "ZW",
-		"continent": "Africa"
+		"continent": "Africa",
+		"filename": "zimbabwe"
 	}
 ]
