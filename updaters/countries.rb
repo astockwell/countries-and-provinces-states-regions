@@ -22,6 +22,13 @@ module Countries
 			writer.write( JSON.pretty_generate(countries.sort_by{ |c| GetFromWikipedia.make_filename(c['name']) }, indent: "\t") )
 		end
 	end
+
+	def self.without_file_refs
+		countries = JSON.parse(IO.read("../countries.json").force_encoding("UTF-8").encode!)
+
+		countries.reject { |c| c.keys.include? 'continent' }
+	end
 end
 
+# puts Countries.without_file_refs()
 Countries.update_file_refs()
