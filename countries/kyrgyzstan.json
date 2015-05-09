@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Batken",
+		"code": "KG-B"
+	},
+	{
+		"name": "Bishkek",
+		"code": "KG-GB"
+	},
+	{
+		"name": "Chü",
+		"code": "KG-C"
+	},
+	{
+		"name": "Jalal-Abad",
+		"code": "KG-J"
+	},
+	{
+		"name": "Naryn",
+		"code": "KG-N"
+	},
+	{
+		"name": "Osh",
+		"code": "KG-O"
+	},
+	{
+		"name": "Talas",
+		"code": "KG-T"
+	},
+	{
+		"name": "Ysyk-Köl",
+		"code": "KG-Y"
+	}
+]

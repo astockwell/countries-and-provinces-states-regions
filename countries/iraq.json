@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Al Anbār",
+		"code": "IQ-AN"
+	},
+	{
+		"name": "Al Başrah",
+		"code": "IQ-BA"
+	},
+	{
+		"name": "Al Muthanná",
+		"code": "IQ-MU"
+	},
+	{
+		"name": "Al Qādisīyah",
+		"code": "IQ-QA"
+	},
+	{
+		"name": "An Najaf",
+		"code": "IQ-NA"
+	},
+	{
+		"name": "Arbīl",
+		"code": "IQ-AR"
+	},
+	{
+		"name": "As Sulaymānīyah",
+		"code": "IQ-SU"
+	},
+	{
+		"name": "At Ta'mīm",
+		"code": "IQ-TS"
+	},
+	{
+		"name": "Baghdād",
+		"code": "IQ-BG"
+	},
+	{
+		"name": "Bābil",
+		"code": "IQ-BB"
+	},
+	{
+		"name": "Dahūk",
+		"code": "IQ-DA"
+	},
+	{
+		"name": "Dhī Qār",
+		"code": "IQ-DQ"
+	},
+	{
+		"name": "Diyālá",
+		"code": "IQ-DI"
+	},
+	{
+		"name": "Karbalā'",
+		"code": "IQ-KA"
+	},
+	{
+		"name": "Maysān",
+		"code": "IQ-MA"
+	},
+	{
+		"name": "Nīnawá",
+		"code": "IQ-NI"
+	},
+	{
+		"name": "Wāsiţ",
+		"code": "IQ-WA"
+	},
+	{
+		"name": "Şalāḩ ad Dīn",
+		"code": "IQ-SD"
+	}
+]

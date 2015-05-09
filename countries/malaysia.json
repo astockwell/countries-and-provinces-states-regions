@@ -1,18 +1,66 @@
 [
-	{"name": "Johor", "code": "JHR"},
-	{"name": "Kedah", "code": "KDH"},
-	{"name": "Kelantan", "code": "KTN"},
-	{"name": "Melaka", "code": "MLK"},
-	{"name": "Negeri Sembilan", "code": "NSN"},
-	{"name": "Pahang", "code": "PHG"},
-	{"name": "Perak", "code": "PRK"},
-	{"name": "Perlis", "code": "PLS"},
-	{"name": "Pulau Pinang", "code": "PNG"},
-	{"name": "Sabah", "code": "SBH"},
-	{"name": "Sarawak", "code": "SWK"},
-	{"name": "Selangor", "code": "SGR"},
-	{"name": "Terengganu", "code": "TRG"},
-	{"name": "W.P. Kuala Lumpur", "code": "KUL"},
-	{"name": "W.P. Labuan", "code": "LBN"},
-	{"name": "W.P. Putrajaya", "code": "PJY"}
+	{
+		"name": "Johor",
+		"code": "MY-01"
+	},
+	{
+		"name": "Kedah",
+		"code": "MY-02"
+	},
+	{
+		"name": "Kelantan",
+		"code": "MY-03"
+	},
+	{
+		"name": "Melaka",
+		"code": "MY-04"
+	},
+	{
+		"name": "Negeri Sembilan",
+		"code": "MY-05"
+	},
+	{
+		"name": "Pahang",
+		"code": "MY-06"
+	},
+	{
+		"name": "Perak",
+		"code": "MY-08"
+	},
+	{
+		"name": "Perlis",
+		"code": "MY-09"
+	},
+	{
+		"name": "Pulau Pinang",
+		"code": "MY-07"
+	},
+	{
+		"name": "Sabah",
+		"code": "MY-12"
+	},
+	{
+		"name": "Sarawak",
+		"code": "MY-13"
+	},
+	{
+		"name": "Selangor",
+		"code": "MY-10"
+	},
+	{
+		"name": "Terengganu",
+		"code": "MY-11"
+	},
+	{
+		"name": "Wilayah Persekutuan Kuala Lumpur",
+		"code": "MY-14"
+	},
+	{
+		"name": "Wilayah Persekutuan Labuan",
+		"code": "MY-15"
+	},
+	{
+		"name": "Wilayah Persekutuan Putrajaya",
+		"code": "MY-16"
+	}
 ]

@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Andijon",
+		"code": "UZ-AN"
+	},
+	{
+		"name": "Buxoro",
+		"code": "UZ-BU"
+	},
+	{
+		"name": "Farg‘ona",
+		"code": "UZ-FA"
+	},
+	{
+		"name": "Jizzax",
+		"code": "UZ-JI"
+	},
+	{
+		"name": "Namangan",
+		"code": "UZ-NG"
+	},
+	{
+		"name": "Navoiy",
+		"code": "UZ-NW"
+	},
+	{
+		"name": "Qashqadaryo",
+		"code": "UZ-QA"
+	},
+	{
+		"name": "Qoraqalpog‘iston Respublikasi",
+		"code": "UZ-QR"
+	},
+	{
+		"name": "Samarqand",
+		"code": "UZ-SA"
+	},
+	{
+		"name": "Sirdaryo",
+		"code": "UZ-SI"
+	},
+	{
+		"name": "Surxondaryo",
+		"code": "UZ-SU"
+	},
+	{
+		"name": "Toshkent",
+		"code": "UZ-TO"
+	},
+	{
+		"name": "Toshkent",
+		"code": "UZ-TK"
+	},
+	{
+		"name": "Xorazm",
+		"code": "UZ-XO"
+	}
+]

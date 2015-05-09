@@ -1,79 +1,314 @@
 [
-	{"name": "Amnat Charoen", "native": "อำนาจเจริญ", "code": "TH-37"},
-	{"name": "Ang Thong", "native": "อ่างทอง", "code": "TH-15"},
-	{"name": "Ayutthaya", "native": "พระนครศรีอยุธยา", "code": "TH-14"},
-	{"name": "Bangkok", "native": "กรุงเทพมหานคร", "code": "TH-10"},
-	{"name": "Bueng Kan", "native": "บึงกาฬ", "code": "TH-38"},
-	{"name": "Buri Ram", "native": "บุรีรัมย์", "code": "TH-31"},
-	{"name": "Chachoengsao", "native": "ฉะเชิงเทรา", "code": "TH-24"},
-	{"name": "Chai Nat", "native": "ชัยนาท", "code": "TH-18"},
-	{"name": "Chaiyaphum", "native": "ชัยภูมิ", "code": "TH-36"},
-	{"name": "Chanthaburi", "native": "จันทบุรี", "code": "TH-22"},
-	{"name": "Chiang Mai", "native": "เชียงใหม่", "code": "TH-50"},
-	{"name": "Chiang Rai", "native": "เชียงราย", "code": "TH-57"},
-	{"name": "Chonburi", "native": "ชลบุรี", "code": "TH-20"},
-	{"name": "Chumphon", "native": "ชุมพร", "code": "TH-86"},
-	{"name": "Kalasin", "native": "กาฬสินธุ์", "code": "TH-46"},
-	{"name": "Kamphaeng Phet", "native": "กำแพงเพชร", "code": "TH-62"},
-	{"name": "Kanchanaburi", "native": "กาญจนบุรี", "code": "TH-71"},
-	{"name": "Khon Kaen", "native": "ขอนแก่น", "code": "TH-40"},
-	{"name": "Krabi", "native": "กระบี่", "code": "TH-81"},
-	{"name": "Lampang", "native": "ลำปาง", "code": "TH-52"},
-	{"name": "Lamphun", "native": "ลำพูน", "code": "TH-51"},
-	{"name": "Loei", "native": "เลย", "code": "TH-42"},
-	{"name": "Lopburi", "native": "ลพบุรี", "code": "TH-16"},
-	{"name": "Mae Hong Son", "native": "แม่ฮ่องสอน", "code": "TH-58"},
-	{"name": "Maha Sarakham", "native": "มหาสารคาม", "code": "TH-44"},
-	{"name": "Mukdahan", "native": "มุกดาหาร", "code": "TH-49"},
-	{"name": "Nakhon Nayok", "native": "นครนายก", "code": "TH-26"},
-	{"name": "Nakhon Pathom", "native": "นครปฐม", "code": "TH-73"},
-	{"name": "Nakhon Phanom", "native": "นครพนม", "code": "TH-48"},
-	{"name": "Nakhon Ratchasima", "native": "นครราชสีมา", "code": "TH-30"},
-	{"name": "Nakhon Sawan", "native": "นครสวรรค์", "code": "TH-60"},
-	{"name": "Nakhon Si Thammarat", "native": "นครศรีธรรมราช", "code": "TH-80"},
-	{"name": "Nan", "native": "น่าน", "code": "TH-55"},
-	{"name": "Narathiwat", "native": "นราธิวาส", "code": "TH-96"},
-	{"name": "Nong Bua Lam Phu", "native": "หนองบัวลำภู", "code": "TH-39"},
-	{"name": "Nong Khai", "native": "หนองคาย", "code": "TH-43"},
-	{"name": "Nonthaburi", "native": "นนทบุรี", "code": "TH-12"},
-	{"name": "Pathum Thani", "native": "ปทุมธานี", "code": "TH-13"},
-	{"name": "Pattani", "native": "ปัตตานี", "code": "TH-94"},
-	{"name": "Phang Nga", "native": "พังงา", "code": "TH-82"},
-	{"name": "Phatthalung", "native": "พัทลุง", "code": "TH-93"},
-	{"name": "Phayao", "native": "พะเยา", "code": "TH-56"},
-	{"name": "Phetchabun", "native": "เพชรบูรณ์", "code": "TH-67"},
-	{"name": "Phetchaburi", "native": "เพชรบุรี", "code": "TH-76"},
-	{"name": "Phichit", "native": "พิจิตร", "code": "TH-66"},
-	{"name": "Phitsanulok", "native": "พิษณุโลก", "code": "TH-65"},
-	{"name": "Phrae", "native": "แพร่", "code": "TH-54"},
-	{"name": "Phuket", "native": "ภูเก็ต", "code": "TH-83"},
-	{"name": "Prachin Buri", "native": "ปราจีนบุรี", "code": "TH-25"},
-	{"name": "Prachuap Khiri Khan", "native": "ประจวบคีรีขันธ์", "code": "TH-77"},
-	{"name": "Ranong", "native": "ระนอง", "code": "TH-85"},
-	{"name": "Ratchaburi", "native": "ราชบุรี", "code": "TH-70"},
-	{"name": "Rayong", "native": "ระยอง", "code": "TH-21"},
-	{"name": "Roi Et", "native": "ร้อยเอ็ด", "code": "TH-45"},
-	{"name": "Sa Kaeo", "native": "สระแก้ว", "code": "TH-27"},
-	{"name": "Sakon Nakhon", "native": "สกลนคร", "code": "TH-47"},
-	{"name": "Samut Prakan", "native": "สมุทรปราการ", "code": "TH-11"},
-	{"name": "Samut Sakhon", "native": "สมุทรสาคร", "code": "TH-74"},
-	{"name": "Samut Songkhram", "native": "สมุทรสงคราม", "code": "TH-75"},
-	{"name": "Saraburi", "native": "สระบุรี", "code": "TH-19"},
-	{"name": "Satun", "native": "สตูล", "code": "TH-91"},
-	{"name": "Sing Buri", "native": "สิงห์บุรี", "code": "TH-17"},
-	{"name": "Sisaket", "native": "ศรีสะเกษ", "code": "TH-33"},
-	{"name": "Songkhla", "native": "สงขลา", "code": "TH-90"},
-	{"name": "Sukhothai", "native": "สุโขทัย", "code": "TH-64"},
-	{"name": "Suphan Buri", "native": "สุพรรณบุรี", "code": "TH-72"},
-	{"name": "Surat Thani", "native": "สุราษฎร์ธานี", "code": "TH-84"},
-	{"name": "Surin", "native": "สุรินทร์", "code": "TH-32"},
-	{"name": "Tak", "native": "ตาก", "code": "TH-63"},
-	{"name": "Trang", "native": "ตรัง", "code": "TH-92"},
-	{"name": "Trat", "native": "ตราด", "code": "TH-23"},
-	{"name": "Ubon Ratchathani", "native": "อุบลราชธานี", "code": "TH-34"},
-	{"name": "Udon Thani", "native": "อุดรธานี", "code": "TH-41"},
-	{"name": "Uthai Thani", "native": "อุทัยธานี", "code": "TH-61"},
-	{"name": "Uttaradit", "native": "อุตรดิตถ์", "code": "TH-53"},
-	{"name": "Yala", "native": "ยะลา", "code": "TH-95"},
-	{"name": "Yasothon", "native": "ยโสธร", "code": "TH-35"}
+	{
+		"name": "Amnat Charoen",
+		"code": "TH-37"
+	},
+	{
+		"name": "Ang Thong",
+		"code": "TH-15"
+	},
+	{
+		"name": "Bueng Kan",
+		"code": "TH-38"
+	},
+	{
+		"name": "Buri Ram",
+		"code": "TH-31"
+	},
+	{
+		"name": "Chachoengsao",
+		"code": "TH-24"
+	},
+	{
+		"name": "Chai Nat",
+		"code": "TH-18"
+	},
+	{
+		"name": "Chaiyaphum",
+		"code": "TH-36"
+	},
+	{
+		"name": "Chanthaburi",
+		"code": "TH-22"
+	},
+	{
+		"name": "Chiang Mai",
+		"code": "TH-50"
+	},
+	{
+		"name": "Chiang Rai",
+		"code": "TH-57"
+	},
+	{
+		"name": "Chon Buri",
+		"code": "TH-20"
+	},
+	{
+		"name": "Chumphon",
+		"code": "TH-86"
+	},
+	{
+		"name": "Kalasin",
+		"code": "TH-46"
+	},
+	{
+		"name": "Kamphaeng Phet",
+		"code": "TH-62"
+	},
+	{
+		"name": "Kanchanaburi",
+		"code": "TH-71"
+	},
+	{
+		"name": "Khon Kaen",
+		"code": "TH-40"
+	},
+	{
+		"name": "Krabi",
+		"code": "TH-81"
+	},
+	{
+		"name": "Krung Thep Maha Nakhon",
+		"code": "TH-10"
+	},
+	{
+		"name": "Lampang",
+		"code": "TH-52"
+	},
+	{
+		"name": "Lamphun",
+		"code": "TH-51"
+	},
+	{
+		"name": "Loei",
+		"code": "TH-42"
+	},
+	{
+		"name": "Lop Buri",
+		"code": "TH-16"
+	},
+	{
+		"name": "Mae Hong Son",
+		"code": "TH-58"
+	},
+	{
+		"name": "Maha Sarakham",
+		"code": "TH-44"
+	},
+	{
+		"name": "Mukdahan",
+		"code": "TH-49"
+	},
+	{
+		"name": "Nakhon Nayok",
+		"code": "TH-26"
+	},
+	{
+		"name": "Nakhon Pathom",
+		"code": "TH-73"
+	},
+	{
+		"name": "Nakhon Phanom",
+		"code": "TH-48"
+	},
+	{
+		"name": "Nakhon Ratchasima",
+		"code": "TH-30"
+	},
+	{
+		"name": "Nakhon Sawan",
+		"code": "TH-60"
+	},
+	{
+		"name": "Nakhon Si Thammarat",
+		"code": "TH-80"
+	},
+	{
+		"name": "Nan",
+		"code": "TH-55"
+	},
+	{
+		"name": "Narathiwat",
+		"code": "TH-96"
+	},
+	{
+		"name": "Nong Bua Lam Phu",
+		"code": "TH-39"
+	},
+	{
+		"name": "Nong Khai",
+		"code": "TH-43"
+	},
+	{
+		"name": "Nonthaburi",
+		"code": "TH-12"
+	},
+	{
+		"name": "Pathum Thani",
+		"code": "TH-13"
+	},
+	{
+		"name": "Pattani",
+		"code": "TH-94"
+	},
+	{
+		"name": "Phangnga",
+		"code": "TH-82"
+	},
+	{
+		"name": "Phatthalung",
+		"code": "TH-93"
+	},
+	{
+		"name": "Phatthaya",
+		"code": "TH-S"
+	},
+	{
+		"name": "Phayao",
+		"code": "TH-56"
+	},
+	{
+		"name": "Phetchabun",
+		"code": "TH-67"
+	},
+	{
+		"name": "Phetchaburi",
+		"code": "TH-76"
+	},
+	{
+		"name": "Phichit",
+		"code": "TH-66"
+	},
+	{
+		"name": "Phitsanulok",
+		"code": "TH-65"
+	},
+	{
+		"name": "Phra Nakhon Si Ayutthaya",
+		"code": "TH-14"
+	},
+	{
+		"name": "Phrae",
+		"code": "TH-54"
+	},
+	{
+		"name": "Phuket",
+		"code": "TH-83"
+	},
+	{
+		"name": "Prachin Buri",
+		"code": "TH-25"
+	},
+	{
+		"name": "Prachuap Khiri Khan",
+		"code": "TH-77"
+	},
+	{
+		"name": "Ranong",
+		"code": "TH-85"
+	},
+	{
+		"name": "Ratchaburi",
+		"code": "TH-70"
+	},
+	{
+		"name": "Rayong",
+		"code": "TH-21"
+	},
+	{
+		"name": "Roi Et",
+		"code": "TH-45"
+	},
+	{
+		"name": "Sa Kaeo",
+		"code": "TH-27"
+	},
+	{
+		"name": "Sakon Nakhon",
+		"code": "TH-47"
+	},
+	{
+		"name": "Samut Prakan",
+		"code": "TH-11"
+	},
+	{
+		"name": "Samut Sakhon",
+		"code": "TH-74"
+	},
+	{
+		"name": "Samut Songkhram",
+		"code": "TH-75"
+	},
+	{
+		"name": "Saraburi",
+		"code": "TH-19"
+	},
+	{
+		"name": "Satun",
+		"code": "TH-91"
+	},
+	{
+		"name": "Si Sa Ket",
+		"code": "TH-33"
+	},
+	{
+		"name": "Sing Buri",
+		"code": "TH-17"
+	},
+	{
+		"name": "Songkhla",
+		"code": "TH-90"
+	},
+	{
+		"name": "Sukhothai",
+		"code": "TH-64"
+	},
+	{
+		"name": "Suphan Buri",
+		"code": "TH-72"
+	},
+	{
+		"name": "Surat Thani",
+		"code": "TH-84"
+	},
+	{
+		"name": "Surin",
+		"code": "TH-32"
+	},
+	{
+		"name": "Tak",
+		"code": "TH-63"
+	},
+	{
+		"name": "Trang",
+		"code": "TH-92"
+	},
+	{
+		"name": "Trat",
+		"code": "TH-23"
+	},
+	{
+		"name": "Ubon Ratchathani",
+		"code": "TH-34"
+	},
+	{
+		"name": "Udon Thani",
+		"code": "TH-41"
+	},
+	{
+		"name": "Uthai Thani",
+		"code": "TH-61"
+	},
+	{
+		"name": "Uttaradit",
+		"code": "TH-53"
+	},
+	{
+		"name": "Yala",
+		"code": "TH-95"
+	},
+	{
+		"name": "Yasothon",
+		"code": "TH-35"
+	}
 ]

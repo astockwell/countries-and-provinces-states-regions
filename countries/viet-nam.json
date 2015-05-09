@@ -1,0 +1,258 @@
+[
+	{
+		"name": "An Giang",
+		"code": "VN-44"
+	},
+	{
+		"name": "Bà Rịa–Vũng Tàu",
+		"code": "VN-43"
+	},
+	{
+		"name": "Bình Dương",
+		"code": "VN-57"
+	},
+	{
+		"name": "Bình Phước",
+		"code": "VN-58"
+	},
+	{
+		"name": "Bình Thuận",
+		"code": "VN-40"
+	},
+	{
+		"name": "Bình Định",
+		"code": "VN-31"
+	},
+	{
+		"name": "Bạc Liêu",
+		"code": "VN-55"
+	},
+	{
+		"name": "Bắc Giang",
+		"code": "VN-54"
+	},
+	{
+		"name": "Bắc Kạn",
+		"code": "VN-53"
+	},
+	{
+		"name": "Bắc Ninh",
+		"code": "VN-56"
+	},
+	{
+		"name": "Bến Tre",
+		"code": "VN-50"
+	},
+	{
+		"name": "Cao Bằng",
+		"code": "VN-04"
+	},
+	{
+		"name": "Cà Mau",
+		"code": "VN-59"
+	},
+	{
+		"name": "Cần Thơ",
+		"code": "VN-CT"
+	},
+	{
+		"name": "Gia Lai",
+		"code": "VN-30"
+	},
+	{
+		"name": "Hà Giang",
+		"code": "VN-03"
+	},
+	{
+		"name": "Hà Nam",
+		"code": "VN-63"
+	},
+	{
+		"name": "Hà Nội",
+		"code": "VN-HN"
+	},
+	{
+		"name": "Hà Tây",
+		"code": "VN-15"
+	},
+	{
+		"name": "Hà Tĩnh",
+		"code": "VN-23"
+	},
+	{
+		"name": "Hòa Bình",
+		"code": "VN-14"
+	},
+	{
+		"name": "Hưng Yên",
+		"code": "VN-66"
+	},
+	{
+		"name": "Hải Dương",
+		"code": "VN-61"
+	},
+	{
+		"name": "Hải Phòng",
+		"code": "VN-HP"
+	},
+	{
+		"name": "Hậu Giang",
+		"code": "VN-73"
+	},
+	{
+		"name": "Hồ Chí Minh",
+		"code": "VN-SG"
+	},
+	{
+		"name": "Khánh Hòa",
+		"code": "VN-34"
+	},
+	{
+		"name": "Kiên Giang",
+		"code": "VN-47"
+	},
+	{
+		"name": "Kon Tum",
+		"code": "VN-28"
+	},
+	{
+		"name": "Lai Châu",
+		"code": "VN-01"
+	},
+	{
+		"name": "Long An",
+		"code": "VN-41"
+	},
+	{
+		"name": "Lào Cai",
+		"code": "VN-02"
+	},
+	{
+		"name": "Lâm Đồng",
+		"code": "VN-35"
+	},
+	{
+		"name": "Lạng Sơn",
+		"code": "VN-09"
+	},
+	{
+		"name": "Nam Định",
+		"code": "VN-67"
+	},
+	{
+		"name": "Nghệ An",
+		"code": "VN-22"
+	},
+	{
+		"name": "Ninh Bình",
+		"code": "VN-18"
+	},
+	{
+		"name": "Ninh Thuận",
+		"code": "VN-36"
+	},
+	{
+		"name": "Phú Thọ",
+		"code": "VN-68"
+	},
+	{
+		"name": "Phú Yên",
+		"code": "VN-32"
+	},
+	{
+		"name": "Quảng Bình",
+		"code": "VN-24"
+	},
+	{
+		"name": "Quảng Nam",
+		"code": "VN-27"
+	},
+	{
+		"name": "Quảng Ngãi",
+		"code": "VN-29"
+	},
+	{
+		"name": "Quảng Ninh",
+		"code": "VN-13"
+	},
+	{
+		"name": "Quảng Trị",
+		"code": "VN-25"
+	},
+	{
+		"name": "Sóc Trăng",
+		"code": "VN-52"
+	},
+	{
+		"name": "Sơn La",
+		"code": "VN-05"
+	},
+	{
+		"name": "Thanh Hóa",
+		"code": "VN-21"
+	},
+	{
+		"name": "Thái Bình",
+		"code": "VN-20"
+	},
+	{
+		"name": "Thái Nguyên",
+		"code": "VN-69"
+	},
+	{
+		"name": "Thừa Thiên–Huế",
+		"code": "VN-26"
+	},
+	{
+		"name": "Tiền Giang",
+		"code": "VN-46"
+	},
+	{
+		"name": "Trà Vinh",
+		"code": "VN-51"
+	},
+	{
+		"name": "Tuyên Quang",
+		"code": "VN-07"
+	},
+	{
+		"name": "Tây Ninh",
+		"code": "VN-37"
+	},
+	{
+		"name": "Vĩnh Long",
+		"code": "VN-49"
+	},
+	{
+		"name": "Vĩnh Phúc",
+		"code": "VN-70"
+	},
+	{
+		"name": "Yên Bái",
+		"code": "VN-06"
+	},
+	{
+		"name": "Điện Biên",
+		"code": "VN-71"
+	},
+	{
+		"name": "Đà Nẵng",
+		"code": "VN-DN"
+	},
+	{
+		"name": "Đắk Lắk",
+		"code": "VN-33"
+	},
+	{
+		"name": "Đắk Nông",
+		"code": "VN-72"
+	},
+	{
+		"name": "Đồng Nai",
+		"code": "VN-39"
+	},
+	{
+		"name": "Đồng Tháp",
+		"code": "VN-45"
+	}
+]

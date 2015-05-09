@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Bethlehem",
+		"code": "PS-BTH"
+	},
+	{
+		"name": "Deir El Balah",
+		"code": "PS-DEB"
+	},
+	{
+		"name": "Gaza",
+		"code": "PS-GZA"
+	},
+	{
+		"name": "Hebron",
+		"code": "PS-HBN"
+	},
+	{
+		"name": "Jenin",
+		"code": "PS-JEN"
+	},
+	{
+		"name": "Jericho – Al Aghwar",
+		"code": "PS-JRH"
+	},
+	{
+		"name": "Jerusalem",
+		"code": "PS-JEM"
+	},
+	{
+		"name": "Khan Yunis",
+		"code": "PS-KYS"
+	},
+	{
+		"name": "Nablus",
+		"code": "PS-NBS"
+	},
+	{
+		"name": "North Gaza",
+		"code": "PS-NGZ"
+	},
+	{
+		"name": "Qalqilya",
+		"code": "PS-QQA"
+	},
+	{
+		"name": "Rafah",
+		"code": "PS-RFH"
+	},
+	{
+		"name": "Ramallah",
+		"code": "PS-RBH"
+	},
+	{
+		"name": "Salfit",
+		"code": "PS-SLT"
+	},
+	{
+		"name": "Tubas",
+		"code": "PS-TBS"
+	},
+	{
+		"name": "Tulkarm",
+		"code": "PS-TKM"
+	}
+]

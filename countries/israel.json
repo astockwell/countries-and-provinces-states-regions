@@ -1,0 +1,26 @@
+[
+	{
+		"name": "HaDarom",
+		"code": "IL-D"
+	},
+	{
+		"name": "HaMerkaz",
+		"code": "IL-M"
+	},
+	{
+		"name": "HaTsafon",
+		"code": "IL-Z"
+	},
+	{
+		"name": "H̱efa",
+		"code": "IL-HA"
+	},
+	{
+		"name": "Tel-Aviv",
+		"code": "IL-TA"
+	},
+	{
+		"name": "Yerushalayim",
+		"code": "IL-JM"
+	}
+]

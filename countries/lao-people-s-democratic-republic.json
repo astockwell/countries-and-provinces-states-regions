@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Attapu",
+		"code": "LA-AT"
+	},
+	{
+		"name": "Bokèo",
+		"code": "LA-BK"
+	},
+	{
+		"name": "Bolikhamxai",
+		"code": "LA-BL"
+	},
+	{
+		"name": "Champasak",
+		"code": "LA-CH"
+	},
+	{
+		"name": "Houaphan",
+		"code": "LA-HO"
+	},
+	{
+		"name": "Khammouan",
+		"code": "LA-KH"
+	},
+	{
+		"name": "Louang Namtha",
+		"code": "LA-LM"
+	},
+	{
+		"name": "Louangphabang",
+		"code": "LA-LP"
+	},
+	{
+		"name": "Oudômxai",
+		"code": "LA-OU"
+	},
+	{
+		"name": "Phôngsali",
+		"code": "LA-PH"
+	},
+	{
+		"name": "Salavan",
+		"code": "LA-SL"
+	},
+	{
+		"name": "Savannakhét",
+		"code": "LA-SV"
+	},
+	{
+		"name": "Vientiane",
+		"code": "LA-VT"
+	},
+	{
+		"name": "Vientiane",
+		"code": "LA-VI"
+	},
+	{
+		"name": "Xaignabouli",
+		"code": "LA-XA"
+	},
+	{
+		"name": "Xaisômboun",
+		"code": "LA-XN"
+	},
+	{
+		"name": "Xiangkhoang",
+		"code": "LA-XI"
+	},
+	{
+		"name": "Xékong",
+		"code": "LA-XE"
+	}
+]

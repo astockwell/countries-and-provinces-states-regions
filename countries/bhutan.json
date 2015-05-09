@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Bumthang",
+		"code": "BT-33"
+	},
+	{
+		"name": "Chhukha",
+		"code": "BT-12"
+	},
+	{
+		"name": "Dagana",
+		"code": "BT-22"
+	},
+	{
+		"name": "Gasa",
+		"code": "BT-GA"
+	},
+	{
+		"name": "Ha",
+		"code": "BT-13"
+	},
+	{
+		"name": "Lhuentse",
+		"code": "BT-44"
+	},
+	{
+		"name": "Monggar",
+		"code": "BT-42"
+	},
+	{
+		"name": "Paro",
+		"code": "BT-11"
+	},
+	{
+		"name": "Pemagatshel",
+		"code": "BT-43"
+	},
+	{
+		"name": "Punakha",
+		"code": "BT-23"
+	},
+	{
+		"name": "Samdrup Jongkha",
+		"code": "BT-45"
+	},
+	{
+		"name": "Samtse",
+		"code": "BT-14"
+	},
+	{
+		"name": "Sarpang",
+		"code": "BT-31"
+	},
+	{
+		"name": "Thimphu",
+		"code": "BT-15"
+	},
+	{
+		"name": "Trashi Yangtse",
+		"code": "BT-TY"
+	},
+	{
+		"name": "Trashigang",
+		"code": "BT-41"
+	},
+	{
+		"name": "Trongsa",
+		"code": "BT-32"
+	},
+	{
+		"name": "Tsirang",
+		"code": "BT-21"
+	},
+	{
+		"name": "Wangdue Phodrang",
+		"code": "BT-24"
+	},
+	{
+		"name": "Zhemgang",
+		"code": "BT-34"
+	}
+]

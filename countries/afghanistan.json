@@ -1,0 +1,138 @@
+[
+	{
+		"name": "Badakhshān",
+		"code": "AF-BDS"
+	},
+	{
+		"name": "Baghlān",
+		"code": "AF-BGL"
+	},
+	{
+		"name": "Balkh",
+		"code": "AF-BAL"
+	},
+	{
+		"name": "Bādghīs",
+		"code": "AF-BDG"
+	},
+	{
+		"name": "Bāmyān",
+		"code": "AF-BAM"
+	},
+	{
+		"name": "Dāykundī",
+		"code": "AF-DAY"
+	},
+	{
+		"name": "Farāh",
+		"code": "AF-FRA"
+	},
+	{
+		"name": "Fāryāb",
+		"code": "AF-FYB"
+	},
+	{
+		"name": "Ghaznī",
+		"code": "AF-GHA"
+	},
+	{
+		"name": "Ghōr",
+		"code": "AF-GHO"
+	},
+	{
+		"name": "Helmand",
+		"code": "AF-HEL"
+	},
+	{
+		"name": "Herāt",
+		"code": "AF-HER"
+	},
+	{
+		"name": "Jowzjān",
+		"code": "AF-JOW"
+	},
+	{
+		"name": "Kandahār",
+		"code": "AF-KAN"
+	},
+	{
+		"name": "Khōst",
+		"code": "AF-KHO"
+	},
+	{
+		"name": "Kunar",
+		"code": "AF-KNR"
+	},
+	{
+		"name": "Kunduz",
+		"code": "AF-KDZ"
+	},
+	{
+		"name": "Kābul",
+		"code": "AF-KAB"
+	},
+	{
+		"name": "Kāpīsā",
+		"code": "AF-KAP"
+	},
+	{
+		"name": "Laghmān",
+		"code": "AF-LAG"
+	},
+	{
+		"name": "Lōgar",
+		"code": "AF-LOG"
+	},
+	{
+		"name": "Nangarhār",
+		"code": "AF-NAN"
+	},
+	{
+		"name": "Nīmrōz",
+		"code": "AF-NIM"
+	},
+	{
+		"name": "Nūristān",
+		"code": "AF-NUR"
+	},
+	{
+		"name": "Paktiyā",
+		"code": "AF-PIA"
+	},
+	{
+		"name": "Paktīkā",
+		"code": "AF-PKA"
+	},
+	{
+		"name": "Panjshayr",
+		"code": "AF-PAN"
+	},
+	{
+		"name": "Parwān",
+		"code": "AF-PAR"
+	},
+	{
+		"name": "Samangān",
+		"code": "AF-SAM"
+	},
+	{
+		"name": "Sar-e Pul",
+		"code": "AF-SAR"
+	},
+	{
+		"name": "Takhār",
+		"code": "AF-TAK"
+	},
+	{
+		"name": "Uruzgān",
+		"code": "AF-URU"
+	},
+	{
+		"name": "Wardak",
+		"code": "AF-WAR"
+	},
+	{
+		"name": "Zābul",
+		"code": "AF-ZAB"
+	}
+]

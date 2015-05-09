@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Central",
+		"code": "MV-CE"
+	},
+	{
+		"name": "Male",
+		"code": "MV-MLE"
+	},
+	{
+		"name": "North",
+		"code": "MV-NO"
+	},
+	{
+		"name": "North Central",
+		"code": "MV-NC"
+	},
+	{
+		"name": "South",
+		"code": "MV-SU"
+	},
+	{
+		"name": "South Central",
+		"code": "MV-SC"
+	},
+	{
+		"name": "Upper North",
+		"code": "MV-UN"
+	},
+	{
+		"name": "Upper South",
+		"code": "MV-US"
+	}
+]

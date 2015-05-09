@@ -1,34 +1,138 @@
 [
-	{"name": "Yunnan", "native": "云南", "code": "CN1"},
-	{"name": "Beijing", "native": "北京", "code": "CN2"},
-	{"name": "Tianjin", "native": "天津", "code": "CN3"},
-	{"name": "Hebei", "native": "河北", "code": "CN4"},
-	{"name": "Shanxi", "native": "山西", "code": "CN5"},
-	{"name": "Inner Mongolia", "native": "內蒙古", "code": "CN6"},
-	{"name": "Liaoning", "native": "辽宁", "code": "CN7"},
-	{"name": "Jilin", "native": "吉林", "code": "CN8"},
-	{"name": "Heilongjiang", "native": "黑龙江", "code": "CN9"},
-	{"name": "Shanghai", "native": "上海", "code": "CN10"},
-	{"name": "Jiangsu", "native": "江苏", "code": "CN11"},
-	{"name": "Zhejiang", "native": "浙江", "code": "CN12"},
-	{"name": "Anhui", "native": "安徽", "code": "CN13"},
-	{"name": "Fujian", "native": "福建", "code": "CN14"},
-	{"name": "Jiangxi", "native": "江西", "code": "CN15"},
-	{"name": "Shandong", "native": "山东", "code": "CN16"},
-	{"name": "Henan", "native": "河南", "code": "CN17"},
-	{"name": "Hubei", "native": "湖北", "code": "CN18"},
-	{"name": "Hunan", "native": "湖南", "code": "CN19"},
-	{"name": "Guangdong", "native": "广东", "code": "CN20"},
-	{"name": "Guangxi Zhuang", "native": "广西壮族", "code": "CN21"},
-	{"name": "Hainan", "native": "海南", "code": "CN22"},
-	{"name": "Chongqing", "native": "重庆", "code": "CN23"},
-	{"name": "Sichuan", "native": "四川", "code": "CN24"},
-	{"name": "Guizhou", "native": "贵州", "code": "CN25"},
-	{"name": "Shaanxi", "native": "陕西", "code": "CN26"},
-	{"name": "Gansu", "native": "甘肃", "code": "CN27"},
-	{"name": "Qinghai", "native": "青海", "code": "CN28"},
-	{"name": "Ningxia Hui", "native": "宁夏", "code": "CN29"},
-	{"name": "Macau", "native": "澳门", "code": "CN30"},
-	{"name": "Tibet", "native": "西藏", "code": "CN31"},
-	{"name": "Xinjiang", "native": "新疆", "code": "CN32"}
+	{
+		"name": "Anhui",
+		"code": "CN-34"
+	},
+	{
+		"name": "Beijing",
+		"code": "CN-11"
+	},
+	{
+		"name": "Chongqing",
+		"code": "CN-50"
+	},
+	{
+		"name": "Fujian",
+		"code": "CN-35"
+	},
+	{
+		"name": "Gansu",
+		"code": "CN-62"
+	},
+	{
+		"name": "Guangdong",
+		"code": "CN-44"
+	},
+	{
+		"name": "Guangxi",
+		"code": "CN-45"
+	},
+	{
+		"name": "Guizhou",
+		"code": "CN-52"
+	},
+	{
+		"name": "Hainan",
+		"code": "CN-46"
+	},
+	{
+		"name": "Hebei",
+		"code": "CN-13"
+	},
+	{
+		"name": "Heilongjiang",
+		"code": "CN-23"
+	},
+	{
+		"name": "Henan",
+		"code": "CN-41"
+	},
+	{
+		"name": "Hong Kong \nXianggang",
+		"code": "CN-91"
+	},
+	{
+		"name": "Hubei",
+		"code": "CN-42"
+	},
+	{
+		"name": "Hunan",
+		"code": "CN-43"
+	},
+	{
+		"name": "Jiangsu",
+		"code": "CN-32"
+	},
+	{
+		"name": "Jiangxi",
+		"code": "CN-36"
+	},
+	{
+		"name": "Jilin",
+		"code": "CN-22"
+	},
+	{
+		"name": "Liaoning",
+		"code": "CN-21"
+	},
+	{
+		"name": "Macao \nAomen",
+		"code": "CN-92"
+	},
+	{
+		"name": "Nei Mongol",
+		"code": "CN-15"
+	},
+	{
+		"name": "Ningxia",
+		"code": "CN-64"
+	},
+	{
+		"name": "Qinghai",
+		"code": "CN-63"
+	},
+	{
+		"name": "Shaanxi",
+		"code": "CN-61"
+	},
+	{
+		"name": "Shandong",
+		"code": "CN-37"
+	},
+	{
+		"name": "Shanghai",
+		"code": "CN-31"
+	},
+	{
+		"name": "Shanxi",
+		"code": "CN-14"
+	},
+	{
+		"name": "Sichuan",
+		"code": "CN-51"
+	},
+	{
+		"name": "Taiwan",
+		"code": "CN-71"
+	},
+	{
+		"name": "Tianjin",
+		"code": "CN-12"
+	},
+	{
+		"name": "Xinjiang",
+		"code": "CN-65"
+	},
+	{
+		"name": "Xizang",
+		"code": "CN-54"
+	},
+	{
+		"name": "Yunnan",
+		"code": "CN-53"
+	},
+	{
+		"name": "Zhejiang",
+		"code": "CN-33"
+	}
 ]

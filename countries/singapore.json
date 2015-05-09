@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Central Singapore",
+		"code": "SG-01"
+	},
+	{
+		"name": "North East",
+		"code": "SG-02"
+	},
+	{
+		"name": "North West",
+		"code": "SG-03"
+	},
+	{
+		"name": "South East",
+		"code": "SG-04"
+	},
+	{
+		"name": "South West",
+		"code": "SG-05"
+	}
+]

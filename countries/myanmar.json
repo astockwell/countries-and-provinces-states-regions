@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Ayeyarwady",
+		"code": "MM-07"
+	},
+	{
+		"name": "Bago",
+		"code": "MM-02"
+	},
+	{
+		"name": "Chin",
+		"code": "MM-14"
+	},
+	{
+		"name": "Kachin",
+		"code": "MM-11"
+	},
+	{
+		"name": "Kayah",
+		"code": "MM-12"
+	},
+	{
+		"name": "Kayin",
+		"code": "MM-13"
+	},
+	{
+		"name": "Magway",
+		"code": "MM-03"
+	},
+	{
+		"name": "Mandalay",
+		"code": "MM-04"
+	},
+	{
+		"name": "Mon",
+		"code": "MM-15"
+	},
+	{
+		"name": "Rakhine",
+		"code": "MM-16"
+	},
+	{
+		"name": "Sagaing",
+		"code": "MM-01"
+	},
+	{
+		"name": "Shan",
+		"code": "MM-17"
+	},
+	{
+		"name": "Tanintharyi",
+		"code": "MM-05"
+	},
+	{
+		"name": "Yangon",
+		"code": "MM-06"
+	}
+]

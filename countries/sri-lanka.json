@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Central Province",
+		"code": "LK-2"
+	},
+	{
+		"name": "Eastern Province",
+		"code": "LK-5"
+	},
+	{
+		"name": "North Central Province",
+		"code": "LK-7"
+	},
+	{
+		"name": "North Western Province",
+		"code": "LK-6"
+	},
+	{
+		"name": "Northern Province",
+		"code": "LK-4"
+	},
+	{
+		"name": "Sabaragamuwa Province",
+		"code": "LK-9"
+	},
+	{
+		"name": "Southern Province",
+		"code": "LK-3"
+	},
+	{
+		"name": "Uva Province",
+		"code": "LK-8"
+	},
+	{
+		"name": "Western Province",
+		"code": "LK-1"
+	}
+]

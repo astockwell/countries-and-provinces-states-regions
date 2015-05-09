@@ -1,0 +1,94 @@
+[
+	{
+		"name": "Changhua",
+		"code": "TW-CHA"
+	},
+	{
+		"name": "Chiayi",
+		"code": "TW-CYQ"
+	},
+	{
+		"name": "Chiayi",
+		"code": "TW-CYI"
+	},
+	{
+		"name": "Hsinchu",
+		"code": "TW-HSZ"
+	},
+	{
+		"name": "Hsinchu",
+		"code": "TW-HSQ"
+	},
+	{
+		"name": "Hualien",
+		"code": "TW-HUA"
+	},
+	{
+		"name": "Ilan",
+		"code": "TW-ILA"
+	},
+	{
+		"name": "Kaohsiung",
+		"code": "TW-KHQ"
+	},
+	{
+		"name": "Kaohsiung",
+		"code": "TW-KHH"
+	},
+	{
+		"name": "Keelung",
+		"code": "TW-KEE"
+	},
+	{
+		"name": "Miaoli",
+		"code": "TW-MIA"
+	},
+	{
+		"name": "Nantou",
+		"code": "TW-NAN"
+	},
+	{
+		"name": "Penghu",
+		"code": "TW-PEN"
+	},
+	{
+		"name": "Pingtung",
+		"code": "TW-PIF"
+	},
+	{
+		"name": "Taichung",
+		"code": "TW-TXG"
+	},
+	{
+		"name": "Taichung",
+		"code": "TW-TXQ"
+	},
+	{
+		"name": "Tainan",
+		"code": "TW-TNN"
+	},
+	{
+		"name": "Tainan",
+		"code": "TW-TNQ"
+	},
+	{
+		"name": "Taipei",
+		"code": "TW-TPE"
+	},
+	{
+		"name": "Taipei",
+		"code": "TW-TPQ"
+	},
+	{
+		"name": "Taitung",
+		"code": "TW-TTT"
+	},
+	{
+		"name": "Taoyuan",
+		"code": "TW-TAO"
+	},
+	{
+		"name": "Yunlin",
+		"code": "TW-YUN"
+	}
+]

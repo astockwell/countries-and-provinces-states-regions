@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Azad Kashmir",
+		"code": "PK-JK"
+	},
+	{
+		"name": "Balochistan",
+		"code": "PK-BA"
+	},
+	{
+		"name": "Federally Administered Tribal Areas",
+		"code": "PK-TA"
+	},
+	{
+		"name": "Gilgit-Baltistan",
+		"code": "PK-GB"
+	},
+	{
+		"name": "Islamabad",
+		"code": "PK-IS"
+	},
+	{
+		"name": "Khyber Pakhtunkhwa",
+		"code": "PK-KP"
+	},
+	{
+		"name": "Punjab",
+		"code": "PK-PB"
+	},
+	{
+		"name": "Sindh",
+		"code": "PK-SD"
+	}
+]

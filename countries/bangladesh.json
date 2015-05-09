@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Barisal",
+		"code": "BD-A"
+	},
+	{
+		"name": "Chittagong",
+		"code": "BD-B"
+	},
+	{
+		"name": "Dhaka",
+		"code": "BD-C"
+	},
+	{
+		"name": "Khulna",
+		"code": "BD-D"
+	},
+	{
+		"name": "Rajshahi",
+		"code": "BD-E"
+	},
+	{
+		"name": "Rangpur",
+		"code": "BD-F"
+	},
+	{
+		"name": "Sylhet",
+		"code": "BD-G"
+	}
+]
