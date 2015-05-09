@@ -13,7 +13,16 @@ def fetch_country(code, name)
 	# when "BT" # Bhutan
 	# when "BN" # Brunei Darussalam
 	# when "KH" # Cambodia
-	# when "CN" # China
+	when "CN" # China
+		tables = [
+			TableIndexMap.new(1, 0, 3, 2),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables) do |each_name, prop|
+			if prop == :name
+				each_name = each_name.split("\n").first.strip
+			end
+			each_name
+		end
 	when "HK" # Hong Kong
 		return
 	# when "IN" # India
