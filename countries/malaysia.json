@@ -1,66 +1,82 @@
 [
 	{
-		"name": "Johor",
-		"code": "MY-01"
-	},
-	{
-		"name": "Kedah",
-		"code": "MY-02"
-	},
-	{
-		"name": "Kelantan",
-		"code": "MY-03"
-	},
-	{
-		"name": "Melaka",
-		"code": "MY-04"
-	},
-	{
-		"name": "Negeri Sembilan",
-		"code": "MY-05"
-	},
-	{
-		"name": "Pahang",
-		"code": "MY-06"
-	},
-	{
-		"name": "Perak",
-		"code": "MY-08"
-	},
-	{
-		"name": "Perlis",
-		"code": "MY-09"
-	},
-	{
-		"name": "Pulau Pinang",
-		"code": "MY-07"
-	},
-	{
-		"name": "Sabah",
-		"code": "MY-12"
-	},
-	{
-		"name": "Sarawak",
-		"code": "MY-13"
-	},
-	{
-		"name": "Selangor",
-		"code": "MY-10"
-	},
-	{
-		"name": "Terengganu",
-		"code": "MY-11"
-	},
-	{
 		"name": "Wilayah Persekutuan Kuala Lumpur",
-		"code": "MY-14"
+		"code": "MY-14",
+		"subdivision": "federal territory"
 	},
 	{
 		"name": "Wilayah Persekutuan Labuan",
-		"code": "MY-15"
+		"code": "MY-15",
+		"subdivision": "federal territory"
 	},
 	{
 		"name": "Wilayah Persekutuan Putrajaya",
-		"code": "MY-16"
+		"code": "MY-16",
+		"subdivision": "federal territory"
+	},
+	{
+		"name": "Johor",
+		"code": "MY-01",
+		"subdivision": "state"
+	},
+	{
+		"name": "Kedah",
+		"code": "MY-02",
+		"subdivision": "state"
+	},
+	{
+		"name": "Kelantan",
+		"code": "MY-03",
+		"subdivision": "state"
+	},
+	{
+		"name": "Melaka",
+		"code": "MY-04",
+		"subdivision": "state"
+	},
+	{
+		"name": "Negeri Sembilan",
+		"code": "MY-05",
+		"subdivision": "state"
+	},
+	{
+		"name": "Pahang",
+		"code": "MY-06",
+		"subdivision": "state"
+	},
+	{
+		"name": "Perak",
+		"code": "MY-08",
+		"subdivision": "state"
+	},
+	{
+		"name": "Perlis",
+		"code": "MY-09",
+		"subdivision": "state"
+	},
+	{
+		"name": "Pulau Pinang",
+		"code": "MY-07",
+		"subdivision": "state"
+	},
+	{
+		"name": "Sabah",
+		"code": "MY-12",
+		"subdivision": "state"
+	},
+	{
+		"name": "Sarawak",
+		"code": "MY-13",
+		"subdivision": "state"
+	},
+	{
+		"name": "Selangor",
+		"code": "MY-10",
+		"subdivision": "state"
+	},
+	{
+		"name": "Terengganu",
+		"code": "MY-11",
+		"subdivision": "state"
 	}
 ]

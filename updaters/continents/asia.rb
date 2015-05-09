@@ -42,7 +42,11 @@ def fetch_country(code, name)
 	# when "LB" # Lebanon
 	when "MO" # Macao
 		return
-	# when "MY" # Malaysia
+	when "MY" # Malaysia
+		tables = [
+			TableIndexMap.new(1, 0, 2),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables)
 	# when "MV" # Maldives
 	# when "MN" # Mongolia
 	# when "MM" # Myanmar
