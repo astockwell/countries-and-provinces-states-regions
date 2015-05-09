@@ -32,7 +32,11 @@ def fetch_country(code, name)
 	# when "DK" # Denmark
 	# when "EE" # Estonia
 	# when "FI" # Finland
-	# when "FR" # France
+	when "FR" # France
+		tables = [
+			TableIndexMap.new(2, 0, "Metropolitan region", 1),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables)
 	# when "GE" # Georgia
 	# when "DE" # Germany
 	# when "GR" # Greece

@@ -1,90 +1,134 @@
 [
 	{
 		"name": "Alsace",
-		"code": "FR-A"
+		"code": "FR-A",
+		"subdivision": "Metropolitan region",
+		"native": "Alsace"
 	},
 	{
 		"name": "Aquitaine",
-		"code": "FR-B"
+		"code": "FR-B",
+		"subdivision": "Metropolitan region",
+		"native": "Aquitaine"
 	},
 	{
 		"name": "Auvergne",
-		"code": "FR-C"
+		"code": "FR-C",
+		"subdivision": "Metropolitan region",
+		"native": "Auvergne"
 	},
 	{
-		"name": "Basse-Normandie",
-		"code": "FR-P"
+		"name": "Brittany",
+		"code": "FR-E",
+		"subdivision": "Metropolitan region",
+		"native": "Bretagne"
 	},
 	{
-		"name": "Bourgogne",
-		"code": "FR-D"
+		"name": "Burgundy",
+		"code": "FR-D",
+		"subdivision": "Metropolitan region",
+		"native": "Bourgogne"
 	},
 	{
-		"name": "Bretagne",
-		"code": "FR-E"
-	},
-	{
-		"name": "Centre",
-		"code": "FR-F"
+		"name": "Centre-Val de Loire",
+		"code": "FR-F",
+		"subdivision": "Metropolitan region",
+		"native": "Centre"
 	},
 	{
 		"name": "Champagne-Ardenne",
-		"code": "FR-G"
+		"code": "FR-G",
+		"subdivision": "Metropolitan region",
+		"native": "Champagne-Ardenne"
 	},
 	{
-		"name": "Corse",
-		"code": "FR-H"
+		"name": "Corsica",
+		"code": "FR-H",
+		"subdivision": "Metropolitan region",
+		"native": "Corse"
 	},
 	{
 		"name": "Franche-Comté",
-		"code": "FR-I"
-	},
-	{
-		"name": "Haute-Normandie",
-		"code": "FR-Q"
+		"code": "FR-I",
+		"subdivision": "Metropolitan region",
+		"native": "Franche-Comté"
 	},
 	{
 		"name": "Languedoc-Roussillon",
-		"code": "FR-K"
+		"code": "FR-K",
+		"subdivision": "Metropolitan region",
+		"native": "Languedoc-Roussillon"
 	},
 	{
 		"name": "Limousin",
-		"code": "FR-L"
+		"code": "FR-L",
+		"subdivision": "Metropolitan region",
+		"native": "Limousin"
 	},
 	{
 		"name": "Lorraine",
-		"code": "FR-M"
+		"code": "FR-M",
+		"subdivision": "Metropolitan region",
+		"native": "Lorraine"
+	},
+	{
+		"name": "Lower Normandy",
+		"code": "FR-P",
+		"subdivision": "Metropolitan region",
+		"native": "Basse-Normandie"
 	},
 	{
 		"name": "Midi-Pyrénées",
-		"code": "FR-N"
+		"code": "FR-N",
+		"subdivision": "Metropolitan region",
+		"native": "Midi-Pyrénées"
 	},
 	{
 		"name": "Nord-Pas-de-Calais",
-		"code": "FR-O"
+		"code": "FR-O",
+		"subdivision": "Metropolitan region",
+		"native": "Nord-Pas-de-Calais"
 	},
 	{
 		"name": "Pays de la Loire",
-		"code": "FR-R"
+		"code": "FR-R",
+		"subdivision": "Metropolitan region",
+		"native": "Pays de la Loire"
 	},
 	{
-		"name": "Picardie",
-		"code": "FR-S"
+		"name": "Picardy",
+		"code": "FR-S",
+		"subdivision": "Metropolitan region",
+		"native": "Picardie"
 	},
 	{
 		"name": "Poitou-Charentes",
-		"code": "FR-T"
+		"code": "FR-T",
+		"subdivision": "Metropolitan region",
+		"native": "Poitou-Charentes"
 	},
 	{
 		"name": "Provence-Alpes-Côte d'Azur",
-		"code": "FR-U"
+		"code": "FR-U",
+		"subdivision": "Metropolitan region",
+		"native": "Provence-Alpes-Côte d'Azur"
 	},
 	{
 		"name": "Rhône-Alpes",
-		"code": "FR-V"
+		"code": "FR-V",
+		"subdivision": "Metropolitan region",
+		"native": "Rhône-Alpes"
+	},
+	{
+		"name": "Upper Normandy",
+		"code": "FR-Q",
+		"subdivision": "Metropolitan region",
+		"native": "Haute-Normandie"
 	},
 	{
 		"name": "Île-de-France",
-		"code": "FR-J"
+		"code": "FR-J",
+		"subdivision": "Metropolitan region",
+		"native": "Île-de-France"
 	}
 ]
