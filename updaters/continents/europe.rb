@@ -82,7 +82,11 @@ def fetch_country(code, name)
 	# when "PL" # Poland
 	# when "PT" # Portugal
 	# when "RO" # Romania
-	# when "RU" # Russian Federation
+	when "RU" # Russian Federation
+		tables = [
+			TableIndexMap.new(1, 0, 3, 2),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables)
 	# when "SM" # San Marino
 	# when "RS" # Serbia
 	# when "SK" # Slovakia

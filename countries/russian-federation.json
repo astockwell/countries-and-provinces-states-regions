@@ -1,334 +1,500 @@
 [
 	{
-		"name": "Adygeya, Respublika",
-		"code": "RU-AD"
-	},
-	{
-		"name": "Altay, Respublika",
-		"code": "RU-AL"
-	},
-	{
-		"name": "Altayskiy kray",
-		"code": "RU-ALT"
-	},
-	{
 		"name": "Amurskaya oblast'",
-		"code": "RU-AMU"
+		"code": "RU-AMU",
+		"subdivision": "administrative region",
+		"native": "Amurskaja oblast'"
 	},
 	{
 		"name": "Arkhangel'skaya oblast'",
-		"code": "RU-ARK"
+		"code": "RU-ARK",
+		"subdivision": "administrative region",
+		"native": "Arhangel'skaja oblast'"
 	},
 	{
 		"name": "Astrakhanskaya oblast'",
-		"code": "RU-AST"
-	},
-	{
-		"name": "Bashkortostan, Respublika",
-		"code": "RU-BA"
+		"code": "RU-AST",
+		"subdivision": "administrative region",
+		"native": "Astrahanskaja oblast'"
 	},
 	{
 		"name": "Belgorodskaya oblast'",
-		"code": "RU-BEL"
+		"code": "RU-BEL",
+		"subdivision": "administrative region",
+		"native": "Belgorodskaja oblast'"
 	},
 	{
 		"name": "Bryanskaya oblast'",
-		"code": "RU-BRY"
-	},
-	{
-		"name": "Buryatiya, Respublika",
-		"code": "RU-BU"
-	},
-	{
-		"name": "Chechenskaya Respublika",
-		"code": "RU-CE"
+		"code": "RU-BRY",
+		"subdivision": "administrative region",
+		"native": "Brjanskaja oblast'"
 	},
 	{
 		"name": "Chelyabinskaya oblast'",
-		"code": "RU-CHE"
-	},
-	{
-		"name": "Chukotskiy avtonomnyy okrug",
-		"code": "RU-CHU"
-	},
-	{
-		"name": "Chuvashskaya Respublika",
-		"code": "RU-CU"
-	},
-	{
-		"name": "Dagestan, Respublika",
-		"code": "RU-DA"
-	},
-	{
-		"name": "Ingushetiya, Respublika",
-		"code": "RU-IN"
+		"code": "RU-CHE",
+		"subdivision": "administrative region",
+		"native": "Čeljabinskaja oblast'"
 	},
 	{
 		"name": "Irkutskaya oblast'",
-		"code": "RU-IRK"
+		"code": "RU-IRK",
+		"subdivision": "administrative region",
+		"native": "Irkutskaja oblast'"
 	},
 	{
 		"name": "Ivanovskaya oblast'",
-		"code": "RU-IVA"
-	},
-	{
-		"name": "Kabardino-Balkarskaya Respublika",
-		"code": "RU-KB"
+		"code": "RU-IVA",
+		"subdivision": "administrative region",
+		"native": "Ivanovskaja oblast'"
 	},
 	{
 		"name": "Kaliningradskaya oblast'",
-		"code": "RU-KGD"
-	},
-	{
-		"name": "Kalmykiya, Respublika",
-		"code": "RU-KL"
+		"code": "RU-KGD",
+		"subdivision": "administrative region",
+		"native": "Kaliningradskaja oblast'"
 	},
 	{
 		"name": "Kaluzhskaya oblast'",
-		"code": "RU-KLU"
-	},
-	{
-		"name": "Kamchatskiy kray",
-		"code": "RU-KAM"
-	},
-	{
-		"name": "Karachayevo-Cherkesskaya Respublika",
-		"code": "RU-KC"
-	},
-	{
-		"name": "Kareliya, Respublika",
-		"code": "RU-KR"
+		"code": "RU-KLU",
+		"subdivision": "administrative region",
+		"native": "Kalužskaja oblast'"
 	},
 	{
 		"name": "Kemerovskaya oblast'",
-		"code": "RU-KEM"
-	},
-	{
-		"name": "Khabarovskiy kray",
-		"code": "RU-KHA"
-	},
-	{
-		"name": "Khakasiya, Respublika",
-		"code": "RU-KK"
-	},
-	{
-		"name": "Khanty-Mansiyskiy avtonomnyy okrug-Yugra",
-		"code": "RU-KHM"
+		"code": "RU-KEM",
+		"subdivision": "administrative region",
+		"native": "Kemerovskaja oblast'"
 	},
 	{
 		"name": "Kirovskaya oblast'",
-		"code": "RU-KIR"
-	},
-	{
-		"name": "Komi, Respublika",
-		"code": "RU-KO"
+		"code": "RU-KIR",
+		"subdivision": "administrative region",
+		"native": "Kirovskaja oblast'"
 	},
 	{
 		"name": "Kostromskaya oblast'",
-		"code": "RU-KOS"
-	},
-	{
-		"name": "Krasnodarskiy kray",
-		"code": "RU-KDA"
-	},
-	{
-		"name": "Krasnoyarskiy kray",
-		"code": "RU-KYA"
+		"code": "RU-KOS",
+		"subdivision": "administrative region",
+		"native": "Kostromskaja oblast'"
 	},
 	{
 		"name": "Kurganskaya oblast'",
-		"code": "RU-KGN"
+		"code": "RU-KGN",
+		"subdivision": "administrative region",
+		"native": "Kurganskaja oblast'"
 	},
 	{
 		"name": "Kurskaya oblast'",
-		"code": "RU-KRS"
+		"code": "RU-KRS",
+		"subdivision": "administrative region",
+		"native": "Kurskaja oblast'"
 	},
 	{
 		"name": "Leningradskaya oblast'",
-		"code": "RU-LEN"
+		"code": "RU-LEN",
+		"subdivision": "administrative region",
+		"native": "Leningradskaja oblast'"
 	},
 	{
 		"name": "Lipetskaya oblast'",
-		"code": "RU-LIP"
+		"code": "RU-LIP",
+		"subdivision": "administrative region",
+		"native": "Lipetskaja oblast'"
 	},
 	{
 		"name": "Magadanskaya oblast'",
-		"code": "RU-MAG"
-	},
-	{
-		"name": "Mariy El, Respublika",
-		"code": "RU-ME"
-	},
-	{
-		"name": "Mordoviya, Respublika",
-		"code": "RU-MO"
+		"code": "RU-MAG",
+		"subdivision": "administrative region",
+		"native": "Magadanskaja oblast'"
 	},
 	{
 		"name": "Moskovskaya oblast'",
-		"code": "RU-MOS"
-	},
-	{
-		"name": "Moskva",
-		"code": "RU-MOW"
+		"code": "RU-MOS",
+		"subdivision": "administrative region",
+		"native": "Moskovskaja oblast'"
 	},
 	{
 		"name": "Murmanskaya oblast'",
-		"code": "RU-MUR"
-	},
-	{
-		"name": "Nenetskiy avtonomnyy okrug",
-		"code": "RU-NEN"
+		"code": "RU-MUR",
+		"subdivision": "administrative region",
+		"native": "Murmanskaja oblast'"
 	},
 	{
 		"name": "Nizhegorodskaya oblast'",
-		"code": "RU-NIZ"
+		"code": "RU-NIZ",
+		"subdivision": "administrative region",
+		"native": "Nižegorodskaja oblast'"
 	},
 	{
 		"name": "Novgorodskaya oblast'",
-		"code": "RU-NGR"
+		"code": "RU-NGR",
+		"subdivision": "administrative region",
+		"native": "Novgorodskaja oblast'"
 	},
 	{
 		"name": "Novosibirskaya oblast'",
-		"code": "RU-NVS"
+		"code": "RU-NVS",
+		"subdivision": "administrative region",
+		"native": "Novosibirskaja oblast'"
 	},
 	{
 		"name": "Omskaya oblast'",
-		"code": "RU-OMS"
+		"code": "RU-OMS",
+		"subdivision": "administrative region",
+		"native": "Omskaja oblast'"
 	},
 	{
 		"name": "Orenburgskaya oblast'",
-		"code": "RU-ORE"
+		"code": "RU-ORE",
+		"subdivision": "administrative region",
+		"native": "Orenburgskaja oblast'"
 	},
 	{
 		"name": "Orlovskaya oblast'",
-		"code": "RU-ORL"
+		"code": "RU-ORL",
+		"subdivision": "administrative region",
+		"native": "Orlovskaja oblast'"
 	},
 	{
 		"name": "Penzenskaya oblast'",
-		"code": "RU-PNZ"
-	},
-	{
-		"name": "Permskiy kray",
-		"code": "RU-PER"
-	},
-	{
-		"name": "Primorskiy kray",
-		"code": "RU-PRI"
+		"code": "RU-PNZ",
+		"subdivision": "administrative region",
+		"native": "Penzenskaja oblast'"
 	},
 	{
 		"name": "Pskovskaya oblast'",
-		"code": "RU-PSK"
+		"code": "RU-PSK",
+		"subdivision": "administrative region",
+		"native": "Pskovskaja oblast'"
 	},
 	{
 		"name": "Rostovskaya oblast'",
-		"code": "RU-ROS"
+		"code": "RU-ROS",
+		"subdivision": "administrative region",
+		"native": "Rostovskaja oblast'"
 	},
 	{
 		"name": "Ryazanskaya oblast'",
-		"code": "RU-RYA"
-	},
-	{
-		"name": "Sakha, Respublika",
-		"code": "RU-SA"
+		"code": "RU-RYA",
+		"subdivision": "administrative region",
+		"native": "Rjazanskaja oblast'"
 	},
 	{
 		"name": "Sakhalinskaya oblast'",
-		"code": "RU-SAK"
+		"code": "RU-SAK",
+		"subdivision": "administrative region",
+		"native": "Sahalinskaja oblast'"
 	},
 	{
 		"name": "Samarskaya oblast'",
-		"code": "RU-SAM"
-	},
-	{
-		"name": "Sankt-Peterburg",
-		"code": "RU-SPE"
+		"code": "RU-SAM",
+		"subdivision": "administrative region",
+		"native": "Samarskaja oblast'"
 	},
 	{
 		"name": "Saratovskaya oblast'",
-		"code": "RU-SAR"
-	},
-	{
-		"name": "Severnaya Osetiya-Alaniya, Respublika",
-		"code": "RU-SE"
+		"code": "RU-SAR",
+		"subdivision": "administrative region",
+		"native": "Saratovskaja oblast'"
 	},
 	{
 		"name": "Smolenskaya oblast'",
-		"code": "RU-SMO"
-	},
-	{
-		"name": "Stavropol'skiy kray",
-		"code": "RU-STA"
+		"code": "RU-SMO",
+		"subdivision": "administrative region",
+		"native": "Smolenskaja oblast'"
 	},
 	{
 		"name": "Sverdlovskaya oblast'",
-		"code": "RU-SVE"
+		"code": "RU-SVE",
+		"subdivision": "administrative region",
+		"native": "Sverdlovskaja oblast'"
 	},
 	{
 		"name": "Tambovskaya oblast'",
-		"code": "RU-TAM"
-	},
-	{
-		"name": "Tatarstan, Respublika",
-		"code": "RU-TA"
+		"code": "RU-TAM",
+		"subdivision": "administrative region",
+		"native": "Tambovskaja oblast'"
 	},
 	{
 		"name": "Tomskaya oblast'",
-		"code": "RU-TOM"
+		"code": "RU-TOM",
+		"subdivision": "administrative region",
+		"native": "Tomskaja oblast'"
 	},
 	{
 		"name": "Tul'skaya oblast'",
-		"code": "RU-TUL"
+		"code": "RU-TUL",
+		"subdivision": "administrative region",
+		"native": "Tul'skaja oblast'"
 	},
 	{
 		"name": "Tverskaya oblast'",
-		"code": "RU-TVE"
+		"code": "RU-TVE",
+		"subdivision": "administrative region",
+		"native": "Tverskaja oblast'"
 	},
 	{
 		"name": "Tyumenskaya oblast'",
-		"code": "RU-TYU"
-	},
-	{
-		"name": "Tyva, Respublika",
-		"code": "RU-TY"
-	},
-	{
-		"name": "Udmurtskaya Respublika",
-		"code": "RU-UD"
+		"code": "RU-TYU",
+		"subdivision": "administrative region",
+		"native": "Tjumenskaja oblast'"
 	},
 	{
 		"name": "Ul'yanovskaya oblast'",
-		"code": "RU-ULY"
+		"code": "RU-ULY",
+		"subdivision": "administrative region",
+		"native": "Ul'janovskaja oblast'"
 	},
 	{
 		"name": "Vladimirskaya oblast'",
-		"code": "RU-VLA"
+		"code": "RU-VLA",
+		"subdivision": "administrative region",
+		"native": "Vladimirskaja oblast'"
 	},
 	{
 		"name": "Volgogradskaya oblast'",
-		"code": "RU-VGG"
+		"code": "RU-VGG",
+		"subdivision": "administrative region",
+		"native": "Volgogradskaja oblast'"
 	},
 	{
 		"name": "Vologodskaya oblast'",
-		"code": "RU-VLG"
+		"code": "RU-VLG",
+		"subdivision": "administrative region",
+		"native": "Vologodskaja oblast'"
 	},
 	{
 		"name": "Voronezhskaya oblast'",
-		"code": "RU-VOR"
-	},
-	{
-		"name": "Yamalo-Nenetskiy avtonomnyy okrug",
-		"code": "RU-YAN"
+		"code": "RU-VOR",
+		"subdivision": "administrative region",
+		"native": "Voronežskaja oblast'"
 	},
 	{
 		"name": "Yaroslavskaya oblast'",
-		"code": "RU-YAR"
+		"code": "RU-YAR",
+		"subdivision": "administrative region",
+		"native": "Jaroslavskaja oblast'"
 	},
 	{
-		"name": "Yevreyskaya avtonomnaya oblast'",
-		"code": "RU-YEV"
+		"name": "Altayskiy kray",
+		"code": "RU-ALT",
+		"subdivision": "administrative territory",
+		"native": "Altajskij kraj"
+	},
+	{
+		"name": "Kamchatskiy kray",
+		"code": "RU-KAM",
+		"subdivision": "administrative territory",
+		"native": "Kamčatskij kraj"
+	},
+	{
+		"name": "Khabarovskiy kray",
+		"code": "RU-KHA",
+		"subdivision": "administrative territory",
+		"native": "Habarovskij kraj"
+	},
+	{
+		"name": "Krasnodarskiy kray",
+		"code": "RU-KDA",
+		"subdivision": "administrative territory",
+		"native": "Krasnodarskij kraj"
+	},
+	{
+		"name": "Krasnoyarskiy kray",
+		"code": "RU-KYA",
+		"subdivision": "administrative territory",
+		"native": "Krasnojarskij kraj"
+	},
+	{
+		"name": "Permskiy kray",
+		"code": "RU-PER",
+		"subdivision": "administrative territory",
+		"native": "Permskij kraj"
+	},
+	{
+		"name": "Primorskiy kray",
+		"code": "RU-PRI",
+		"subdivision": "administrative territory",
+		"native": "Primorskij kraj"
+	},
+	{
+		"name": "Stavropol'skiy kray",
+		"code": "RU-STA",
+		"subdivision": "administrative territory",
+		"native": "Stavropol'skij kraj"
 	},
 	{
 		"name": "Zabaykal'skiy kray",
-		"code": "RU-ZAB"
+		"code": "RU-ZAB",
+		"subdivision": "administrative territory",
+		"native": "Zabajkal'skij kraj"
+	},
+	{
+		"name": "Moskva",
+		"code": "RU-MOW",
+		"subdivision": "autonomous city",
+		"native": "Moskva"
+	},
+	{
+		"name": "Sankt-Peterburg",
+		"code": "RU-SPE",
+		"subdivision": "autonomous city",
+		"native": "Sankt-Peterburg"
+	},
+	{
+		"name": "Chukotskiy avtonomnyy okrug",
+		"code": "RU-CHU",
+		"subdivision": "autonomous district",
+		"native": "Čukotskij avtonomnyj okrug"
+	},
+	{
+		"name": "Khanty-Mansiyskiy avtonomnyy okrug-Yugra",
+		"code": "RU-KHM",
+		"subdivision": "autonomous district",
+		"native": "Hanty-Mansijskij avtonomnyj okrug-Jugra"
+	},
+	{
+		"name": "Nenetskiy avtonomnyy okrug",
+		"code": "RU-NEN",
+		"subdivision": "autonomous district",
+		"native": "Nenetskij avtonomnyj okrug"
+	},
+	{
+		"name": "Yamalo-Nenetskiy avtonomnyy okrug",
+		"code": "RU-YAN",
+		"subdivision": "autonomous district",
+		"native": "Jamalo-Nenetskij avtonomnyj okrug"
+	},
+	{
+		"name": "Yevreyskaya avtonomnaya oblast'",
+		"code": "RU-YEV",
+		"subdivision": "autonomous region",
+		"native": "Evrejskaja avtonomnaja oblast'"
+	},
+	{
+		"name": "Adygeya, Respublika",
+		"code": "RU-AD",
+		"subdivision": "republic",
+		"native": "Adygeja, Respublika"
+	},
+	{
+		"name": "Altay, Respublika",
+		"code": "RU-AL",
+		"subdivision": "republic",
+		"native": "Altaj, Respublika"
+	},
+	{
+		"name": "Bashkortostan, Respublika",
+		"code": "RU-BA",
+		"subdivision": "republic",
+		"native": "Baškortostan, Respublika"
+	},
+	{
+		"name": "Buryatiya, Respublika",
+		"code": "RU-BU",
+		"subdivision": "republic",
+		"native": "Burjatija, Respublika"
+	},
+	{
+		"name": "Chechenskaya Respublika",
+		"code": "RU-CE",
+		"subdivision": "republic",
+		"native": "Čečenskaja Respublika"
+	},
+	{
+		"name": "Chuvashskaya Respublika",
+		"code": "RU-CU",
+		"subdivision": "republic",
+		"native": "Čuvašskaja Respublika"
+	},
+	{
+		"name": "Dagestan, Respublika",
+		"code": "RU-DA",
+		"subdivision": "republic",
+		"native": "Dagestan, Respublika"
+	},
+	{
+		"name": "Ingushetiya, Respublika",
+		"code": "RU-IN",
+		"subdivision": "republic",
+		"native": "Ingušetija, Respublika"
+	},
+	{
+		"name": "Kabardino-Balkarskaya Respublika",
+		"code": "RU-KB",
+		"subdivision": "republic",
+		"native": "Kabardino-Balkarskaja Respublika"
+	},
+	{
+		"name": "Kalmykiya, Respublika",
+		"code": "RU-KL",
+		"subdivision": "republic",
+		"native": "Kalmykija, Respublika"
+	},
+	{
+		"name": "Karachayevo-Cherkesskaya Respublika",
+		"code": "RU-KC",
+		"subdivision": "republic",
+		"native": "Karačajevo-Čerkesskaja Respublika"
+	},
+	{
+		"name": "Kareliya, Respublika",
+		"code": "RU-KR",
+		"subdivision": "republic",
+		"native": "Karelija, Respublika"
+	},
+	{
+		"name": "Khakasiya, Respublika",
+		"code": "RU-KK",
+		"subdivision": "republic",
+		"native": "Hakasija, Respublika"
+	},
+	{
+		"name": "Komi, Respublika",
+		"code": "RU-KO",
+		"subdivision": "republic",
+		"native": "Komi, Respublika"
+	},
+	{
+		"name": "Mariy El, Respublika",
+		"code": "RU-ME",
+		"subdivision": "republic",
+		"native": "Marij Èl, Respublika"
+	},
+	{
+		"name": "Mordoviya, Respublika",
+		"code": "RU-MO",
+		"subdivision": "republic",
+		"native": "Mordovija, Respublika"
+	},
+	{
+		"name": "Sakha, Respublika",
+		"code": "RU-SA",
+		"subdivision": "republic",
+		"native": "Saha, Respublika"
+	},
+	{
+		"name": "Severnaya Osetiya-Alaniya, Respublika",
+		"code": "RU-SE",
+		"subdivision": "republic",
+		"native": "Severnaja Osetija-Alanija, Respublika"
+	},
+	{
+		"name": "Tatarstan, Respublika",
+		"code": "RU-TA",
+		"subdivision": "republic",
+		"native": "Tatarstan, Respublika"
+	},
+	{
+		"name": "Tyva, Respublika",
+		"code": "RU-TY",
+		"subdivision": "republic",
+		"native": "Tyva, Respublika"
+	},
+	{
+		"name": "Udmurtskaya Respublika",
+		"code": "RU-UD",
+		"subdivision": "republic",
+		"native": "Udmurtskaja Respublika"
 	}
 ]
