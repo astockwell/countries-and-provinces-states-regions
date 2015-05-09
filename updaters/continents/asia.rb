@@ -25,7 +25,11 @@ def fetch_country(code, name)
 		end
 	when "HK" # Hong Kong
 		return
-	# when "IN" # India
+	when "IN" # India
+		tables = [
+			TableIndexMap.new(1, 0, 2),
+		]
+		GetFromWikipedia.Scrape(code, name, tables: tables)
 	# when "ID" # Indonesia
 	# when "IR" # Iran, Islamic Republic Of
 	# when "IQ" # Iraq
