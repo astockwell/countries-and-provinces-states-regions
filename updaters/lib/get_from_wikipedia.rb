@@ -52,6 +52,8 @@ module GetFromWikipedia
 
 					loc[prop] = preprocess(loc[prop]) if loc[prop]
 					loc[prop] = yield(loc[prop], prop) if loc[prop] and block_given?
+
+					loc[prop] = nil if loc[prop] == ""
 				end
 
 				# p loc
