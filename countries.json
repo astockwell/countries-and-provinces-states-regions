@@ -2,7 +2,8 @@
 	{
 		"name": "Afghanistan",
 		"code": "AF",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "afghanistan"
 	},
 	{
 		"name": "Åland Islands",
@@ -96,12 +97,14 @@
 	{
 		"name": "Bahrain",
 		"code": "BH",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "bahrain"
 	},
 	{
 		"name": "Bangladesh",
 		"code": "BD",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "bangladesh"
 	},
 	{
 		"name": "Barbados",
@@ -141,7 +144,8 @@
 	{
 		"name": "Bhutan",
 		"code": "BT",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "bhutan"
 	},
 	{
 		"name": "Bolivia",
@@ -178,7 +182,8 @@
 	{
 		"name": "Brunei Darussalam",
 		"code": "BN",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "brunei-darussalam"
 	},
 	{
 		"name": "Bulgaria",
@@ -201,7 +206,8 @@
 	{
 		"name": "Cambodia",
 		"code": "KH",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "cambodia"
 	},
 	{
 		"name": "Cameroon",
@@ -580,12 +586,14 @@
 	{
 		"name": "Iran, Islamic Republic Of",
 		"code": "IR",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "iran-islamic-republic-of"
 	},
 	{
 		"name": "Iraq",
 		"code": "IQ",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "iraq"
 	},
 	{
 		"name": "Ireland",
@@ -600,7 +608,8 @@
 	{
 		"name": "Israel",
 		"code": "IL",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "israel"
 	},
 	{
 		"name": "Italy",
@@ -617,7 +626,8 @@
 	{
 		"name": "Japan",
 		"code": "JP",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "japan"
 	},
 	{
 		"name": "Jersey",
@@ -626,7 +636,8 @@
 	{
 		"name": "Jordan",
 		"code": "JO",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "jordan"
 	},
 	{
 		"name": "Kazakhstan",
@@ -657,17 +668,20 @@
 	{
 		"name": "Kuwait",
 		"code": "KW",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "kuwait"
 	},
 	{
 		"name": "Kyrgyzstan",
 		"code": "KG",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "kyrgyzstan"
 	},
 	{
 		"name": "Lao People's Democratic Republic",
 		"code": "LA",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "lao-people-s-democratic-republic"
 	},
 	{
 		"name": "Latvia",
@@ -678,7 +692,8 @@
 	{
 		"name": "Lebanon",
 		"code": "LB",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "lebanon"
 	},
 	{
 		"name": "Lesotho",
@@ -748,7 +763,8 @@
 	{
 		"name": "Maldives",
 		"code": "MV",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "maldives"
 	},
 	{
 		"name": "Mali",
@@ -817,7 +833,8 @@
 	{
 		"name": "Mongolia",
 		"code": "MN",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "mongolia"
 	},
 	{
 		"name": "Montenegro",
@@ -845,7 +862,8 @@
 	{
 		"name": "Myanmar",
 		"code": "MM",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "myanmar"
 	},
 	{
 		"name": "Namibia",
@@ -862,7 +880,8 @@
 	{
 		"name": "Nepal",
 		"code": "NP",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "nepal"
 	},
 	{
 		"name": "Netherlands",
@@ -926,12 +945,14 @@
 	{
 		"name": "Oman",
 		"code": "OM",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "oman"
 	},
 	{
 		"name": "Pakistan",
 		"code": "PK",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "pakistan"
 	},
 	{
 		"name": "Palau",
@@ -942,7 +963,8 @@
 	{
 		"name": "Palestinian Territory, Occupied",
 		"code": "PS",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "palestinian-territory-occupied"
 	},
 	{
 		"name": "Panama",
@@ -971,7 +993,8 @@
 	{
 		"name": "Philippines",
 		"code": "PH",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "philippines"
 	},
 	{
 		"name": "Pitcairn",
@@ -997,7 +1020,8 @@
 	{
 		"name": "Qatar",
 		"code": "QA",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "qatar"
 	},
 	{
 		"name": "Réunion",
@@ -1072,7 +1096,8 @@
 	{
 		"name": "Saudi Arabia",
 		"code": "SA",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "saudi-arabia"
 	},
 	{
 		"name": "Senegal",
@@ -1101,7 +1126,8 @@
 	{
 		"name": "Singapore",
 		"code": "SG",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "singapore"
 	},
 	{
 		"name": "Sint Maarten",
@@ -1158,7 +1184,8 @@
 	{
 		"name": "Sri Lanka",
 		"code": "LK",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "sri-lanka"
 	},
 	{
 		"name": "Sudan",
@@ -1197,17 +1224,20 @@
 	{
 		"name": "Syrian Arab Republic",
 		"code": "SY",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "syrian-arab-republic"
 	},
 	{
 		"name": "Taiwan, Province of China",
 		"code": "TW",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "taiwan-province-of-china"
 	},
 	{
 		"name": "Tajikistan",
 		"code": "TJ",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "tajikistan"
 	},
 	{
 		"name": "Tanzania, United Republic of",
@@ -1264,7 +1294,8 @@
 	{
 		"name": "Turkmenistan",
 		"code": "TM",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "turkmenistan"
 	},
 	{
 		"name": "Turks and Caicos Islands",
@@ -1292,7 +1323,8 @@
 	{
 		"name": "United Arab Emirates",
 		"code": "AE",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "united-arab-emirates"
 	},
 	{
 		"name": "United Kingdom",
@@ -1321,7 +1353,8 @@
 	{
 		"name": "Uzbekistan",
 		"code": "UZ",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "uzbekistan"
 	},
 	{
 		"name": "Vanuatu",
@@ -1338,7 +1371,8 @@
 	{
 		"name": "Viet Nam",
 		"code": "VN",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "viet-nam"
 	},
 	{
 		"name": "Virgin Islands, British",
@@ -1361,7 +1395,8 @@
 	{
 		"name": "Yemen",
 		"code": "YE",
-		"continent": "Asia"
+		"continent": "Asia",
+		"filename": "yemen"
 	},
 	{
 		"name": "Zambia",
