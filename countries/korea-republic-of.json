@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Busan-gwangyeoksi",
+		"code": "KR-26"
+	},
+	{
+		"name": "Chungcheongbuk-do",
+		"code": "KR-43"
+	},
+	{
+		"name": "Chungcheongnam-do",
+		"code": "KR-44"
+	},
+	{
+		"name": "Daegu-gwangyeoksi",
+		"code": "KR-27"
+	},
+	{
+		"name": "Daejeon-gwangyeoksi",
+		"code": "KR-30"
+	},
+	{
+		"name": "Gangwon-do",
+		"code": "KR-42"
+	},
+	{
+		"name": "Gwangju-gwangyeoksi",
+		"code": "KR-29"
+	},
+	{
+		"name": "Gyeonggi-do",
+		"code": "KR-41"
+	},
+	{
+		"name": "Gyeongsangbuk-do",
+		"code": "KR-47"
+	},
+	{
+		"name": "Gyeongsangnam-do",
+		"code": "KR-48"
+	},
+	{
+		"name": "Incheon-gwangyeoksi",
+		"code": "KR-28"
+	},
+	{
+		"name": "Jeju-teukbyeoljachido",
+		"code": "KR-49"
+	},
+	{
+		"name": "Jeollabuk-do",
+		"code": "KR-45"
+	},
+	{
+		"name": "Jeollanam-do",
+		"code": "KR-46"
+	},
+	{
+		"name": "Sejong",
+		"code": "KR-50"
+	},
+	{
+		"name": "Seoul-teukbyeolsi",
+		"code": "KR-11"
+	},
+	{
+		"name": "Ulsan-gwangyeoksi",
+		"code": "KR-31"
+	}
+]

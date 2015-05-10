@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Chagang",
+		"code": "KP-04"
+	},
+	{
+		"name": "Kangwon",
+		"code": "KP-07"
+	},
+	{
+		"name": "North Hamgyong",
+		"code": "KP-09"
+	},
+	{
+		"name": "North Hwanghae",
+		"code": "KP-06"
+	},
+	{
+		"name": "North Pyongan",
+		"code": "KP-03"
+	},
+	{
+		"name": "Pyongyang",
+		"code": "KP-01"
+	},
+	{
+		"name": "Rason",
+		"code": "KP-13"
+	},
+	{
+		"name": "Ryanggang",
+		"code": "KP-10"
+	},
+	{
+		"name": "South Hamgyong",
+		"code": "KP-08"
+	},
+	{
+		"name": "South Hwanghae",
+		"code": "KP-05"
+	},
+	{
+		"name": "South Pyongan",
+		"code": "KP-02"
+	}
+]

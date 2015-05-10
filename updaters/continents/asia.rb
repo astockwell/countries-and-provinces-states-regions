@@ -36,6 +36,8 @@ def fetch_country(code, name)
 	# when "IL" # Israel
 	# when "JP" # Japan
 	# when "JO" # Jordan
+	# when "KP" # Korea, Democratic People's Republic of
+	# when "KR" # Korea, Republic of
 	# when "KW" # Kuwait
 	# when "KG" # Kyrgyzstan
 	# when "LA" # Lao People's Democratic Republic

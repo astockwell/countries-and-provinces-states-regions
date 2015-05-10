@@ -659,11 +659,15 @@
 	},
 	{
 		"name": "Korea, Democratic People's Republic of",
-		"code": "KP"
+		"code": "KP",
+		"continent": "Asia",
+		"filename": "korea-democratic-people-s-republic-of"
 	},
 	{
 		"name": "Korea, Republic of",
-		"code": "KR"
+		"code": "KR",
+		"continent": "Asia",
+		"filename": "korea-republic-of"
 	},
 	{
 		"name": "Kuwait",
