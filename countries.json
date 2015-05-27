@@ -7,6 +7,7 @@
 	},
 	{
 		"name": "Åland Islands",
+        "continent": "Europe",
 		"code": "AX"
 	},
 	{
@@ -45,6 +46,7 @@
 	},
 	{
 		"name": "Antarctica",
+        "continent": "Antarctica",
 		"code": "AQ"
 	},
 	{
@@ -167,6 +169,7 @@
 	},
 	{
 		"name": "Bouvet Island",
+		"continent": "Antarctica",
 		"code": "BV"
 	},
 	{
@@ -177,6 +180,7 @@
 	},
 	{
 		"name": "British Indian Ocean Territory",
+		"continent": "Africa",
 		"code": "IO"
 	},
 	{
@@ -292,6 +296,7 @@
 	},
 	{
 		"name": "Cook Islands",
+		"continent": "Oceania",        
 		"code": "CK"
 	},
 	{
@@ -408,6 +413,7 @@
 	},
 	{
 		"name": "Faroe Islands",
+		"continent": "Europe",        
 		"code": "FO"
 	},
 	{
@@ -440,6 +446,7 @@
 	},
 	{
 		"name": "French Southern Territories",
+        "continent": "Antarctica",
 		"code": "TF"
 	},
 	{
@@ -474,6 +481,7 @@
 	},
 	{
 		"name": "Gibraltar",
+		"continent": "Europe",
 		"code": "GI"
 	},
 	{
@@ -512,6 +520,7 @@
 	},
 	{
 		"name": "Guernsey",
+		"continent": "Europe",
 		"code": "GG"
 	},
 	{
@@ -540,6 +549,7 @@
 	},
 	{
 		"name": "Heard Island and Mcdonald Islands",
+		"continent": "Oceania",        
 		"code": "HM"
 	},
 	{
@@ -603,6 +613,7 @@
 	},
 	{
 		"name": "Isle of Man",
+		"continent": "Europe",
 		"code": "IM"
 	},
 	{
@@ -631,6 +642,7 @@
 	},
 	{
 		"name": "Jersey",
+		"continent": "Europe",        
 		"code": "JE"
 	},
 	{
@@ -929,6 +941,7 @@
 	},
 	{
 		"name": "Niue",
+        "continent": "Oceania",
 		"code": "NU"
 	},
 	{
@@ -938,6 +951,7 @@
 	},
 	{
 		"name": "Northern Mariana Islands",
+		"continent": "Oceania",        
 		"code": "MP"
 	},
 	{
@@ -1002,6 +1016,7 @@
 	},
 	{
 		"name": "Pitcairn",
+		"continent": "Oceania",
 		"code": "PN"
 	},
 	{
@@ -1205,6 +1220,7 @@
 	},
 	{
 		"name": "Svalbard and Jan Mayen",
+		"continent": "Europe",
 		"code": "SJ"
 	},
 	{
@@ -1269,6 +1285,7 @@
 	},
 	{
 		"name": "Tokelau",
+		"continent": "Oceania",        
 		"code": "TK"
 	},
 	{
@@ -1390,10 +1407,12 @@
 	},
 	{
 		"name": "Wallis and Futuna",
+        "continent": "Oceania",
 		"code": "WF"
 	},
 	{
 		"name": "Western Sahara",
+		"continent": "Africa",        
 		"code": "EH"
 	},
 	{
