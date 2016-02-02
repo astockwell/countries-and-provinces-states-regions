@@ -1,0 +1,30 @@
+{
+  "name": "countries-provinces",
+  "version": "1.0.0",
+  "description": "Countries and Provinces / States / Regions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "babel-node npm-build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astockwell/countries-and-provinces-states-regions.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astockwell/countries-and-provinces-states-regions/issues"
+  },
+  "homepage": "https://github.com/astockwell/countries-and-provinces-states-regions#readme",
+  "devDependencies": {
+    "bluebird": "^3.2.1",
+    "babel-cli": "^6.4.5",
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
