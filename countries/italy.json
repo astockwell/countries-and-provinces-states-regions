@@ -1,374 +1,374 @@
 [
         {
-                "name": "IT-AG",
-                "code": "Agrigento"
+                "code": "IT-AG",
+                "name": "Agrigento"
         },
         {
-                "name": "IT-AL",
-                "code": "Alessandria"
+                "code": "IT-AL",
+                "name": "Alessandria"
         },
         {
-                "name": "IT-AN",
-                "code": "Ancona"
+                "code": "IT-AN",
+                "name": "Ancona"
         },
         {
-                "name": "IT-AO",
-                "code": "Aosta"
+                "code": "IT-AO",
+                "name": "Aosta"
         },
         {
-                "name": "IT-AR",
-                "code": "Arezzo"
+                "code": "IT-AR",
+                "name": "Arezzo"
         },
         {
-                "name": "IT-AP",
-                "code": "Ascoli"
+                "code": "IT-AP",
+                "name": "Ascoli"
         },
         {
-                "name": "IT-AT",
-                "code": "Asti"
+                "code": "IT-AT",
+                "name": "Asti"
         },
         {
-                "name": "IT-AV",
-                "code": "Avellino"
+                "code": "IT-AV",
+                "name": "Avellino"
         },
         {
-                "name": "IT-BT",
-                "code": "Barletta-Andria-Trani"
+                "code": "IT-BT",
+                "name": "Barletta-Andria-Trani"
         },
         {
-                "name": "IT-BL",
-                "code": "Belluno"
+                "code": "IT-BL",
+                "name": "Belluno"
         },
         {
-                "name": "IT-BN",
-                "code": "Benevento"
+                "code": "IT-BN",
+                "name": "Benevento"
         },
         {
-                "name": "IT-BG",
-                "code": "Bergamo"
+                "code": "IT-BG",
+                "name": "Bergamo"
         },
         {
-                "name": "IT-BI",
-                "code": "Biella"
+                "code": "IT-BI",
+                "name": "Biella"
         },
         {
-                "name": "IT-BZ",
-                "code": "Bolzano"
+                "code": "IT-BZ",
+                "name": "Bolzano"
         },
         {
-                "name": "IT-BS",
-                "code": "Brescia"
+                "code": "IT-BS",
+                "name": "Brescia"
         },
         {
-                "name": "IT-BR",
-                "code": "Brindisi"
+                "code": "IT-BR",
+                "name": "Brindisi"
         },
         {
-                "name": "IT-CL",
-                "code": "Caltanissetta"
+                "code": "IT-CL",
+                "name": "Caltanissetta"
         },
         {
-                "name": "IT-CB",
-                "code": "Campobasso"
+                "code": "IT-CB",
+                "name": "Campobasso"
         },
         {
-                "name": "IT-CE",
-                "code": "Caserta"
+                "code": "IT-CE",
+                "name": "Caserta"
         },
         {
-                "name": "IT-CZ",
-                "code": "Catanzaro"
+                "code": "IT-CZ",
+                "name": "Catanzaro"
         },
         {
-                "name": "IT-CH",
-                "code": "Chieti"
+                "code": "IT-CH",
+                "name": "Chieti"
         },
         {
-                "name": "IT-CO",
-                "code": "Como"
+                "code": "IT-CO",
+                "name": "Como"
         },
         {
-                "name": "IT-CS",
-                "code": "Cosenza"
+                "code": "IT-CS",
+                "name": "Cosenza"
         },
         {
-                "name": "IT-CR",
-                "code": "Cremona"
+                "code": "IT-CR",
+                "name": "Cremona"
         },
         {
-                "name": "IT-KR",
-                "code": "Crotone"
+                "code": "IT-KR",
+                "name": "Crotone"
         },
         {
-                "name": "IT-CN",
-                "code": "Cuneo"
+                "code": "IT-CN",
+                "name": "Cuneo"
         },
         {
-                "name": "IT-EN",
-                "code": "Enna"
+                "code": "IT-EN",
+                "name": "Enna"
         },
         {
-                "name": "IT-FM",
-                "code": "Fermo"
+                "code": "IT-FM",
+                "name": "Fermo"
         },
         {
-                "name": "IT-FE",
-                "code": "Ferrara"
+                "code": "IT-FE",
+                "name": "Ferrara"
         },
         {
-                "name": "IT-FG",
-                "code": "Foggia"
+                "code": "IT-FG",
+                "name": "Foggia"
         },
         {
-                "name": "IT-FC",
-                "code": "Forlì-Cesena"
+                "code": "IT-FC",
+                "name": "Forlì-Cesena"
         },
         {
-                "name": "IT-FR",
-                "code": "Frosinone"
+                "code": "IT-FR",
+                "name": "Frosinone"
         },
         {
-                "name": "IT-GO",
-                "code": "Gorizia"
+                "code": "IT-GO",
+                "name": "Gorizia"
         },
         {
-                "name": "IT-GR",
-                "code": "Grosseto"
+                "code": "IT-GR",
+                "name": "Grosseto"
         },
         {
-                "name": "IT-IM",
-                "code": "Imperia"
+                "code": "IT-IM",
+                "name": "Imperia"
         },
         {
-                "name": "IT-IS",
-                "code": "Isernia"
+                "code": "IT-IS",
+                "name": "Isernia"
         },
         {
-                "name": "IT-SP",
-                "code": "La Spezia"
+                "code": "IT-SP",
+                "name": "La Spezia"
         },
         {
-                "name": "IT-AQ",
-                "code": "L'Aquila"
+                "code": "IT-AQ",
+                "name": "L'Aquila"
         },
         {
-                "name": "IT-LT",
-                "code": "Latina"
+                "code": "IT-LT",
+                "name": "Latina"
         },
         {
-                "name": "IT-LE",
-                "code": "Lecce"
+                "code": "IT-LE",
+                "name": "Lecce"
         },
         {
-                "name": "IT-LC",
-                "code": "Lecco"
+                "code": "IT-LC",
+                "name": "Lecco"
         },
         {
-                "name": "IT-LI",
-                "code": "Livorno"
+                "code": "IT-LI",
+                "name": "Livorno"
         },
         {
-                "name": "IT-LO",
-                "code": "Lodi"
+                "code": "IT-LO",
+                "name": "Lodi"
         },
         {
-                "name": "IT-LU",
-                "code": "Lucca"
+                "code": "IT-LU",
+                "name": "Lucca"
         },
         {
-                "name": "IT-MC",
-                "code": "Macerata"
+                "code": "IT-MC",
+                "name": "Macerata"
         },
         {
-                "name": "IT-MN",
-                "code": "Mantova"
+                "code": "IT-MN",
+                "name": "Mantova"
         },
         {
-                "name": "IT-MS",
-                "code": "Massa"
+                "code": "IT-MS",
+                "name": "Massa"
         },
         {
-                "name": "IT-MT",
-                "code": "Matera"
+                "code": "IT-MT",
+                "name": "Matera"
         },
         {
-                "name": "IT-ME",
-                "code": "Messina"
+                "code": "IT-ME",
+                "name": "Messina"
         },
         {
-                "name": "IT-MB",
-                "code": "Monza"
+                "code": "IT-MB",
+                "name": "Monza"
         },
         {
-                "name": "IT-MO",
-                "code": "Modena"
+                "code": "IT-MO",
+                "name": "Modena"
         },
         {
-                "name": "IT-NO",
-                "code": "Novara"
+                "code": "IT-NO",
+                "name": "Novara"
         },
         {
-                "name": "IT-NU",
-                "code": "Nuoro"
+                "code": "IT-NU",
+                "name": "Nuoro"
         },
         {
-                "name": "IT-OR",
-                "code": "Oristano"
+                "code": "IT-OR",
+                "name": "Oristano"
         },
         {
-                "name": "IT-PD",
-                "code": "Padova"
+                "code": "IT-PD",
+                "name": "Padova"
         },
         {
-                "name": "IT-PR",
-                "code": "Parma"
+                "code": "IT-PR",
+                "name": "Parma"
         },
         {
-                "name": "IT-PV",
-                "code": "Pavia"
+                "code": "IT-PV",
+                "name": "Pavia"
         },
         {
-                "name": "IT-PG",
-                "code": "Perugia"
+                "code": "IT-PG",
+                "name": "Perugia"
         },
         {
-                "name": "IT-PU",
-                "code": "Pesaro"
+                "code": "IT-PU",
+                "name": "Pesaro"
         },
         {
-                "name": "IT-PE",
-                "code": "Pescara"
+                "code": "IT-PE",
+                "name": "Pescara"
         },
         {
-                "name": "IT-PC",
-                "code": "Piacenza"
+                "code": "IT-PC",
+                "name": "Piacenza"
         },
         {
-                "name": "IT-PI",
-                "code": "Pisa"
+                "code": "IT-PI",
+                "name": "Pisa"
         },
         {
-                "name": "IT-PT",
-                "code": "Pistoia"
+                "code": "IT-PT",
+                "name": "Pistoia"
         },
         {
-                "name": "IT-PN",
-                "code": "Pordenone"
+                "code": "IT-PN",
+                "name": "Pordenone"
         },
         {
-                "name": "IT-PZ",
-                "code": "Potenza"
+                "code": "IT-PZ",
+                "name": "Potenza"
         },
         {
-                "name": "IT-PO",
-                "code": "Prato"
+                "code": "IT-PO",
+                "name": "Prato"
         },
         {
-                "name": "IT-RG",
-                "code": "Ragusa"
+                "code": "IT-RG",
+                "name": "Ragusa"
         },
         {
-                "name": "IT-RA",
-                "code": "Ravenna"
+                "code": "IT-RA",
+                "name": "Ravenna"
         },
         {
-                "name": "IT-RE",
-                "code": "Reggio"
+                "code": "IT-RE",
+                "name": "Reggio"
         },
         {
-                "name": "IT-RI",
-                "code": "Rieti"
+                "code": "IT-RI",
+                "name": "Rieti"
         },
         {
-                "name": "IT-RN",
-                "code": "Rimini"
+                "code": "IT-RN",
+                "name": "Rimini"
         },
         {
-                "name": "IT-RO",
-                "code": "Rovigo"
+                "code": "IT-RO",
+                "name": "Rovigo"
         },
         {
-                "name": "IT-SA",
-                "code": "Salerno"
+                "code": "IT-SA",
+                "name": "Salerno"
         },
         {
-                "name": "IT-SS",
-                "code": "Sassari"
+                "code": "IT-SS",
+                "name": "Sassari"
         },
         {
-                "name": "IT-SV",
-                "code": "Savona"
+                "code": "IT-SV",
+                "name": "Savona"
         },
         {
-                "name": "IT-SI",
-                "code": "Siena"
+                "code": "IT-SI",
+                "name": "Siena"
         },
         {
-                "name": "IT-SR",
-                "code": "Siracusa"
+                "code": "IT-SR",
+                "name": "Siracusa"
         },
         {
-                "name": "IT-SO",
-                "code": "Sondrio"
+                "code": "IT-SO",
+                "name": "Sondrio"
         },
         {
-                "name": "IT-TA",
-                "code": "Taranto"
+                "code": "IT-TA",
+                "name": "Taranto"
         },
         {
-                "name": "IT-TE",
-                "code": "Teramo"
+                "code": "IT-TE",
+                "name": "Teramo"
         },
         {
-                "name": "IT-TR",
-                "code": "Terni"
+                "code": "IT-TR",
+                "name": "Terni"
         },
         {
-                "name": "IT-TP",
-                "code": "Trapani"
+                "code": "IT-TP",
+                "name": "Trapani"
         },
         {
-                "name": "IT-TN",
-                "code": "Trento"
+                "code": "IT-TN",
+                "name": "Trento"
         },
         {
-                "name": "IT-TV",
-                "code": "Treviso"
+                "code": "IT-TV",
+                "name": "Treviso"
         },
         {
-                "name": "IT-TS",
-                "code": "Trieste"
+                "code": "IT-TS",
+                "name": "Trieste"
         },
         {
-                "name": "IT-UD",
-                "code": "Udine"
+                "code": "IT-UD",
+                "name": "Udine"
         },
         {
-                "name": "IT-VA",
-                "code": "Varese"
+                "code": "IT-VA",
+                "name": "Varese"
         },
         {
-                "name": "IT-VB",
-                "code": "Verbano-Cusio-Ossola"
+                "code": "IT-VB",
+                "name": "Verbano-Cusio-Ossola"
         },
         {
-                "name": "IT-VC",
-                "code": "Vercelli"
+                "code": "IT-VC",
+                "name": "Vercelli"
         },
         {
-                "name": "IT-VR",
-                "code": "Verona"
+                "code": "IT-VR",
+                "name": "Verona"
         },
         {
-                "name": "IT-VV",
-                "code": "Vibo"
+                "code": "IT-VV",
+                "name": "Vibo"
         },
         {
-                "name": "IT-VI",
-                "code": "Vicenza"
+                "code": "IT-VI",
+                "name": "Vicenza"
         },
         {
-                "name": "IT-VT",
-                "code": "Viterbo"
+                "code": "IT-VT",
+                "name": "Viterbo"
         }
 ]
