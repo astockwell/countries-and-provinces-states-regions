@@ -1,82 +1,374 @@
 [
-	{
-		"name": "Abruzzo",
-		"code": "IT-65"
-	},
-	{
-		"name": "Basilicata",
-		"code": "IT-77"
-	},
-	{
-		"name": "Calabria",
-		"code": "IT-78"
-	},
-	{
-		"name": "Campania",
-		"code": "IT-72"
-	},
-	{
-		"name": "Emilia-Romagna",
-		"code": "IT-45"
-	},
-	{
-		"name": "Friuli-Venezia Giulia",
-		"code": "IT-36"
-	},
-	{
-		"name": "Lazio",
-		"code": "IT-62"
-	},
-	{
-		"name": "Liguria",
-		"code": "IT-42"
-	},
-	{
-		"name": "Lombardia",
-		"code": "IT-25"
-	},
-	{
-		"name": "Marche",
-		"code": "IT-57"
-	},
-	{
-		"name": "Molise",
-		"code": "IT-67"
-	},
-	{
-		"name": "Piemonte",
-		"code": "IT-21"
-	},
-	{
-		"name": "Puglia",
-		"code": "IT-75"
-	},
-	{
-		"name": "Sardegna",
-		"code": "IT-88"
-	},
-	{
-		"name": "Sicilia",
-		"code": "IT-82"
-	},
-	{
-		"name": "Toscana",
-		"code": "IT-52"
-	},
-	{
-		"name": "Trentino-Alto Adige",
-		"code": "IT-32"
-	},
-	{
-		"name": "Umbria",
-		"code": "IT-55"
-	},
-	{
-		"name": "Valle d'Aosta",
-		"code": "IT-23"
-	},
-	{
-		"name": "Veneto",
-		"code": "IT-34"
-	}
+        {
+                "code": "IT-AG",
+                "name": "Agrigento"
+        },
+        {
+                "code": "IT-AL",
+                "name": "Alessandria"
+        },
+        {
+                "code": "IT-AN",
+                "name": "Ancona"
+        },
+        {
+                "code": "IT-AO",
+                "name": "Aosta"
+        },
+        {
+                "code": "IT-AR",
+                "name": "Arezzo"
+        },
+        {
+                "code": "IT-AP",
+                "name": "Ascoli"
+        },
+        {
+                "code": "IT-AT",
+                "name": "Asti"
+        },
+        {
+                "code": "IT-AV",
+                "name": "Avellino"
+        },
+        {
+                "code": "IT-BT",
+                "name": "Barletta-Andria-Trani"
+        },
+        {
+                "code": "IT-BL",
+                "name": "Belluno"
+        },
+        {
+                "code": "IT-BN",
+                "name": "Benevento"
+        },
+        {
+                "code": "IT-BG",
+                "name": "Bergamo"
+        },
+        {
+                "code": "IT-BI",
+                "name": "Biella"
+        },
+        {
+                "code": "IT-BZ",
+                "name": "Bolzano"
+        },
+        {
+                "code": "IT-BS",
+                "name": "Brescia"
+        },
+        {
+                "code": "IT-BR",
+                "name": "Brindisi"
+        },
+        {
+                "code": "IT-CL",
+                "name": "Caltanissetta"
+        },
+        {
+                "code": "IT-CB",
+                "name": "Campobasso"
+        },
+        {
+                "code": "IT-CE",
+                "name": "Caserta"
+        },
+        {
+                "code": "IT-CZ",
+                "name": "Catanzaro"
+        },
+        {
+                "code": "IT-CH",
+                "name": "Chieti"
+        },
+        {
+                "code": "IT-CO",
+                "name": "Como"
+        },
+        {
+                "code": "IT-CS",
+                "name": "Cosenza"
+        },
+        {
+                "code": "IT-CR",
+                "name": "Cremona"
+        },
+        {
+                "code": "IT-KR",
+                "name": "Crotone"
+        },
+        {
+                "code": "IT-CN",
+                "name": "Cuneo"
+        },
+        {
+                "code": "IT-EN",
+                "name": "Enna"
+        },
+        {
+                "code": "IT-FM",
+                "name": "Fermo"
+        },
+        {
+                "code": "IT-FE",
+                "name": "Ferrara"
+        },
+        {
+                "code": "IT-FG",
+                "name": "Foggia"
+        },
+        {
+                "code": "IT-FC",
+                "name": "Forlì-Cesena"
+        },
+        {
+                "code": "IT-FR",
+                "name": "Frosinone"
+        },
+        {
+                "code": "IT-GO",
+                "name": "Gorizia"
+        },
+        {
+                "code": "IT-GR",
+                "name": "Grosseto"
+        },
+        {
+                "code": "IT-IM",
+                "name": "Imperia"
+        },
+        {
+                "code": "IT-IS",
+                "name": "Isernia"
+        },
+        {
+                "code": "IT-SP",
+                "name": "La Spezia"
+        },
+        {
+                "code": "IT-AQ",
+                "name": "L'Aquila"
+        },
+        {
+                "code": "IT-LT",
+                "name": "Latina"
+        },
+        {
+                "code": "IT-LE",
+                "name": "Lecce"
+        },
+        {
+                "code": "IT-LC",
+                "name": "Lecco"
+        },
+        {
+                "code": "IT-LI",
+                "name": "Livorno"
+        },
+        {
+                "code": "IT-LO",
+                "name": "Lodi"
+        },
+        {
+                "code": "IT-LU",
+                "name": "Lucca"
+        },
+        {
+                "code": "IT-MC",
+                "name": "Macerata"
+        },
+        {
+                "code": "IT-MN",
+                "name": "Mantova"
+        },
+        {
+                "code": "IT-MS",
+                "name": "Massa"
+        },
+        {
+                "code": "IT-MT",
+                "name": "Matera"
+        },
+        {
+                "code": "IT-ME",
+                "name": "Messina"
+        },
+        {
+                "code": "IT-MB",
+                "name": "Monza"
+        },
+        {
+                "code": "IT-MO",
+                "name": "Modena"
+        },
+        {
+                "code": "IT-NO",
+                "name": "Novara"
+        },
+        {
+                "code": "IT-NU",
+                "name": "Nuoro"
+        },
+        {
+                "code": "IT-OR",
+                "name": "Oristano"
+        },
+        {
+                "code": "IT-PD",
+                "name": "Padova"
+        },
+        {
+                "code": "IT-PR",
+                "name": "Parma"
+        },
+        {
+                "code": "IT-PV",
+                "name": "Pavia"
+        },
+        {
+                "code": "IT-PG",
+                "name": "Perugia"
+        },
+        {
+                "code": "IT-PU",
+                "name": "Pesaro"
+        },
+        {
+                "code": "IT-PE",
+                "name": "Pescara"
+        },
+        {
+                "code": "IT-PC",
+                "name": "Piacenza"
+        },
+        {
+                "code": "IT-PI",
+                "name": "Pisa"
+        },
+        {
+                "code": "IT-PT",
+                "name": "Pistoia"
+        },
+        {
+                "code": "IT-PN",
+                "name": "Pordenone"
+        },
+        {
+                "code": "IT-PZ",
+                "name": "Potenza"
+        },
+        {
+                "code": "IT-PO",
+                "name": "Prato"
+        },
+        {
+                "code": "IT-RG",
+                "name": "Ragusa"
+        },
+        {
+                "code": "IT-RA",
+                "name": "Ravenna"
+        },
+        {
+                "code": "IT-RE",
+                "name": "Reggio"
+        },
+        {
+                "code": "IT-RI",
+                "name": "Rieti"
+        },
+        {
+                "code": "IT-RN",
+                "name": "Rimini"
+        },
+        {
+                "code": "IT-RO",
+                "name": "Rovigo"
+        },
+        {
+                "code": "IT-SA",
+                "name": "Salerno"
+        },
+        {
+                "code": "IT-SS",
+                "name": "Sassari"
+        },
+        {
+                "code": "IT-SV",
+                "name": "Savona"
+        },
+        {
+                "code": "IT-SI",
+                "name": "Siena"
+        },
+        {
+                "code": "IT-SR",
+                "name": "Siracusa"
+        },
+        {
+                "code": "IT-SO",
+                "name": "Sondrio"
+        },
+        {
+                "code": "IT-TA",
+                "name": "Taranto"
+        },
+        {
+                "code": "IT-TE",
+                "name": "Teramo"
+        },
+        {
+                "code": "IT-TR",
+                "name": "Terni"
+        },
+        {
+                "code": "IT-TP",
+                "name": "Trapani"
+        },
+        {
+                "code": "IT-TN",
+                "name": "Trento"
+        },
+        {
+                "code": "IT-TV",
+                "name": "Treviso"
+        },
+        {
+                "code": "IT-TS",
+                "name": "Trieste"
+        },
+        {
+                "code": "IT-UD",
+                "name": "Udine"
+        },
+        {
+                "code": "IT-VA",
+                "name": "Varese"
+        },
+        {
+                "code": "IT-VB",
+                "name": "Verbano-Cusio-Ossola"
+        },
+        {
+                "code": "IT-VC",
+                "name": "Vercelli"
+        },
+        {
+                "code": "IT-VR",
+                "name": "Verona"
+        },
+        {
+                "code": "IT-VV",
+                "name": "Vibo"
+        },
+        {
+                "code": "IT-VI",
+                "name": "Vicenza"
+        },
+        {
+                "code": "IT-VT",
+                "name": "Viterbo"
+        }
 ]
