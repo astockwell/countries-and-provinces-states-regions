@@ -401,6 +401,12 @@
 		"filename": "estonia"
 	},
 	{
+		"name": "Eswatini",
+		"code": "SZ",
+		"continent": "Africa",
+		"filename": "eswatini"
+	},
+	{
 		"name": "Ethiopia",
 		"code": "ET",
 		"continent": "Africa",
@@ -1222,12 +1228,6 @@
 		"name": "Svalbard and Jan Mayen",
 		"continent": "Europe",
 		"code": "SJ"
-	},
-	{
-		"name": "Swaziland",
-		"code": "SZ",
-		"continent": "Africa",
-		"filename": "swaziland"
 	},
 	{
 		"name": "Sweden",
