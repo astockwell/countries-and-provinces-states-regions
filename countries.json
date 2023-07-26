@@ -1,1436 +1,1678 @@
 [
-	{
-		"name": "Afghanistan",
-		"code": "AF",
-		"continent": "Asia",
-		"filename": "afghanistan"
-	},
-	{
-		"name": "Åland Islands",
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+        "continent": "Asia",
+        "filename": "afghanistan",
+        "mobile_code": "93"
+    },
+    {
+        "name": "Åland Islands",
         "continent": "Europe",
-		"code": "AX"
-	},
-	{
-		"name": "Albania",
-		"code": "AL",
-		"continent": "Europe",
-		"filename": "albania"
-	},
-	{
-		"name": "Algeria",
-		"code": "DZ",
-		"continent": "Africa",
-		"filename": "algeria"
-	},
-	{
-		"name": "American Samoa",
-		"code": "AS",
-		"continent": "Oceania"
-	},
-	{
-		"name": "Andorra",
-		"code": "AD",
-		"continent": "Europe",
-		"filename": "andorra"
-	},
-	{
-		"name": "Angola",
-		"code": "AO",
-		"continent": "Africa",
-		"filename": "angola"
-	},
-	{
-		"name": "Anguilla",
-		"code": "AI",
-		"continent": "North America"
-	},
-	{
-		"name": "Antarctica",
-        "continent": "Antarctica",
-		"code": "AQ"
-	},
-	{
-		"name": "Antigua and Barbuda",
-		"code": "AG",
-		"continent": "North America",
-		"filename": "antigua-and-barbuda"
-	},
-	{
-		"name": "Argentina",
-		"code": "AR",
-		"continent": "South America",
-		"filename": "argentina"
-	},
-	{
-		"name": "Armenia",
-		"code": "AM",
-		"continent": "Europe",
-		"filename": "armenia"
-	},
-	{
-		"name": "Aruba",
-		"code": "AW",
-		"continent": "Europe"
-	},
-	{
-		"name": "Australia",
-		"code": "AU",
-		"continent": "Oceania",
-		"filename": "australia"
-	},
-	{
-		"name": "Austria",
-		"code": "AT",
-		"continent": "Europe",
-		"filename": "austria"
-	},
-	{
-		"name": "Azerbaijan",
-		"code": "AZ",
-		"continent": "Europe",
-		"filename": "azerbaijan"
-	},
-	{
-		"name": "Bahamas",
-		"code": "BS",
-		"continent": "North America",
-		"filename": "bahamas"
-	},
-	{
-		"name": "Bahrain",
-		"code": "BH",
-		"continent": "Asia",
-		"filename": "bahrain"
-	},
-	{
-		"name": "Bangladesh",
-		"code": "BD",
-		"continent": "Asia",
-		"filename": "bangladesh"
-	},
-	{
-		"name": "Barbados",
-		"code": "BB",
-		"continent": "North America",
-		"filename": "barbados"
-	},
-	{
-		"name": "Belarus",
-		"code": "BY",
-		"continent": "Europe",
-		"filename": "belarus"
-	},
-	{
-		"name": "Belgium",
-		"code": "BE",
-		"continent": "Europe",
-		"filename": "belgium"
-	},
-	{
-		"name": "Belize",
-		"code": "BZ",
-		"continent": "North America",
-		"filename": "belize"
-	},
-	{
-		"name": "Benin",
-		"code": "BJ",
-		"continent": "Africa",
-		"filename": "benin"
-	},
-	{
-		"name": "Bermuda",
-		"code": "BM",
-		"continent": "North America"
-	},
-	{
-		"name": "Bhutan",
-		"code": "BT",
-		"continent": "Asia",
-		"filename": "bhutan"
-	},
-	{
-		"name": "Bolivia",
-		"code": "BO",
-		"continent": "South America",
-		"filename": "bolivia"
-	},
-	{
-		"name": "Bosnia and Herzegovina",
-		"code": "BA",
-		"continent": "Europe",
-		"filename": "bosnia-and-herzegovina"
-	},
-	{
-		"name": "Botswana",
-		"code": "BW",
-		"continent": "Africa",
-		"filename": "botswana"
-	},
-	{
-		"name": "Bouvet Island",
-		"continent": "Antarctica",
-		"code": "BV"
-	},
-	{
-		"name": "Brazil",
-		"code": "BR",
-		"continent": "South America",
-		"filename": "brazil"
-	},
-	{
-		"name": "British Indian Ocean Territory",
-		"continent": "Africa",
-		"code": "IO"
-	},
-	{
-		"name": "Brunei Darussalam",
-		"code": "BN",
-		"continent": "Asia",
-		"filename": "brunei-darussalam"
-	},
-	{
-		"name": "Bulgaria",
-		"code": "BG",
-		"continent": "Europe",
-		"filename": "bulgaria"
-	},
-	{
-		"name": "Burkina Faso",
-		"code": "BF",
-		"continent": "Africa",
-		"filename": "burkina-faso"
-	},
-	{
-		"name": "Burundi",
-		"code": "BI",
-		"continent": "Africa",
-		"filename": "burundi"
-	},
-	{
-		"name": "Cambodia",
-		"code": "KH",
-		"continent": "Asia",
-		"filename": "cambodia"
-	},
-	{
-		"name": "Cameroon",
-		"code": "CM",
-		"continent": "Africa",
-		"filename": "cameroon"
-	},
-	{
-		"name": "Canada",
-		"code": "CA",
-		"continent": "North America",
-		"filename": "canada"
-	},
-	{
-		"name": "Cape Verde",
-		"code": "CV",
-		"continent": "Africa",
-		"filename": "cape-verde"
-	},
-	{
-		"name": "Cayman Islands",
-		"code": "KY",
-		"continent": "North America"
-	},
-	{
-		"name": "Central African Republic",
-		"code": "CF",
-		"continent": "Africa",
-		"filename": "central-african-republic"
-	},
-	{
-		"name": "Chad",
-		"code": "TD",
-		"continent": "Africa",
-		"filename": "chad"
-	},
-	{
-		"name": "Chile",
-		"code": "CL",
-		"continent": "South America",
-		"filename": "chile"
-	},
-	{
-		"name": "China",
-		"code": "CN",
-		"continent": "Asia",
-		"filename": "china"
-	},
-	{
-		"name": "Christmas Island",
-		"code": "CX",
-		"continent": "Oceania"
-	},
-	{
-		"name": "Cocos (Keeling) Islands",
-		"code": "CC",
-		"continent": "Oceania"
-	},
-	{
-		"name": "Colombia",
-		"code": "CO",
-		"continent": "South America",
-		"filename": "colombia"
-	},
-	{
-		"name": "Comoros",
-		"code": "KM",
-		"continent": "Africa",
-		"filename": "comoros"
-	},
-	{
-		"name": "Congo",
-		"code": "CG",
-		"continent": "Africa",
-		"filename": "congo"
-	},
-	{
-		"name": "Congo, The Democratic Republic of the",
-		"code": "CD",
-		"continent": "Africa",
-		"filename": "congo-the-democratic-republic-of-the"
-	},
-	{
-		"name": "Cook Islands",
-		"continent": "Oceania",        
-		"code": "CK"
-	},
-	{
-		"name": "Costa Rica",
-		"code": "CR",
-		"continent": "North America",
-		"filename": "costa-rica"
-	},
-	{
-		"name": "Côte d'Ivoire, Republic of",
-		"code": "CI",
-		"continent": "Africa",
-		"filename": "cote-d-ivoire-republic-of"
-	},
-	{
-		"name": "Croatia",
-		"code": "HR",
-		"continent": "Europe",
-		"filename": "croatia"
-	},
-	{
-		"name": "Cuba",
-		"code": "CU",
-		"continent": "North America",
-		"filename": "cuba"
-	},
-	{
-		"name": "Curaçao",
-		"code": "CW",
-		"continent": "Europe"
-	},
-	{
-		"name": "Cyprus",
-		"code": "CY",
-		"continent": "Europe",
-		"filename": "cyprus"
-	},
-	{
-		"name": "Czech Republic",
-		"code": "CZ",
-		"continent": "Europe",
-		"filename": "czech-republic"
-	},
-	{
-		"name": "Denmark",
-		"code": "DK",
-		"continent": "Europe",
-		"filename": "denmark"
-	},
-	{
-		"name": "Djibouti",
-		"code": "DJ",
-		"continent": "Africa",
-		"filename": "djibouti"
-	},
-	{
-		"name": "Dominica",
-		"code": "DM",
-		"continent": "North America",
-		"filename": "dominica"
-	},
-	{
-		"name": "Dominican Republic",
-		"code": "DO",
-		"continent": "North America",
-		"filename": "dominican-republic"
-	},
-	{
-		"name": "Ecuador",
-		"code": "EC",
-		"continent": "South America",
-		"filename": "ecuador"
-	},
-	{
-		"name": "Egypt",
-		"code": "EG",
-		"continent": "Africa",
-		"filename": "egypt"
-	},
-	{
-		"name": "El Salvador",
-		"code": "SV",
-		"continent": "North America",
-		"filename": "el-salvador"
-	},
-	{
-		"name": "Equatorial Guinea",
-		"code": "GQ",
-		"continent": "Africa",
-		"filename": "equatorial-guinea"
-	},
-	{
-		"name": "Eritrea",
-		"code": "ER",
-		"continent": "Africa",
-		"filename": "eritrea"
-	},
-	{
-		"name": "Estonia",
-		"code": "EE",
-		"continent": "Europe",
-		"filename": "estonia"
-	},
-	{
-		"name": "Ethiopia",
-		"code": "ET",
-		"continent": "Africa",
-		"filename": "ethiopia"
-	},
-	{
-		"name": "Falkland Islands (Malvinas)",
-		"code": "FK",
-		"continent": "South America"
-	},
-	{
-		"name": "Faroe Islands",
-		"continent": "Europe",        
-		"code": "FO"
-	},
-	{
-		"name": "Fiji",
-		"code": "FJ",
-		"continent": "Oceania",
-		"filename": "fiji"
-	},
-	{
-		"name": "Finland",
-		"code": "FI",
-		"continent": "Europe",
-		"filename": "finland"
-	},
-	{
-		"name": "France",
-		"code": "FR",
-		"continent": "Europe",
-		"filename": "france"
-	},
-	{
-		"name": "French Guiana",
-		"code": "GF",
-		"continent": "South America"
-	},
-	{
-		"name": "French Polynesia",
-		"code": "PF",
-		"continent": "Oceania"
-	},
-	{
-		"name": "French Southern Territories",
-        "continent": "Antarctica",
-		"code": "TF"
-	},
-	{
-		"name": "Gabon",
-		"code": "GA",
-		"continent": "Africa",
-		"filename": "gabon"
-	},
-	{
-		"name": "Gambia",
-		"code": "GM",
-		"continent": "Africa",
-		"filename": "gambia"
-	},
-	{
-		"name": "Georgia",
-		"code": "GE",
-		"continent": "Europe",
-		"filename": "georgia"
-	},
-	{
-		"name": "Germany",
-		"code": "DE",
-		"continent": "Europe",
-		"filename": "germany"
-	},
-	{
-		"name": "Ghana",
-		"code": "GH",
-		"continent": "Africa",
-		"filename": "ghana"
-	},
-	{
-		"name": "Gibraltar",
-		"continent": "Europe",
-		"code": "GI"
-	},
-	{
-		"name": "Greece",
-		"code": "GR",
-		"continent": "Europe",
-		"filename": "greece"
-	},
-	{
-		"name": "Greenland",
-		"code": "GL",
-		"continent": "North America",
-		"filename": "greenland"
-	},
-	{
-		"name": "Grenada",
-		"code": "GD",
-		"continent": "North America",
-		"filename": "grenada"
-	},
-	{
-		"name": "Guadeloupe",
-		"code": "GP",
-		"continent": "North America"
-	},
-	{
-		"name": "Guam",
-		"code": "GU",
-		"continent": "Oceania"
-	},
-	{
-		"name": "Guatemala",
-		"code": "GT",
-		"continent": "North America",
-		"filename": "guatemala"
-	},
-	{
-		"name": "Guernsey",
-		"continent": "Europe",
-		"code": "GG"
-	},
-	{
-		"name": "Guinea",
-		"code": "GN",
-		"continent": "Africa",
-		"filename": "guinea"
-	},
-	{
-		"name": "Guinea-Bissau",
-		"code": "GW",
-		"continent": "Africa",
-		"filename": "guinea-bissau"
-	},
-	{
-		"name": "Guyana",
-		"code": "GY",
-		"continent": "South America",
-		"filename": "guyana"
-	},
-	{
-		"name": "Haiti",
-		"code": "HT",
-		"continent": "North America",
-		"filename": "haiti"
-	},
-	{
-		"name": "Heard Island and Mcdonald Islands",
-		"continent": "Oceania",        
-		"code": "HM"
-	},
-	{
-		"name": "Holy See (Vatican City State)",
-		"code": "VA",
-		"continent": "Europe"
-	},
-	{
-		"name": "Honduras",
-		"code": "HN",
-		"continent": "North America",
-		"filename": "honduras"
-	},
-	{
-		"name": "Hong Kong",
-		"code": "HK",
-		"continent": "Asia",
-		"filename": "hong-kong"
-	},
-	{
-		"name": "Hungary",
-		"code": "HU",
-		"continent": "Europe",
-		"filename": "hungary"
-	},
-	{
-		"name": "Iceland",
-		"code": "IS",
-		"continent": "Europe",
-		"filename": "iceland"
-	},
-	{
-		"name": "India",
-		"code": "IN",
-		"continent": "Asia",
-		"filename": "india"
-	},
-	{
-		"name": "Indonesia",
-		"code": "ID",
-		"continent": "Asia",
-		"filename": "indonesia"
-	},
-	{
-		"name": "Iran, Islamic Republic Of",
-		"code": "IR",
-		"continent": "Asia",
-		"filename": "iran-islamic-republic-of"
-	},
-	{
-		"name": "Iraq",
-		"code": "IQ",
-		"continent": "Asia",
-		"filename": "iraq"
-	},
-	{
-		"name": "Ireland",
-		"code": "IE",
-		"continent": "Europe",
-		"filename": "ireland"
-	},
-	{
-		"name": "Isle of Man",
-		"continent": "Europe",
-		"code": "IM"
-	},
-	{
-		"name": "Israel",
-		"code": "IL",
-		"continent": "Asia",
-		"filename": "israel"
-	},
-	{
-		"name": "Italy",
-		"code": "IT",
-		"continent": "Europe",
-		"filename": "italy"
-	},
-	{
-		"name": "Jamaica",
-		"code": "JM",
-		"continent": "North America",
-		"filename": "jamaica"
-	},
-	{
-		"name": "Japan",
-		"code": "JP",
-		"continent": "Asia",
-		"filename": "japan"
-	},
-	{
-		"name": "Jersey",
-		"continent": "Europe",        
-		"code": "JE"
-	},
-	{
-		"name": "Jordan",
-		"code": "JO",
-		"continent": "Asia",
-		"filename": "jordan"
-	},
-	{
-		"name": "Kazakhstan",
-		"code": "KZ",
-		"continent": "Europe",
-		"filename": "kazakhstan"
-	},
-	{
-		"name": "Kenya",
-		"code": "KE",
-		"continent": "Africa",
-		"filename": "kenya"
-	},
-	{
-		"name": "Kiribati",
-		"code": "KI",
-		"continent": "Oceania",
-		"filename": "kiribati"
-	},
-	{
-		"name": "Korea, Democratic People's Republic of",
-		"code": "KP",
-		"continent": "Asia",
-		"filename": "korea-democratic-people-s-republic-of"
-	},
-	{
-		"name": "Korea, Republic of",
-		"code": "KR",
-		"continent": "Asia",
-		"filename": "korea-republic-of"
-	},
-	{
-		"name": "Kuwait",
-		"code": "KW",
-		"continent": "Asia",
-		"filename": "kuwait"
-	},
-	{
-		"name": "Kyrgyzstan",
-		"code": "KG",
-		"continent": "Asia",
-		"filename": "kyrgyzstan"
-	},
-	{
-		"name": "Lao People's Democratic Republic",
-		"code": "LA",
-		"continent": "Asia",
-		"filename": "lao-people-s-democratic-republic"
-	},
-	{
-		"name": "Latvia",
-		"code": "LV",
-		"continent": "Europe",
-		"filename": "latvia"
-	},
-	{
-		"name": "Lebanon",
-		"code": "LB",
-		"continent": "Asia",
-		"filename": "lebanon"
-	},
-	{
-		"name": "Lesotho",
-		"code": "LS",
-		"continent": "Africa",
-		"filename": "lesotho"
-	},
-	{
-		"name": "Liberia",
-		"code": "LR",
-		"continent": "Africa",
-		"filename": "liberia"
-	},
-	{
-		"name": "Libyan Arab Jamahiriya",
-		"code": "LY",
-		"continent": "Africa",
-		"filename": "libyan-arab-jamahiriya"
-	},
-	{
-		"name": "Liechtenstein",
-		"code": "LI",
-		"continent": "Europe",
-		"filename": "liechtenstein"
-	},
-	{
-		"name": "Lithuania",
-		"code": "LT",
-		"continent": "Europe",
-		"filename": "lithuania"
-	},
-	{
-		"name": "Luxembourg",
-		"code": "LU",
-		"continent": "Europe",
-		"filename": "luxembourg"
-	},
-	{
-		"name": "Macao",
-		"code": "MO",
-		"continent": "Asia"
-	},
-	{
-		"name": "Macedonia, The Former Yugoslav Republic of",
-		"code": "MK",
-		"continent": "Europe",
-		"filename": "macedonia-the-former-yugoslav-republic-of"
-	},
-	{
-		"name": "Madagascar",
-		"code": "MG",
-		"continent": "Africa",
-		"filename": "madagascar"
-	},
-	{
-		"name": "Malawi",
-		"code": "MW",
-		"continent": "Africa",
-		"filename": "malawi"
-	},
-	{
-		"name": "Malaysia",
-		"code": "MY",
-		"continent": "Asia",
-		"filename": "malaysia"
-	},
-	{
-		"name": "Maldives",
-		"code": "MV",
-		"continent": "Asia",
-		"filename": "maldives"
-	},
-	{
-		"name": "Mali",
-		"code": "ML",
-		"continent": "Africa",
-		"filename": "mali"
-	},
-	{
-		"name": "Malta",
-		"code": "MT",
-		"continent": "Europe",
-		"filename": "malta"
-	},
-	{
-		"name": "Marshall Islands",
-		"code": "MH",
-		"continent": "Oceania",
-		"filename": "marshall-islands"
-	},
-	{
-		"name": "Martinique",
-		"code": "MQ",
-		"continent": "North America"
-	},
-	{
-		"name": "Mauritania",
-		"code": "MR",
-		"continent": "Africa",
-		"filename": "mauritania"
-	},
-	{
-		"name": "Mauritius",
-		"code": "MU",
-		"continent": "Africa",
-		"filename": "mauritius"
-	},
-	{
-		"name": "Mayotte",
-		"code": "YT",
-		"continent": "Africa"
-	},
-	{
-		"name": "Mexico",
-		"code": "MX",
-		"continent": "North America",
-		"filename": "mexico"
-	},
-	{
-		"name": "Micronesia, Federated States of",
-		"code": "FM",
-		"continent": "Oceania",
-		"filename": "micronesia-federated-states-of"
-	},
-	{
-		"name": "Moldova, Republic of",
-		"code": "MD",
-		"continent": "Europe",
-		"filename": "moldova-republic-of"
-	},
-	{
-		"name": "Monaco",
-		"code": "MC",
-		"continent": "Europe",
-		"filename": "monaco"
-	},
-	{
-		"name": "Mongolia",
-		"code": "MN",
-		"continent": "Asia",
-		"filename": "mongolia"
-	},
-	{
-		"name": "Montenegro",
-		"code": "ME",
-		"continent": "Europe",
-		"filename": "montenegro"
-	},
-	{
-		"name": "Montserrat",
-		"code": "MS",
-		"continent": "North America"
-	},
-	{
-		"name": "Morocco",
-		"code": "MA",
-		"continent": "Africa",
-		"filename": "morocco"
-	},
-	{
-		"name": "Mozambique",
-		"code": "MZ",
-		"continent": "Africa",
-		"filename": "mozambique"
-	},
-	{
-		"name": "Myanmar",
-		"code": "MM",
-		"continent": "Asia",
-		"filename": "myanmar"
-	},
-	{
-		"name": "Namibia",
-		"code": "NA",
-		"continent": "Africa",
-		"filename": "namibia"
-	},
-	{
-		"name": "Nauru",
-		"code": "NR",
-		"continent": "Oceania",
-		"filename": "nauru"
-	},
-	{
-		"name": "Nepal",
-		"code": "NP",
-		"continent": "Asia",
-		"filename": "nepal"
-	},
-	{
-		"name": "Netherlands",
-		"code": "NL",
-		"continent": "Europe",
-		"filename": "netherlands"
-	},
-	{
-		"name": "Netherlands Antilles",
-		"code": "AN",
-		"continent": "Europe"
-	},
-	{
-		"name": "New Caledonia",
-		"code": "NC",
-		"continent": "Oceania"
-	},
-	{
-		"name": "New Zealand",
-		"code": "NZ",
-		"continent": "Oceania",
-		"filename": "new-zealand"
-	},
-	{
-		"name": "Nicaragua",
-		"code": "NI",
-		"continent": "North America",
-		"filename": "nicaragua"
-	},
-	{
-		"name": "Niger",
-		"code": "NE",
-		"continent": "Africa",
-		"filename": "niger"
-	},
-	{
-		"name": "Nigeria",
-		"code": "NG",
-		"continent": "Africa",
-		"filename": "nigeria"
-	},
-	{
-		"name": "Niue",
+        "code": "AX",
+        "mobile_code": ""
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "continent": "Europe",
+        "filename": "albania",
+        "mobile_code": "355"
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+        "continent": "Africa",
+        "filename": "algeria",
+        "mobile_code": "213"
+    },
+    {
+        "name": "American Samoa",
+        "code": "AS",
         "continent": "Oceania",
-		"code": "NU"
-	},
-	{
-		"name": "Norfolk Island",
-		"code": "NF",
-		"continent": "Oceania"
-	},
-	{
-		"name": "Northern Mariana Islands",
-		"continent": "Oceania",        
-		"code": "MP"
-	},
-	{
-		"name": "Norway",
-		"code": "NO",
-		"continent": "Europe",
-		"filename": "norway"
-	},
-	{
-		"name": "Oman",
-		"code": "OM",
-		"continent": "Asia",
-		"filename": "oman"
-	},
-	{
-		"name": "Pakistan",
-		"code": "PK",
-		"continent": "Asia",
-		"filename": "pakistan"
-	},
-	{
-		"name": "Palau",
-		"code": "PW",
-		"continent": "Oceania",
-		"filename": "palau"
-	},
-	{
-		"name": "Palestinian Territory, Occupied",
-		"code": "PS",
-		"continent": "Asia",
-		"filename": "palestinian-territory-occupied"
-	},
-	{
-		"name": "Panama",
-		"code": "PA",
-		"continent": "North America",
-		"filename": "panama"
-	},
-	{
-		"name": "Papua New Guinea",
-		"code": "PG",
-		"continent": "Oceania",
-		"filename": "papua-new-guinea"
-	},
-	{
-		"name": "Paraguay",
-		"code": "PY",
-		"continent": "South America",
-		"filename": "paraguay"
-	},
-	{
-		"name": "Peru",
-		"code": "PE",
-		"continent": "South America",
-		"filename": "peru"
-	},
-	{
-		"name": "Philippines",
-		"code": "PH",
-		"continent": "Asia",
-		"filename": "philippines"
-	},
-	{
-		"name": "Pitcairn",
-		"continent": "Oceania",
-		"code": "PN"
-	},
-	{
-		"name": "Poland",
-		"code": "PL",
-		"continent": "Europe",
-		"filename": "poland"
-	},
-	{
-		"name": "Portugal",
-		"code": "PT",
-		"continent": "Europe",
-		"filename": "portugal"
-	},
-	{
-		"name": "Puerto Rico",
-		"code": "PR",
-		"continent": "North America"
-	},
-	{
-		"name": "Qatar",
-		"code": "QA",
-		"continent": "Asia",
-		"filename": "qatar"
-	},
-	{
-		"name": "Réunion",
-		"code": "RE",
-		"continent": "Africa"
-	},
-	{
-		"name": "Romania",
-		"code": "RO",
-		"continent": "Europe",
-		"filename": "romania"
-	},
-	{
-		"name": "Russian Federation",
-		"code": "RU",
-		"continent": "Europe",
-		"filename": "russian-federation"
-	},
-	{
-		"name": "Rwanda",
-		"code": "RW",
-		"continent": "Africa",
-		"filename": "rwanda"
-	},
-	{
-		"name": "Saint Helena, Ascension and Tristan da Cunha",
-		"code": "SH",
-		"continent": "Africa",
-		"filename": "saint-helena-ascension-and-tristan-da-cunha"
-	},
-	{
-		"name": "Saint Kitts and Nevis",
-		"code": "KN",
-		"continent": "North America",
-		"filename": "saint-kitts-and-nevis"
-	},
-	{
-		"name": "Saint Lucia",
-		"code": "LC",
-		"continent": "North America",
-		"filename": "saint-lucia"
-	},
-	{
-		"name": "Saint Pierre and Miquelon",
-		"code": "PM",
-		"continent": "North America"
-	},
-	{
-		"name": "Saint Vincent and the Grenadines",
-		"code": "VC",
-		"continent": "North America",
-		"filename": "saint-vincent-and-the-grenadines"
-	},
-	{
-		"name": "Samoa",
-		"code": "WS",
-		"continent": "Oceania",
-		"filename": "samoa"
-	},
-	{
-		"name": "San Marino",
-		"code": "SM",
-		"continent": "Europe",
-		"filename": "san-marino"
-	},
-	{
-		"name": "São Tomé and Príncipe",
-		"code": "ST",
-		"continent": "Africa",
-		"filename": "sao-tome-and-principe"
-	},
-	{
-		"name": "Saudi Arabia",
-		"code": "SA",
-		"continent": "Asia",
-		"filename": "saudi-arabia"
-	},
-	{
-		"name": "Senegal",
-		"code": "SN",
-		"continent": "Africa",
-		"filename": "senegal"
-	},
-	{
-		"name": "Serbia",
-		"code": "RS",
-		"continent": "Europe",
-		"filename": "serbia"
-	},
-	{
-		"name": "Seychelles",
-		"code": "SC",
-		"continent": "Africa",
-		"filename": "seychelles"
-	},
-	{
-		"name": "Sierra Leone",
-		"code": "SL",
-		"continent": "Africa",
-		"filename": "sierra-leone"
-	},
-	{
-		"name": "Singapore",
-		"code": "SG",
-		"continent": "Asia",
-		"filename": "singapore"
-	},
-	{
-		"name": "Sint Maarten",
-		"code": "SX",
-		"continent": "Europe"
-	},
-	{
-		"name": "Slovakia",
-		"code": "SK",
-		"continent": "Europe",
-		"filename": "slovakia"
-	},
-	{
-		"name": "Slovenia",
-		"code": "SI",
-		"continent": "Europe",
-		"filename": "slovenia"
-	},
-	{
-		"name": "Solomon Islands",
-		"code": "SB",
-		"continent": "Oceania",
-		"filename": "solomon-islands"
-	},
-	{
-		"name": "Somalia",
-		"code": "SO",
-		"continent": "Africa",
-		"filename": "somalia"
-	},
-	{
-		"name": "South Africa",
-		"code": "ZA",
-		"continent": "Africa",
-		"filename": "south-africa"
-	},
-	{
-		"name": "South Georgia and the South Sandwich Islands",
-		"code": "GS",
-		"continent": "South America"
-	},
-	{
-		"name": "South Sudan",
-		"code": "SS",
-		"continent": "Africa",
-		"filename": "south-sudan"
-	},
-	{
-		"name": "Spain",
-		"code": "ES",
-		"continent": "Europe",
-		"filename": "spain"
-	},
-	{
-		"name": "Sri Lanka",
-		"code": "LK",
-		"continent": "Asia",
-		"filename": "sri-lanka"
-	},
-	{
-		"name": "Sudan",
-		"code": "SD",
-		"continent": "Africa",
-		"filename": "sudan"
-	},
-	{
-		"name": "Suriname",
-		"code": "SR",
-		"continent": "South America",
-		"filename": "suriname"
-	},
-	{
-		"name": "Svalbard and Jan Mayen",
-		"continent": "Europe",
-		"code": "SJ"
-	},
-	{
-		"name": "Swaziland",
-		"code": "SZ",
-		"continent": "Africa",
-		"filename": "swaziland"
-	},
-	{
-		"name": "Sweden",
-		"code": "SE",
-		"continent": "Europe",
-		"filename": "sweden"
-	},
-	{
-		"name": "Switzerland",
-		"code": "CH",
-		"continent": "Europe",
-		"filename": "switzerland"
-	},
-	{
-		"name": "Syrian Arab Republic",
-		"code": "SY",
-		"continent": "Asia",
-		"filename": "syrian-arab-republic"
-	},
-	{
-		"name": "Taiwan, Province of China",
-		"code": "TW",
-		"continent": "Asia",
-		"filename": "taiwan-province-of-china"
-	},
-	{
-		"name": "Tajikistan",
-		"code": "TJ",
-		"continent": "Asia",
-		"filename": "tajikistan"
-	},
-	{
-		"name": "Tanzania, United Republic of",
-		"code": "TZ",
-		"continent": "Africa",
-		"filename": "tanzania-united-republic-of"
-	},
-	{
-		"name": "Thailand",
-		"code": "TH",
-		"continent": "Asia",
-		"filename": "thailand"
-	},
-	{
-		"name": "Timor-Leste",
-		"code": "TL",
-		"continent": "Oceania",
-		"filename": "timor-leste"
-	},
-	{
-		"name": "Togo",
-		"code": "TG",
-		"continent": "Africa",
-		"filename": "togo"
-	},
-	{
-		"name": "Tokelau",
-		"continent": "Oceania",        
-		"code": "TK"
-	},
-	{
-		"name": "Tonga",
-		"code": "TO",
-		"continent": "Oceania",
-		"filename": "tonga"
-	},
-	{
-		"name": "Trinidad and Tobago",
-		"code": "TT",
-		"continent": "North America",
-		"filename": "trinidad-and-tobago"
-	},
-	{
-		"name": "Tunisia",
-		"code": "TN",
-		"continent": "Africa",
-		"filename": "tunisia"
-	},
-	{
-		"name": "Turkey",
-		"code": "TR",
-		"continent": "Europe",
-		"filename": "turkey"
-	},
-	{
-		"name": "Turkmenistan",
-		"code": "TM",
-		"continent": "Asia",
-		"filename": "turkmenistan"
-	},
-	{
-		"name": "Turks and Caicos Islands",
-		"code": "TC",
-		"continent": "North America"
-	},
-	{
-		"name": "Tuvalu",
-		"code": "TV",
-		"continent": "Oceania",
-		"filename": "tuvalu"
-	},
-	{
-		"name": "Uganda",
-		"code": "UG",
-		"continent": "Africa",
-		"filename": "uganda"
-	},
-	{
-		"name": "Ukraine",
-		"code": "UA",
-		"continent": "Europe",
-		"filename": "ukraine"
-	},
-	{
-		"name": "United Arab Emirates",
-		"code": "AE",
-		"continent": "Asia",
-		"filename": "united-arab-emirates"
-	},
-	{
-		"name": "United Kingdom",
-		"code": "GB",
-		"continent": "Europe",
-		"filename": "united-kingdom"
-	},
-	{
-		"name": "United States",
-		"code": "US",
-		"continent": "North America",
-		"filename": "united-states"
-	},
-	{
-		"name": "United States Minor Outlying Islands",
-		"code": "UM",
-		"continent": "North America",
-		"filename": "united-states-minor-outlying-islands"
-	},
-	{
-		"name": "Uruguay",
-		"code": "UY",
-		"continent": "South America",
-		"filename": "uruguay"
-	},
-	{
-		"name": "Uzbekistan",
-		"code": "UZ",
-		"continent": "Asia",
-		"filename": "uzbekistan"
-	},
-	{
-		"name": "Vanuatu",
-		"code": "VU",
-		"continent": "Oceania",
-		"filename": "vanuatu"
-	},
-	{
-		"name": "Venezuela",
-		"code": "VE",
-		"continent": "South America",
-		"filename": "venezuela"
-	},
-	{
-		"name": "Viet Nam",
-		"code": "VN",
-		"continent": "Asia",
-		"filename": "viet-nam"
-	},
-	{
-		"name": "Virgin Islands, British",
-		"code": "VG",
-		"continent": "North America"
-	},
-	{
-		"name": "Virgin Islands, U.S.",
-		"code": "VI",
-		"continent": "North America"
-	},
-	{
-		"name": "Wallis and Futuna",
+        "mobile_code": ""
+    },
+    {
+        "name": "Andorra",
+        "code": "AD",
+        "continent": "Europe",
+        "filename": "andorra",
+        "mobile_code": "376"
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+        "continent": "Africa",
+        "filename": "angola",
+        "mobile_code": "244"
+    },
+    {
+        "name": "Anguilla",
+        "code": "AI",
+        "continent": "North America",
+        "mobile_code": ""
+    },
+    {
+        "name": "Antarctica",
+        "continent": "Antarctica",
+        "code": "AQ",
+        "mobile_code": ""
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "continent": "North America",
+        "filename": "antigua-and-barbuda",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+        "continent": "South America",
+        "filename": "argentina",
+        "mobile_code": "54"
+    },
+    {
+        "name": "Armenia",
+        "code": "AM",
+        "continent": "Europe",
+        "filename": "armenia",
+        "mobile_code": "374"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW",
+        "continent": "Europe",
+        "mobile_code": ""
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
         "continent": "Oceania",
-		"code": "WF"
-	},
-	{
-		"name": "Western Sahara",
-		"continent": "Africa",        
-		"code": "EH"
-	},
-	{
-		"name": "Yemen",
-		"code": "YE",
-		"continent": "Asia",
-		"filename": "yemen"
-	},
-	{
-		"name": "Zambia",
-		"code": "ZM",
-		"continent": "Africa",
-		"filename": "zambia"
-	},
-	{
-		"name": "Zimbabwe",
-		"code": "ZW",
-		"continent": "Africa",
-		"filename": "zimbabwe"
-	}
+        "filename": "australia",
+        "mobile_code": "61"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "continent": "Europe",
+        "filename": "austria",
+        "mobile_code": "43"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "continent": "Europe",
+        "filename": "azerbaijan",
+        "mobile_code": "994"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS",
+        "continent": "North America",
+        "filename": "bahamas",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Bahrain",
+        "code": "BH",
+        "continent": "Asia",
+        "filename": "bahrain",
+        "mobile_code": "973"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD",
+        "continent": "Asia",
+        "filename": "bangladesh",
+        "mobile_code": "880"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB",
+        "continent": "North America",
+        "filename": "barbados",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+        "continent": "Europe",
+        "filename": "belarus",
+        "mobile_code": "375"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "continent": "Europe",
+        "filename": "belgium",
+        "mobile_code": "32"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ",
+        "continent": "North America",
+        "filename": "belize",
+        "mobile_code": "501"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ",
+        "continent": "Africa",
+        "filename": "benin",
+        "mobile_code": "229"
+    },
+    {
+        "name": "Bermuda",
+        "code": "BM",
+        "continent": "North America",
+        "filename": "bermuda",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Bhutan",
+        "code": "BT",
+        "continent": "Asia",
+        "filename": "bhutan",
+        "mobile_code": "975"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "code": "BO",
+        "continent": "South America",
+        "filename": "bolivia",
+        "mobile_code": "591"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "code": "BQ",
+        "continent": "North America",
+        "mobile_code": ""
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "continent": "Europe",
+        "filename": "bosnia-and-herzegovina",
+        "mobile_code": "387"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+        "continent": "Africa",
+        "filename": "botswana",
+        "mobile_code": "267"
+    },
+    {
+        "name": "Bouvet Island",
+        "continent": "Antarctica",
+        "code": "BV",
+        "mobile_code": ""
+    },
+    {
+        "name": "Brazil",
+        "code": "BR",
+        "continent": "South America",
+        "filename": "brazil",
+        "mobile_code": "55"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+        "continent": "Asia",
+        "mobile_code": ""
+    },
+    {
+        "name": "Brunei Darussalam",
+        "code": "BN",
+        "continent": "Asia",
+        "filename": "brunei",
+        "mobile_code": "673"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "BG",
+        "continent": "Europe",
+        "filename": "bulgaria",
+        "mobile_code": "359"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF",
+        "continent": "Africa",
+        "filename": "burkina-faso",
+        "mobile_code": "226"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI",
+        "continent": "Africa",
+        "filename": "burundi",
+        "mobile_code": "257"
+    },
+    {
+        "name": "Cabo Verde",
+        "code": "CV",
+        "continent": "Africa",
+        "filename": "cabo-verde",
+        "mobile_code": "238"
+    },
+    {
+        "name": "Cambodia",
+        "code": "KH",
+        "continent": "Asia",
+        "filename": "cambodia",
+        "mobile_code": "855"
+    },
+    {
+        "name": "Cameroon",
+        "code": "CM",
+        "continent": "Africa",
+        "filename": "cameroon",
+        "mobile_code": "237"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "continent": "North America",
+        "filename": "canada",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Cayman Islands",
+        "code": "KY",
+        "continent": "North America",
+        "filename": "cayman-islands",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Central African Republic",
+        "code": "CF",
+        "continent": "Africa",
+        "filename": "central-african-republic",
+        "mobile_code": "236"
+    },
+    {
+        "name": "Chad",
+        "code": "TD",
+        "continent": "Africa",
+        "filename": "chad",
+        "mobile_code": "235"
+    },
+    {
+        "name": "Chile",
+        "code": "CL",
+        "continent": "South America",
+        "filename": "chile",
+        "mobile_code": "56"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "continent": "Asia",
+        "filename": "china",
+        "mobile_code": "86"
+    },
+    {
+        "name": "Christmas Island",
+        "continent": "Oceania",
+        "code": "CX",
+        "mobile_code": ""
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "continent": "Oceania",
+        "code": "CC",
+        "mobile_code": ""
+    },
+    {
+        "name": "Colombia",
+        "code": "CO",
+        "continent": "South America",
+        "filename": "colombia",
+        "mobile_code": "57"
+    },
+    {
+        "name": "Comoros",
+        "code": "KM",
+        "continent": "Africa",
+        "filename": "comoros",
+        "mobile_code": "269"
+    },
+    {
+        "name": "Congo (Republic of the)",
+        "code": "CG",
+        "continent": "Africa",
+        "filename": "congo-republic",
+        "mobile_code": "242"
+    },
+    {
+        "name": "Congo (Democratic Republic of the)",
+        "code": "CD",
+        "continent": "Africa",
+        "filename": "congo-democratic-republic",
+        "mobile_code": "243"
+    },
+    {
+        "name": "Cook Islands",
+        "continent": "Oceania",
+        "code": "CK",
+        "mobile_code": ""
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR",
+        "continent": "North America",
+        "filename": "costa-rica",
+        "mobile_code": "506"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "code": "CI",
+        "continent": "Africa",
+        "filename": "cote-divoire",
+        "mobile_code": "225"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+        "continent": "Europe",
+        "filename": "croatia",
+        "mobile_code": "385"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU",
+        "continent": "North America",
+        "filename": "cuba",
+        "mobile_code": "53"
+    },
+    {
+        "name": "Curaçao",
+        "code": "CW",
+        "continent": "North America",
+        "mobile_code": ""
+    },
+    {
+        "name": "Cyprus",
+        "code": "CY",
+        "continent": "Asia",
+        "filename": "cyprus",
+        "mobile_code": "357"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "continent": "Europe",
+        "filename": "czech-republic",
+        "mobile_code": "420"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+        "continent": "Europe",
+        "filename": "denmark",
+        "mobile_code": "45"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ",
+        "continent": "Africa",
+        "filename": "djibouti",
+        "mobile_code": "253"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM",
+        "continent": "North America",
+        "filename": "dominica",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Dominican Republic",
+        "code": "DO",
+        "continent": "North America",
+        "filename": "dominican-republic",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Ecuador",
+        "code": "EC",
+        "continent": "South America",
+        "filename": "ecuador",
+        "mobile_code": "593"
+    },
+    {
+        "name": "Egypt",
+        "code": "EG",
+        "continent": "Africa",
+        "filename": "egypt",
+        "mobile_code": "20"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV",
+        "continent": "North America",
+        "filename": "el-salvador",
+        "mobile_code": "503"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "continent": "Africa",
+        "filename": "equatorial-guinea",
+        "mobile_code": "240"
+    },
+    {
+        "name": "Eritrea",
+        "code": "ER",
+        "continent": "Africa",
+        "filename": "eritrea",
+        "mobile_code": "291"
+    },
+    {
+        "name": "Estonia",
+        "code": "EE",
+        "continent": "Europe",
+        "filename": "estonia",
+        "mobile_code": "372"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "ET",
+        "continent": "Africa",
+        "filename": "ethiopia",
+        "mobile_code": "251"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "continent": "South America",
+        "filename": "falkland-islands",
+        "mobile_code": "500"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "continent": "Europe",
+        "filename": "faroe-islands",
+        "mobile_code": "298"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ",
+        "continent": "Oceania",
+        "filename": "fiji",
+        "mobile_code": "679"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+        "continent": "Europe",
+        "filename": "finland",
+        "mobile_code": "358"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "continent": "Europe",
+        "filename": "france",
+        "mobile_code": "33"
+    },
+    {
+        "name": "French Guiana",
+        "code": "GF",
+        "continent": "South America",
+        "filename": "french-guiana",
+        "mobile_code": "594"
+    },
+    {
+        "name": "French Polynesia",
+        "code": "PF",
+        "continent": "Oceania",
+        "filename": "french-polynesia",
+        "mobile_code": "689"
+    },
+    {
+        "name": "French Southern Territories",
+        "continent": "Antarctica",
+        "code": "TF",
+        "mobile_code": ""
+    },
+    {
+        "name": "Gabon",
+        "code": "GA",
+        "continent": "Africa",
+        "filename": "gabon",
+        "mobile_code": "241"
+    },
+    {
+        "name": "Gambia",
+        "code": "GM",
+        "continent": "Africa",
+        "filename": "gambia",
+        "mobile_code": "220"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+        "continent": "Europe",
+        "filename": "georgia",
+        "mobile_code": "995"
+    },
+    {
+        "name": "Germany",
+        "code": "DE",
+        "continent": "Europe",
+        "filename": "germany",
+        "mobile_code": "49"
+    },
+    {
+        "name": "Ghana",
+        "code": "GH",
+        "continent": "Africa",
+        "filename": "ghana",
+        "mobile_code": "233"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI",
+        "continent": "Europe",
+        "filename": "gibraltar",
+        "mobile_code": "350"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+        "continent": "Europe",
+        "filename": "greece",
+        "mobile_code": "30"
+    },
+    {
+        "name": "Greenland",
+        "code": "GL",
+        "continent": "North America",
+        "filename": "greenland",
+        "mobile_code": "299"
+    },
+    {
+        "name": "Grenada",
+        "code": "GD",
+        "continent": "North America",
+        "filename": "grenada",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "continent": "North America",
+        "filename": "guadeloupe",
+        "mobile_code": "590"
+    },
+    {
+        "name": "Guam",
+        "code": "GU",
+        "continent": "Oceania",
+        "filename": "guam",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT",
+        "continent": "North America",
+        "filename": "guatemala",
+        "mobile_code": "502"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "continent": "Europe",
+        "filename": "guernsey",
+        "mobile_code": "44"
+    },
+    {
+        "name": "Guinea",
+        "code": "GN",
+        "continent": "Africa",
+        "filename": "guinea",
+        "mobile_code": "224"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "continent": "Africa",
+        "filename": "guinea-bissau",
+        "mobile_code": "245"
+    },
+    {
+        "name": "Guyana",
+        "code": "GY",
+        "continent": "South America",
+        "filename": "guyana",
+        "mobile_code": "592"
+    },
+    {
+        "name": "Haiti",
+        "code": "HT",
+        "continent": "North America",
+        "filename": "haiti",
+        "mobile_code": "509"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "continent": "Antarctica",
+        "code": "HM",
+        "mobile_code": ""
+    },
+    {
+        "name": "Holy See",
+        "code": "VA",
+        "continent": "Europe",
+        "filename": "holy-see",
+        "mobile_code": "39"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN",
+        "continent": "North America",
+        "filename": "honduras",
+        "mobile_code": "504"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK",
+        "continent": "Asia",
+        "filename": "hong-kong",
+        "mobile_code": "852"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+        "continent": "Europe",
+        "filename": "hungary",
+        "mobile_code": "36"
+    },
+    {
+        "name": "Iceland",
+        "code": "IS",
+        "continent": "Europe",
+        "filename": "iceland",
+        "mobile_code": "354"
+    },
+    {
+        "name": "India",
+        "code": "IN",
+        "continent": "Asia",
+        "filename": "india",
+        "mobile_code": "91"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "continent": "Asia",
+        "filename": "indonesia",
+        "mobile_code": "62"
+    },
+    {
+        "name": "Iran (Islamic Republic of)",
+        "code": "IR",
+        "continent": "Asia",
+        "filename": "iran",
+        "mobile_code": "98"
+    },
+    {
+        "name": "Iraq",
+        "code": "IQ",
+        "continent": "Asia",
+        "filename": "iraq",
+        "mobile_code": "964"
+    },
+    {
+        "name": "Ireland",
+        "code": "IE",
+        "continent": "Europe",
+        "filename": "ireland",
+        "mobile_code": "353"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "continent": "Europe",
+        "filename": "isle-of-man",
+        "mobile_code": "44"
+    },
+    {
+        "name": "Israel",
+        "code": "IL",
+        "continent": "Asia",
+        "filename": "israel",
+        "mobile_code": "972"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "continent": "Europe",
+        "filename": "italy",
+        "mobile_code": "39"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM",
+        "continent": "North America",
+        "filename": "jamaica",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "continent": "Asia",
+        "filename": "japan",
+        "mobile_code": "81"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "continent": "Europe",
+        "filename": "jersey",
+        "mobile_code": "44"
+    },
+    {
+        "name": "Jordan",
+        "code": "JO",
+        "continent": "Asia",
+        "filename": "jordan",
+        "mobile_code": "962"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "continent": "Asia",
+        "filename": "kazakhstan",
+        "mobile_code": "7"
+    },
+    {
+        "name": "Kenya",
+        "code": "KE",
+        "continent": "Africa",
+        "filename": "kenya",
+        "mobile_code": "254"
+    },
+    {
+        "name": "Kiribati",
+        "continent": "Oceania",
+        "code": "KI",
+        "mobile_code": ""
+    },
+    {
+        "name": "Korea (Democratic People's Republic of)",
+        "code": "KP",
+        "continent": "Asia",
+        "filename": "korea-north",
+        "mobile_code": "850"
+    },
+    {
+        "name": "Korea (Republic of)",
+        "code": "KR",
+        "continent": "Asia",
+        "filename": "korea-south",
+        "mobile_code": "82"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW",
+        "continent": "Asia",
+        "filename": "kuwait",
+        "mobile_code": "965"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "continent": "Asia",
+        "filename": "kyrgyzstan",
+        "mobile_code": "996"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "code": "LA",
+        "continent": "Asia",
+        "filename": "lao",
+        "mobile_code": "856"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "continent": "Europe",
+        "filename": "latvia",
+        "mobile_code": "371"
+    },
+    {
+        "name": "Lebanon",
+        "code": "LB",
+        "continent": "Asia",
+        "filename": "lebanon",
+        "mobile_code": "961"
+    },
+    {
+        "name": "Lesotho",
+        "code": "LS",
+        "continent": "Africa",
+        "filename": "lesotho",
+        "mobile_code": "266"
+    },
+    {
+        "name": "Liberia",
+        "code": "LR",
+        "continent": "Africa",
+        "filename": "liberia",
+        "mobile_code": "231"
+    },
+    {
+        "name": "Libya",
+        "code": "LY",
+        "continent": "Africa",
+        "filename": "libya",
+        "mobile_code": "218"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "continent": "Europe",
+        "filename": "liechtenstein",
+        "mobile_code": "423"
+    },
+    {
+        "name": "Lithuania",
+        "code": "LT",
+        "continent": "Europe",
+        "filename": "lithuania",
+        "mobile_code": "370"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LU",
+        "continent": "Europe",
+        "filename": "luxembourg",
+        "mobile_code": "352"
+    },
+    {
+        "name": "Macao",
+        "code": "MO",
+        "continent": "Asia",
+        "filename": "macao",
+        "mobile_code": "853"
+    },
+    {
+        "name": "Macedonia (the former Yugoslav Republic of)",
+        "code": "MK",
+        "continent": "Europe",
+        "filename": "macedonia",
+        "mobile_code": "389"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG",
+        "continent": "Africa",
+        "filename": "madagascar",
+        "mobile_code": "261"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW",
+        "continent": "Africa",
+        "filename": "malawi",
+        "mobile_code": "265"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "continent": "Asia",
+        "filename": "malaysia",
+        "mobile_code": "60"
+    },
+    {
+        "name": "Maldives",
+        "code": "MV",
+        "continent": "Asia",
+        "filename": "maldives",
+        "mobile_code": "960"
+    },
+    {
+        "name": "Mali",
+        "code": "ML",
+        "continent": "Africa",
+        "filename": "mali",
+        "mobile_code": "223"
+    },
+    {
+        "name": "Malta",
+        "code": "MT",
+        "continent": "Europe",
+        "filename": "malta",
+        "mobile_code": "356"
+    },
+    {
+        "name": "Marshall Islands",
+        "continent": "Oceania",
+        "code": "MH",
+        "mobile_code": ""
+    },
+    {
+        "name": "Martinique",
+        "code": "MQ",
+        "continent": "North America",
+        "filename": "martinique",
+        "mobile_code": "596"
+    },
+    {
+        "name": "Mauritania",
+        "code": "MR",
+        "continent": "Africa",
+        "filename": "mauritania",
+        "mobile_code": "222"
+    },
+    {
+        "name": "Mauritius",
+        "code": "MU",
+        "continent": "Africa",
+        "filename": "mauritius",
+        "mobile_code": "230"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "continent": "Africa",
+        "filename": "mayotte",
+        "mobile_code": "262"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "continent": "North America",
+        "filename": "mexico",
+        "mobile_code": "52"
+    },
+    {
+        "name": "Micronesia (Federated States of)",
+        "continent": "Oceania",
+        "code": "FM",
+        "mobile_code": ""
+    },
+    {
+        "name": "Moldova (Republic of)",
+        "code": "MD",
+        "continent": "Europe",
+        "filename": "moldova",
+        "mobile_code": "373"
+    },
+    {
+        "name": "Monaco",
+        "code": "MC",
+        "continent": "Europe",
+        "filename": "monaco",
+        "mobile_code": "377"
+    },
+    {
+        "name": "Mongolia",
+        "code": "MN",
+        "continent": "Asia",
+        "filename": "mongolia",
+        "mobile_code": "976"
+    },
+    {
+        "name": "Montenegro",
+        "code": "ME",
+        "continent": "Europe",
+        "filename": "montenegro",
+        "mobile_code": "382"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS",
+        "continent": "North America",
+        "filename": "montserrat",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "continent": "Africa",
+        "filename": "morocco",
+        "mobile_code": "212"
+    },
+    {
+        "name": "Mozambique",
+        "code": "MZ",
+        "continent": "Africa",
+        "filename": "mozambique",
+        "mobile_code": "258"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM",
+        "continent": "Asia",
+        "filename": "myanmar",
+        "mobile_code": "95"
+    },
+    {
+        "name": "Namibia",
+        "code": "NA",
+        "continent": "Africa",
+        "filename": "namibia",
+        "mobile_code": "264"
+    },
+    {
+        "name": "Nauru",
+        "continent": "Oceania",
+        "code": "NR",
+        "mobile_code": ""
+    },
+    {
+        "name": "Nepal",
+        "code": "NP",
+        "continent": "Asia",
+        "filename": "nepal",
+        "mobile_code": "977"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "continent": "Europe",
+        "filename": "netherlands",
+        "mobile_code": "31"
+    },
+    {
+        "name": "New Caledonia",
+        "continent": "Oceania",
+        "code": "NC",
+        "mobile_code": ""
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ",
+        "continent": "Oceania",
+        "filename": "new-zealand",
+        "mobile_code": "64"
+    },
+    {
+        "name": "Nicaragua",
+        "code": "NI",
+        "continent": "North America",
+        "filename": "nicaragua",
+        "mobile_code": "505"
+    },
+    {
+        "name": "Niger",
+        "code": "NE",
+        "continent": "Africa",
+        "filename": "niger",
+        "mobile_code": "227"
+    },
+    {
+        "name": "Nigeria",
+        "code": "NG",
+        "continent": "Africa",
+        "filename": "nigeria",
+        "mobile_code": "234"
+    },
+    {
+        "name": "Niue",
+        "continent": "Oceania",
+        "code": "NU",
+        "mobile_code": ""
+    },
+    {
+        "name": "Norfolk Island",
+        "continent": "Oceania",
+        "code": "NF",
+        "mobile_code": ""
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "continent": "Oceania",
+        "code": "MP",
+        "mobile_code": ""
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "continent": "Europe",
+        "filename": "norway",
+        "mobile_code": "47"
+    },
+    {
+        "name": "Oman",
+        "code": "OM",
+        "continent": "Asia",
+        "filename": "oman",
+        "mobile_code": "968"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PK",
+        "continent": "Asia",
+        "filename": "pakistan",
+        "mobile_code": "92"
+    },
+    {
+        "name": "Palau",
+        "continent": "Oceania",
+        "code": "PW",
+        "mobile_code": ""
+    },
+    {
+        "name": "Palestine, State of",
+        "code": "PS",
+        "continent": "Asia",
+        "filename": "palestine",
+        "mobile_code": "970"
+    },
+    {
+        "name": "Panama",
+        "code": "PA",
+        "continent": "North America",
+        "filename": "panama",
+        "mobile_code": "507"
+    },
+    {
+        "name": "Papua New Guinea",
+        "continent": "Oceania",
+        "code": "PG",
+        "mobile_code": "675"
+    },
+    {
+        "name": "Paraguay",
+        "code": "PY",
+        "continent": "South America",
+        "filename": "paraguay",
+        "mobile_code": "595"
+    },
+    {
+        "name": "Peru",
+        "code": "PE",
+        "continent": "South America",
+        "filename": "peru",
+        "mobile_code": "51"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH",
+        "continent": "Asia",
+        "filename": "philippines",
+        "mobile_code": "63"
+    },
+    {
+        "name": "Pitcairn",
+        "continent": "Oceania",
+        "code": "PN",
+        "mobile_code": ""
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "continent": "Europe",
+        "filename": "poland",
+        "mobile_code": "48"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "continent": "Europe",
+        "filename": "portugal",
+        "mobile_code": "351"
+    },
+    {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "continent": "North America",
+        "filename": "puerto-rico",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Qatar",
+        "code": "QA",
+        "continent": "Asia",
+        "filename": "qatar",
+        "mobile_code": "974"
+    },
+    {
+        "name": "Réunion",
+        "code": "RE",
+        "continent": "Africa",
+        "filename": "reunion",
+        "mobile_code": "262"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "continent": "Europe",
+        "filename": "romania",
+        "mobile_code": "40"
+    },
+    {
+        "name": "Russian Federation",
+        "code": "RU",
+        "continent": "Europe",
+        "filename": "russia",
+        "mobile_code": "7"
+    },
+    {
+        "name": "Rwanda",
+        "code": "RW",
+        "continent": "Africa",
+        "filename": "rwanda",
+        "mobile_code": "250"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "code": "BL",
+        "continent": "North America",
+        "filename": "saint-barthelemy",
+        "mobile_code": "590"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "continent": "Africa",
+        "code": "SH",
+        "mobile_code": ""
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "continent": "North America",
+        "filename": "saint-kitts-and-nevis",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "continent": "North America",
+        "filename": "saint-lucia",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "code": "MF",
+        "continent": "North America",
+        "filename": "saint-martin",
+        "mobile_code": "590"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "continent": "North America",
+        "code": "PM",
+        "mobile_code": "508"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "continent": "North America",
+        "filename": "saint-vincent-and-the-grenadines",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Samoa",
+        "continent": "Oceania",
+        "code": "WS",
+        "mobile_code": "685"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM",
+        "continent": "Europe",
+        "filename": "san-marino",
+        "mobile_code": "378"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "continent": "Africa",
+        "filename": "sao-tome-and-principe",
+        "mobile_code": "239"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "continent": "Asia",
+        "filename": "saudi-arabia",
+        "mobile_code": "966"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN",
+        "continent": "Africa",
+        "filename": "senegal",
+        "mobile_code": "221"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "continent": "Europe",
+        "filename": "serbia",
+        "mobile_code": "381"
+    },
+    {
+        "name": "Seychelles",
+        "code": "SC",
+        "continent": "Africa",
+        "filename": "seychelles",
+        "mobile_code": "248"
+    },
+    {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "continent": "Africa",
+        "filename": "sierra-leone",
+        "mobile_code": "232"
+    },
+    {
+        "name": "Singapore",
+        "code": "SG",
+        "continent": "Asia",
+        "filename": "singapore",
+        "mobile_code": "65"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "code": "SX",
+        "continent": "North America",
+        "filename": "sint-maarten",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "continent": "Europe",
+        "filename": "slovakia",
+        "mobile_code": "421"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "continent": "Europe",
+        "filename": "slovenia",
+        "mobile_code": "386"
+    },
+    {
+        "name": "Solomon Islands",
+        "continent": "Oceania",
+        "code": "SB",
+        "mobile_code": "677"
+    },
+    {
+        "name": "Somalia",
+        "code": "SO",
+        "continent": "Africa",
+        "filename": "somalia",
+        "mobile_code": "252"
+    },
+    {
+        "name": "South Africa",
+        "code": "ZA",
+        "continent": "Africa",
+        "filename": "south-africa",
+        "mobile_code": "27"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "continent": "Antarctica",
+        "code": "GS",
+        "mobile_code": ""
+    },
+    {
+        "name": "South Sudan",
+        "code": "SS",
+        "continent": "Africa",
+        "filename": "south-sudan",
+        "mobile_code": "211"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "continent": "Europe",
+        "filename": "spain",
+        "mobile_code": "34"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "continent": "Asia",
+        "filename": "sri-lanka",
+        "mobile_code": "94"
+    },
+    {
+        "name": "Sudan",
+        "code": "SD",
+        "continent": "Africa",
+        "filename": "sudan",
+        "mobile_code": "249"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR",
+        "continent": "South America",
+        "filename": "suriname",
+        "mobile_code": "597"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "continent": "Europe",
+        "code": "SJ",
+        "mobile_code": ""
+    },
+    {
+        "name": "Sweden",
+        "code": "SE",
+        "continent": "Europe",
+        "filename": "sweden",
+        "mobile_code": "46"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "continent": "Europe",
+        "filename": "switzerland",
+        "mobile_code": "41"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "continent": "Asia",
+        "filename": "syria",
+        "mobile_code": "963"
+    },
+    {
+        "name": "Taiwan",
+        "code": "TW",
+        "continent": "Asia",
+        "filename": "taiwan",
+        "mobile_code": "886"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "continent": "Asia",
+        "filename": "tajikistan",
+        "mobile_code": "992"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "code": "TZ",
+        "continent": "Africa",
+        "filename": "tanzania",
+        "mobile_code": "255"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "continent": "Asia",
+        "filename": "thailand",
+        "mobile_code": "66"
+    },
+    {
+        "name": "Timor-Leste",
+        "continent": "Asia",
+        "code": "TL",
+        "mobile_code": "670"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "continent": "Africa",
+        "filename": "togo",
+        "mobile_code": "228"
+    },
+    {
+        "name": "Tokelau",
+        "continent": "Oceania",
+        "code": "TK",
+        "mobile_code": ""
+    },
+    {
+        "name": "Tonga",
+        "continent": "Oceania",
+        "code": "TO",
+        "mobile_code": "676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "continent": "North America",
+        "filename": "trinidad-and-tobago",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "continent": "Africa",
+        "filename": "tunisia",
+        "mobile_code": "216"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "continent": "Asia",
+        "filename": "turkey",
+        "mobile_code": "90"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "continent": "Asia",
+        "filename": "turkmenistan",
+        "mobile_code": "993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "continent": "North America",
+        "code": "TC",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Tuvalu",
+        "continent": "Oceania",
+        "code": "TV",
+        "mobile_code": "688"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG",
+        "continent": "Africa",
+        "filename": "uganda",
+        "mobile_code": "256"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "continent": "Europe",
+        "filename": "ukraine",
+        "mobile_code": "380"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "continent": "Asia",
+        "filename": "united-arab-emirates",
+        "mobile_code": "971"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB",
+        "continent": "Europe",
+        "filename": "united-kingdom",
+        "mobile_code": "44"
+    },
+    {
+        "name": "United States of America",
+        "code": "US",
+        "continent": "North America",
+        "filename": "united-states",
+        "mobile_code": "1"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY",
+        "continent": "South America",
+        "filename": "uruguay",
+        "mobile_code": "598"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "continent": "Asia",
+        "filename": "uzbekistan",
+        "mobile_code": "998"
+    },
+    {
+        "name": "Vanuatu",
+        "continent": "Oceania",
+        "code": "VU",
+        "mobile_code": "678"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "code": "VE",
+        "continent": "South America",
+        "filename": "venezuela",
+        "mobile_code": "58"
+    },
+    {
+        "name": "Viet Nam",
+        "code": "VN",
+        "continent": "Asia",
+        "filename": "vietnam",
+        "mobile_code": "84"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "continent": "Oceania",
+        "code": "WF",
+        "mobile_code": "681"
+    },
+    {
+        "name": "Western Sahara",
+        "continent": "Africa",
+        "code": "EH",
+        "mobile_code": ""
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "continent": "Asia",
+        "filename": "yemen",
+        "mobile_code": "967"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "continent": "Africa",
+        "filename": "zambia",
+        "mobile_code": "260"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "continent": "Africa",
+        "filename": "zimbabwe",
+        "mobile_code": "263"
+    }
 ]
