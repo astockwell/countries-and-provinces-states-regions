@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Distrito Federal",
-		"code": "MX-DIF",
-		"subdivision": "federal district"
+		"name": "Mexico City",
+		"code": "MX-CDMX",
+		"subdivision": "state"
 	},
 	{
 		"name": "Aguascalientes",
